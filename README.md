@@ -5,6 +5,8 @@
 > manuscript *Applying and testing a novel method to estimate animal
 > density from motion-triggered cameras* (Becker et al.)
 
+[![DOI](https://zenodo.org/badge/393173961.svg)](https://zenodo.org/badge/latestdoi/393173961)
+
 ## Repository Organization
 
 This repository is organized in the following way:
