@@ -1,0 +1,1703 @@
+project,location,WMUNIT_COD,common_name,density_km2_adj,veghf,correction,density_km2_adj_corr
+CMU 2017,FMM-6,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,LLB-149,00512,Moose,0.004916419013712699,WetOpen,0.59,0.0020157317956222068
+CMU 2017,FMM-7,00519,Moose,1.018607004220854,WetOpen,0.59,0.41762887173055013
+CMU 2017,LLB-134,00512,Moose,0,Decid,0.34,0
+CMU 2017,LLB-140,00512,Moose,0,Grass,0.71,0
+CMU 2017,LLB-143,00512,Moose,0.1284064806856276,HF,0.51,0.06291917553595752
+CMU 2017,FMM-3,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,FMM-1,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,FMM-13,00519,Moose,0,HF,0.51,0
+CMU 2017,FMM-5,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,FMM-2,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,FMM-23,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,LLB-145,00512,Moose,0.031235105908051886,HF,0.51,0.015305201894945424
+CMU 2017,LLB-136,00512,Moose,0,Conif,0.48,0
+CMU 2017,LLB-127,00512,Moose,0,Conif,0.48,0
+CMU 2017,LLB-148,00512,Moose,0,Conif,0.48,0
+CMU 2017,FMM-14,00519,Moose,0.05801427920797732,Conif,0.48,0.030167425188148207
+CMU 2017,FMM-4,00519,Moose,0,HF,0.51,0
+CMU 2017,LLB-144,00512,Moose,0,WetOpen,0.59,0
+CMU 2017,LLB-141,00512,Moose,0.2657086010010002,WetTreed,0.63,0.09831218237037007
+CMU 2017,LLB-129,00512,Moose,0,Grass,0.71,0
+CMU 2017,LLB-131,00512,Moose,0.8149260701926062,Conif,0.48,0.42376155650015523
+CMU 2017,LLB-135,00512,Moose,0,HF,0.51,0
+CMU 2017,LLB-150,00512,Moose,0,Decid,0.34,0
+CMU 2017,LLB-147,00512,Moose,0,Conif,0.48,0
+CMU 2017,LLB-142,00512,Moose,0,Conif,0.48,0
+CMU 2017,FMM-8,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,FMM-19,00519,Moose,2.259975228134156,WetOpen,0.59,0.926589843535004
+CMU 2017,LLB-130,00512,Moose,0.17194201009884655,WetTreed,0.63,0.06361854373657322
+CMU 2017,LLB-132,00512,Moose,0.4088295239540261,WetTreed,0.63,0.15126692386298965
+CMU 2017,LLB-133,00512,Moose,0,WetTreed,0.63,0
+CMU 2017,LLB-137,00512,Moose,0.5320584550146681,Decid,0.34,0.3511585803096809
+CMU 2017,LLB-138,00512,Moose,0,WetTreed,0.63,0
+CMU 2017,CHR-107,00517,Moose,0,WetOpen,0.59,0
+CMU 2017,FMM-15,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,CHR-115,00517,Moose,0,Decid,0.34,0
+CMU 2017,FMM-11,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,CHR-104,00517,Moose,0,WetTreed,0.63,0
+CMU 2017,LLB-126,00512,Moose,0,WetTreed,0.63,0
+CMU 2017,CHR-103,00517,Moose,0,Decid,0.34,0
+CMU 2017,FMM-18,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,CHR-121,00517,Moose,0.7494564843138375,WetTreed,0.63,0.2772988991961199
+CMU 2017,CHR-120,00517,Moose,0,WetTreed,0.63,0
+CMU 2017,FMM-25,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,CAL-94,00516,Moose,0,WetTreed,0.63,0
+CMU 2017,CAL-93,00516,Moose,0,Decid,0.34,0
+CMU 2017,CAL-92,00516,Moose,0,WetOpen,0.59,0
+CMU 2017,CAL-91,00516,Moose,0,WetTreed,0.63,0
+CMU 2017,CAL-86,00516,Moose,0,WetTreed,0.63,0
+CMU 2017,CAL-84,00516,Moose,0,Decid,0.34,0
+CMU 2017,CHR-106,00517,Moose,0,WetTreed,0.63,0
+CMU 2017,CAL-78,00516,Moose,0.1352483767501617,WetOpen,0.59,0.0554518344675663
+CMU 2017,CAL-81,00516,Moose,0.10958752946999907,WetOpen,0.59,0.04493088708269962
+CMU 2017,CHR-101,00517,Moose,0,Conif,0.48,0
+CMU 2017,FMM-17,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,FMM-21,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,LLB-139,00512,Moose,1.188706345073509,Grass,0.71,0.34472484007131765
+CMU 2017,CHR-105,00517,Moose,0,HF,0.51,0
+CMU 2017,CHR-112,00517,Moose,0,Decid,0.34,0
+CMU 2017,CHR-109,00517,Moose,0.029086466011891306,WetTreed,0.63,0.010761992424399782
+CMU 2017,CHR-116,00517,Moose,0,Conif,0.48,0
+CMU 2017,CHR-124,00517,Moose,0.09425257396896362,WetTreed,0.63,0.03487345236851654
+CMU 2017,CHR-113,00517,Moose,0,Shrub,0.57,0
+CMU 2017,CHR-122,00517,Moose,0,WetTreed,0.63,0
+CMU 2017,CHR-118,00517,Moose,0,WetTreed,0.63,0
+CMU 2017,CHR-111,00517,Moose,0,WetTreed,0.63,0
+CMU 2017,CHR-108,00517,Moose,0,WetTreed,0.63,0
+CMU 2017,CHR-117,00517,Moose,0,Shrub,0.57,0
+CMU 2017,CHR-114,00517,Moose,0.016190542385301425,Conif,0.48,0.008419082040356742
+CMU 2017,CHR-102,00517,Moose,0,WetTreed,0.63,0
+CMU 2017,FMM-12,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,FMM-24,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,CHR-119,00517,Moose,0,WetTreed,0.63,0
+CMU 2017,CHR-110,00517,Moose,0,WetTreed,0.63,0
+CMU 2017,FMM-9,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,CHR-123,00517,Moose,0,WetOpen,0.59,0
+CMU 2017,FMM-10,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,FMM-16,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,FMM-20,00519,Moose,0,WetTreed,0.63,0
+CMU 2017,CAL-98,00516,Moose,0.23656050179221472,WetTreed,0.63,0.08752738566311945
+CMU 2017,CAL-97,00516,Moose,0.9269771919369487,Shrub,0.57,0.398600192532888
+CMU 2017,CAL-95,00516,Moose,0,Decid,0.34,0
+CMU 2017,CAL-90,00516,Moose,0,WetTreed,0.63,0
+CMU 2017,CAL-89,00516,Moose,0,WetOpen,0.59,0
+CMU 2017,CAL-87,00516,Moose,0.4312155099168993,Shrub,0.57,0.1854226692642667
+CMU 2017,CAL-82,00516,Moose,0,HF,0.51,0
+CMU 2017,CAL-80,00516,Moose,0.0204884058623197,Decid,0.34,0.013522347869131
+CMU 2017,CAL-88,00516,Moose,0,Decid,0.34,0
+CMU 2017,CAL-100,00516,Moose,0,Decid,0.34,0
+CMU 2017,CAL-85,00516,Moose,0,Decid,0.34,0
+CMU 2017,CAL-79,00516,Moose,0.041980466848945824,HF,0.51,0.020570428755983455
+CMU 2017,CAL-77,00516,Moose,0,WetTreed,0.63,0
+CMU 2017,CAL-76,00516,Moose,0,WetTreed,0.63,0
+CMU 2018,FMM-6,00519,Moose,0,WetTreed,0.63,0
+CMU 2018,LLB-149,00512,Moose,0.6466020158305573,WetOpen,0.59,0.2651068264905285
+CMU 2018,FMM-7,00519,Moose,0.4828633266279529,WetOpen,0.59,0.1979739639174607
+CMU 2018,LLB-134,00512,Moose,0.06947681912137377,Decid,0.34,0.04585470062010668
+CMU 2018,LLB-140,00512,Moose,0,Grass,0.71,0
+CMU 2018,LLB-143,00512,Moose,0.014042528402621572,HF,0.51,0.00688083891728457
+CMU 2018,FMM-3,00519,Moose,0,WetTreed,0.63,0
+CMU 2018,FMM-1,00519,Moose,0,WetTreed,0.63,0
+CMU 2018,FMM-13,00519,Moose,0,HF,0.51,0
+CMU 2018,FMM-5,00519,Moose,0,WetTreed,0.63,0
+CMU 2018,FMM-2,00519,Moose,0,WetTreed,0.63,0
+CMU 2018,FMM-23,00519,Moose,1.1166549067405676,WetTreed,0.63,0.41316231549401
+CMU 2018,LLB-145,00512,Moose,0,HF,0.51,0
+CMU 2018,LLB-136,00512,Moose,0,Conif,0.48,0
+CMU 2018,LLB-127,00512,Moose,0,Conif,0.48,0
+CMU 2018,LLB-148,00512,Moose,0,Conif,0.48,0
+CMU 2018,LID-4,00726,Moose,0,Conif,0.48,0
+CMU 2018,LID-12,00726,Moose,0,WetTreed,0.63,0
+CMU 2018,FMM-14,00519,Moose,0,Conif,0.48,0
+CMU 2018,LLB-144,00512,Moose,0,WetOpen,0.59,0
+CMU 2018,LLB-141,00512,Moose,0,WetTreed,0.63,0
+CMU 2018,LLB-129,00512,Moose,0,Grass,0.71,0
+CMU 2018,LLB-131,00512,Moose,0,Conif,0.48,0
+CMU 2018,LLB-135,00512,Moose,0.25615586235049936,HF,0.51,0.1255163725517447
+CMU 2018,LLB-150,00512,Moose,0.012304147548556132,Decid,0.34,0.008120737382047046
+CMU 2018,LLB-147,00512,Moose,0.00935164953093604,Conif,0.48,0.004862857756086741
+CMU 2018,LLB-142,00512,Moose,0,Conif,0.48,0
+CMU 2018,FMM-8,00519,Moose,0,WetTreed,0.63,0
+CMU 2018,FMM-19,00519,Moose,3.5478407660785494,WetOpen,0.59,1.4546147140922054
+CMU 2018,LLB-130,00512,Moose,0.5858865299692326,WetTreed,0.63,0.21677801608861608
+CMU 2018,LLB-132,00512,Moose,0.7654502848545606,WetTreed,0.63,0.2832166053961874
+CMU 2018,LLB-133,00512,Moose,0,WetTreed,0.63,0
+CMU 2018,LLB-137,00512,Moose,0.2813547239050025,Decid,0.34,0.18569411777730163
+CMU 2018,LID-9,00726,Moose,0,WetTreed,0.63,0
+CMU 2018,LLB-138,00512,Moose,0,WetTreed,0.63,0
+CMU 2018,CHR-107,00517,Moose,0,WetOpen,0.59,0
+CMU 2018,FMM-15,00519,Moose,0.01189363298128009,WetTreed,0.63,0.004400644203073633
+CMU 2018,CHR-115,00517,Moose,0.11390800591413958,Decid,0.34,0.07517928390333212
+CMU 2018,LLB-146,00512,Moose,0,Conif,0.48,0
+CMU 2018,FMM-11,00519,Moose,0,WetTreed,0.63,0
+CMU 2018,CHR-104,00517,Moose,0,WetTreed,0.63,0
+CMU 2018,LLB-126,00512,Moose,0,WetTreed,0.63,0
+CMU 2018,CHR-103,00517,Moose,0.052722381899653885,Decid,0.34,0.03479677205377156
+CMU 2018,FMM-18,00519,Moose,0,WetTreed,0.63,0
+CMU 2018,CHR-121,00517,Moose,0.03768288252719691,WetTreed,0.63,0.013942666535062858
+CMU 2018,CHR-120,00517,Moose,0,WetTreed,0.63,0
+CMU 2018,FMM-25,00519,Moose,0,WetTreed,0.63,0
+CMU 2018,CAL-93,00516,Moose,0,Decid,0.34,0
+CMU 2018,CAL-92,00516,Moose,0,WetOpen,0.59,0
+CMU 2018,CAL-91,00516,Moose,0,WetTreed,0.63,0
+CMU 2018,CAL-86,00516,Moose,5.8238334112238075,WetTreed,0.63,2.1548183621528088
+CMU 2018,CAL-84,00516,Moose,0,Decid,0.34,0
+CMU 2018,CHR-106,00517,Moose,0.4060345867774023,WetTreed,0.63,0.15023279710763884
+CMU 2018,CAL-78,00516,Moose,0,WetOpen,0.59,0
+CMU 2018,CHR-101,00517,Moose,0,Conif,0.48,0
+CMU 2018,FMM-17,00519,Moose,0,WetTreed,0.63,0
+CMU 2018,FMM-21,00519,Moose,0,WetTreed,0.63,0
+CMU 2018,LLB-139,00512,Moose,0.4359424202719288,Grass,0.71,0.12642330187885936
+CMU 2018,LLB-128,00512,Moose,0.03411506821856696,Grass,0.71,0.00989336978338442
+CMU 2018,CHR-105,00517,Moose,0,HF,0.51,0
+CMU 2018,CHR-112,00517,Moose,0,Decid,0.34,0
+CMU 2018,CHR-109,00517,Moose,0.07672974953864488,WetTreed,0.63,0.028390007329298604
+CMU 2018,CHR-116,00517,Moose,0,Conif,0.48,0
+CMU 2018,CHR-124,00517,Moose,0,WetTreed,0.63,0
+CMU 2018,CHR-113,00517,Moose,0.5845973291569113,Shrub,0.57,0.2513768515374719
+CMU 2018,CHR-122,00517,Moose,0,WetTreed,0.63,0
+CMU 2018,CHR-118,00517,Moose,0.004872264426226844,WetTreed,0.63,0.0018027378377039323
+CMU 2018,CHR-111,00517,Moose,0,WetTreed,0.63,0
+CMU 2018,CHR-108,00517,Moose,0,WetTreed,0.63,0
+CMU 2018,CHR-117,00517,Moose,0,Shrub,0.57,0
+CMU 2018,CHR-114,00517,Moose,0,Conif,0.48,0
+CMU 2018,CHR-102,00517,Moose,0,WetTreed,0.63,0
+CMU 2018,FMM-12,00519,Moose,0,WetTreed,0.63,0
+CMU 2018,FMM-24,00519,Moose,0,WetTreed,0.63,0
+CMU 2018,CHR-119,00517,Moose,0,WetTreed,0.63,0
+CMU 2018,CHR-110,00517,Moose,0,WetTreed,0.63,0
+CMU 2018,FMM-9,00519,Moose,0,WetTreed,0.63,0
+CMU 2018,CHR-123,00517,Moose,0.056193720182167034,WetOpen,0.59,0.023039425274688486
+CMU 2018,FMM-10,00519,Moose,0,WetTreed,0.63,0
+CMU 2018,FMM-16,00519,Moose,0,WetTreed,0.63,0
+CMU 2018,FMM-20,00519,Moose,0.32057233337537994,WetTreed,0.63,0.11861176334889058
+CMU 2018,CAL-98,00516,Moose,0.004872264426226844,WetTreed,0.63,0.0018027378377039323
+CMU 2018,CAL-97,00516,Moose,0,Shrub,0.57,0
+CMU 2018,CAL-90,00516,Moose,0,WetTreed,0.63,0
+CMU 2018,CAL-89,00516,Moose,0,WetOpen,0.59,0
+CMU 2018,CAL-87,00516,Moose,0,Shrub,0.57,0
+CMU 2018,CAL-82,00516,Moose,0,HF,0.51,0
+CMU 2018,CAL-80,00516,Moose,0.6919032582115708,Decid,0.34,0.4566561504196367
+CMU 2018,CAL-88,00516,Moose,0,Decid,0.34,0
+CMU 2018,CAL-100,00516,Moose,0,Decid,0.34,0
+CMU 2018,CAL-85,00516,Moose,0,Decid,0.34,0
+CMU 2018,FMM-22,00519,Moose,0,WetTreed,0.63,0
+CMU 2018,CAL-96,00516,Moose,0,HF,0.51,0
+CMU 2018,CAL-83,00516,Moose,0.04957577868703104,HF,0.51,0.024292131556645207
+CMU 2018,LID-6,00726,Moose,0,Conif,0.48,0
+CMU 2018,LID-5,00726,Moose,0,WetTreed,0.63,0
+CMU 2018,LID-8,00726,Moose,0,Shrub,0.57,0
+CMU 2018,LID-7,00726,Moose,0.10126581867781065,Conif,0.48,0.05265822571246154
+CMU 2018,LID-25,00726,Moose,0,Conif,0.48,0
+CMU 2018,LID-23,00726,Moose,0.8321680047011353,WetTreed,0.63,0.30790216173942003
+CMU 2018,LID-22,00726,Moose,0.011978452474018828,Shrub,0.57,0.005150734563828097
+CMU 2018,LID-21,00726,Moose,0,Conif,0.48,0
+CMU 2018,LID-20,00726,Moose,0,HF,0.51,0
+CMU 2018,LID-19,00726,Moose,0.03610493812105185,Conif,0.48,0.018774567822946963
+CMU 2018,LID-14,00726,Moose,0,Conif,0.48,0
+CMU 2018,LID-13,00726,Moose,0.756209937104568,Decid,0.34,0.4990985584890148
+CMU 2018,LID-10,00726,Moose,0,WetTreed,0.63,0
+CMU 2018,LID-11,00726,Moose,0,Conif,0.48,0
+CMU 2018,LID-1,00726,Moose,0,WetTreed,0.63,0
+CMU 2018,LID-18,00726,Moose,0.49973098964782436,Conif,0.48,0.2598601146168687
+CMU 2018,CHR-125,00517,Moose,0,Decid,0.34,0
+CMU 2018,CAL-79,00516,Moose,0.06461928400428256,HF,0.51,0.031663449162098456
+CMU 2018,CAL-77,00516,Moose,0,WetTreed,0.63,0
+CMU 2018,CAL-76,00516,Moose,1.7952102401077559,WetTreed,0.63,0.6642277888398697
+CMU Ecosystem Monitoring Camera Program 2019,FMM-6,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,LLB-149,00512,Moose,0.906639645787555,WetOpen,0.59,0.37172225477289755
+CMU Ecosystem Monitoring Camera Program 2019,FMM-7,00519,Moose,0,WetOpen,0.59,0
+CMU Ecosystem Monitoring Camera Program 2019,LLB-134,00512,Moose,0,Decid,0.34,0
+CMU Ecosystem Monitoring Camera Program 2019,LLB-140,00512,Moose,0,Grass,0.71,0
+CMU Ecosystem Monitoring Camera Program 2019,LLB-143,00512,Moose,0,HF,0.51,0
+CMU Ecosystem Monitoring Camera Program 2019,FMM-3,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,FMM-1,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,FMM-13,00519,Moose,0,HF,0.51,0
+CMU Ecosystem Monitoring Camera Program 2019,FMM-5,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,FMM-2,00519,Moose,0.02844930730339936,WetTreed,0.63,0.010526243702257763
+CMU Ecosystem Monitoring Camera Program 2019,FMM-23,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,LLB-145,00512,Moose,0.1596063375901127,HF,0.51,0.07820710541915522
+CMU Ecosystem Monitoring Camera Program 2019,LLB-136,00512,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2019,LLB-127,00512,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2019,LLB-148,00512,Moose,0.030687762022341757,Conif,0.48,0.015957636251617714
+CMU Ecosystem Monitoring Camera Program 2019,LID-4,00726,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2019,LID-12,00726,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,FMM-14,00519,Moose,0.014041610650192384,Conif,0.48,0.00730163753810004
+CMU Ecosystem Monitoring Camera Program 2019,LLB-144,00512,Moose,0.004916419013712699,WetOpen,0.59,0.0020157317956222068
+CMU Ecosystem Monitoring Camera Program 2019,LLB-141,00512,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,LLB-129,00512,Moose,0,Grass,0.71,0
+CMU Ecosystem Monitoring Camera Program 2019,LLB-131,00512,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2019,LLB-135,00512,Moose,1.7774064631896314,HF,0.51,0.8709291669629193
+CMU Ecosystem Monitoring Camera Program 2019,LLB-150,00512,Moose,0,Decid,0.34,0
+CMU Ecosystem Monitoring Camera Program 2019,LLB-147,00512,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2019,LLB-142,00512,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2019,FMM-8,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,FMM-19,00519,Moose,1.7099647232169715,WetOpen,0.59,0.7010855365189583
+CMU Ecosystem Monitoring Camera Program 2019,LLB-130,00512,Moose,0.23020077017875415,WetTreed,0.63,0.08517428496613903
+CMU Ecosystem Monitoring Camera Program 2019,LLB-132,00512,Moose,0.025362313922812543,WetTreed,0.63,0.009384056151440641
+CMU Ecosystem Monitoring Camera Program 2019,LLB-133,00512,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,LLB-137,00512,Moose,0.8822564957648095,Decid,0.34,0.5822892872047741
+CMU Ecosystem Monitoring Camera Program 2019,LID-9,00726,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,LLB-138,00512,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-107,00517,Moose,0,WetOpen,0.59,0
+CMU Ecosystem Monitoring Camera Program 2019,FMM-15,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-115,00517,Moose,0.036162582085661414,Decid,0.34,0.02386730417653653
+CMU Ecosystem Monitoring Camera Program 2019,LLB-146,00512,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2019,FMM-11,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-104,00517,Moose,0.08119821326439904,WetTreed,0.63,0.030043338907827642
+CMU Ecosystem Monitoring Camera Program 2019,LLB-126,00512,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-103,00517,Moose,0,Decid,0.34,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-121,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-120,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,FMM-25,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CAL-94,00516,Moose,0.004976738725356962,WetTreed,0.63,0.0018413933283820759
+CMU Ecosystem Monitoring Camera Program 2019,CAL-93,00516,Moose,0,Decid,0.34,0
+CMU Ecosystem Monitoring Camera Program 2019,CAL-92,00516,Moose,0,WetOpen,0.59,0
+CMU Ecosystem Monitoring Camera Program 2019,CAL-91,00516,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CAL-86,00516,Moose,0.048428403171328925,WetTreed,0.63,0.017918509173391703
+CMU Ecosystem Monitoring Camera Program 2019,CAL-84,00516,Moose,0,Decid,0.34,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-106,00517,Moose,0.8934537426881604,WetTreed,0.63,0.3305778847946193
+CMU Ecosystem Monitoring Camera Program 2019,CAL-78,00516,Moose,0,WetOpen,0.59,0
+CMU Ecosystem Monitoring Camera Program 2019,CAL-81,00516,Moose,0,WetOpen,0.59,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-101,00517,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2019,FMM-17,00519,Moose,0.016191841238932893,WetTreed,0.63,0.00599098125840517
+CMU Ecosystem Monitoring Camera Program 2019,FMM-21,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,LLB-139,00512,Moose,0,Grass,0.71,0
+CMU Ecosystem Monitoring Camera Program 2019,LLB-128,00512,Moose,0.1511063376400679,Grass,0.71,0.04382083791561969
+CMU Ecosystem Monitoring Camera Program 2019,CHR-105,00517,Moose,0.04081326546831773,HF,0.51,0.01999850007947569
+CMU Ecosystem Monitoring Camera Program 2019,CHR-112,00517,Moose,0,Decid,0.34,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-109,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-116,00517,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-124,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-113,00517,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-122,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-118,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-111,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-108,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-117,00517,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-102,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,FMM-12,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,FMM-24,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-119,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-123,00517,Moose,0,WetOpen,0.59,0
+CMU Ecosystem Monitoring Camera Program 2019,FMM-16,00519,Moose,0.005091146512146777,WetTreed,0.63,0.0018837242094943074
+CMU Ecosystem Monitoring Camera Program 2019,FMM-20,00519,Moose,0.030568832213322246,WetTreed,0.63,0.01131046791892923
+CMU Ecosystem Monitoring Camera Program 2019,CAL-98,00516,Moose,0.026937361883064906,WetTreed,0.63,0.009966823896734015
+CMU Ecosystem Monitoring Camera Program 2019,CAL-97,00516,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2019,CAL-95,00516,Moose,0,Decid,0.34,0
+CMU Ecosystem Monitoring Camera Program 2019,CAL-90,00516,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CAL-89,00516,Moose,0,WetOpen,0.59,0
+CMU Ecosystem Monitoring Camera Program 2019,CAL-87,00516,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2019,CAL-82,00516,Moose,0,HF,0.51,0
+CMU Ecosystem Monitoring Camera Program 2019,CAL-80,00516,Moose,0.15482335693517463,Decid,0.34,0.10218341557721525
+CMU Ecosystem Monitoring Camera Program 2019,CAL-88,00516,Moose,0,Decid,0.34,0
+CMU Ecosystem Monitoring Camera Program 2019,CAL-100,00516,Moose,0,Decid,0.34,0
+CMU Ecosystem Monitoring Camera Program 2019,CAL-85,00516,Moose,0,Decid,0.34,0
+CMU Ecosystem Monitoring Camera Program 2019,FMM-22,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CAL-96,00516,Moose,0,HF,0.51,0
+CMU Ecosystem Monitoring Camera Program 2019,CAL-83,00516,Moose,0,HF,0.51,0
+CMU Ecosystem Monitoring Camera Program 2019,LID-6,00726,Moose,0.05507474839710248,Conif,0.48,0.028638869166493292
+CMU Ecosystem Monitoring Camera Program 2019,LID-5,00726,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,LID-8,00726,Moose,0.01965517246843907,Shrub,0.57,0.008451724161428802
+CMU Ecosystem Monitoring Camera Program 2019,LID-7,00726,Moose,0.25051208074027026,Conif,0.48,0.13026628198494053
+CMU Ecosystem Monitoring Camera Program 2019,LID-23,00726,Moose,0.08121620672483214,WetTreed,0.63,0.030049996488187892
+CMU Ecosystem Monitoring Camera Program 2019,LID-22,00726,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2019,LID-21,00726,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2019,LID-20,00726,Moose,0.2824566030501696,HF,0.51,0.13840373549458312
+CMU Ecosystem Monitoring Camera Program 2019,LID-19,00726,Moose,1.222820534388864,Conif,0.48,0.6358666778822093
+CMU Ecosystem Monitoring Camera Program 2019,LID-17,00726,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2019,LID-13,00726,Moose,0.19344031048212762,Decid,0.34,0.1276706049182042
+CMU Ecosystem Monitoring Camera Program 2019,LID-11,00726,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2019,LID-1,00726,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,LID-18,00726,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2019,CHR-126,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CAL-99,00516,Moose,0.061176139814645036,WetTreed,0.63,0.022635171731418664
+CMU Ecosystem Monitoring Camera Program 2019,LID-15,00726,Moose,0.26891854850523017,WetTreed,0.63,0.09949986294693516
+CMU Ecosystem Monitoring Camera Program 2019,CAL-79,00516,Moose,0.005061978903654645,HF,0.51,0.002480369662790776
+CMU Ecosystem Monitoring Camera Program 2019,CAL-77,00516,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,CAL-76,00516,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2019,LID-16,00726,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2019,LID-2,00726,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2019,LID-24,00726,Moose,0.07687545671325675,Decid,0.34,0.05073780143074945
+CMU Ecosystem Monitoring Camera Program 2019,LID-3,00726,Moose,0.0419777232066099,Conif,0.48,0.021828416067437146
+CMU Ecosystem Monitoring Camera Program 2020,FMM-6,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,LLB-149,00512,Moose,0.34597658034891254,WetOpen,0.59,0.14185039794305415
+CMU Ecosystem Monitoring Camera Program 2020,FMM-7,00519,Moose,0.6872458460074795,WetOpen,0.59,0.2817707968630666
+CMU Ecosystem Monitoring Camera Program 2020,LLB-134,00512,Moose,0.6760148909656728,Decid,0.34,0.446169828037344
+CMU Ecosystem Monitoring Camera Program 2020,LLB-140,00512,Moose,0,Grass,0.71,0
+CMU Ecosystem Monitoring Camera Program 2020,LLB-143,00512,Moose,0.15315318129978706,HF,0.51,0.07504505883689566
+CMU Ecosystem Monitoring Camera Program 2020,FMM-3,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,FMM-1,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,FMM-13,00519,Moose,0.08091689409496833,HF,0.51,0.03964927810653448
+CMU Ecosystem Monitoring Camera Program 2020,FMM-5,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,FMM-2,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,FMM-23,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,LLB-136,00512,Moose,0.23457247872539744,Conif,0.48,0.12197768893720667
+CMU Ecosystem Monitoring Camera Program 2020,LLB-127,00512,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,LID-4,00726,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,LID-12,00726,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,FMM-14,00519,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,FMM-4,00519,Moose,0,HF,0.51,0
+CMU Ecosystem Monitoring Camera Program 2020,LLB-144,00512,Moose,0,WetOpen,0.59,0
+CMU Ecosystem Monitoring Camera Program 2020,LLB-141,00512,Moose,0.29034616401260294,WetTreed,0.63,0.10742808068466309
+CMU Ecosystem Monitoring Camera Program 2020,LLB-129,00512,Moose,0,Grass,0.71,0
+CMU Ecosystem Monitoring Camera Program 2020,LLB-131,00512,Moose,0.18299826374880115,Conif,0.48,0.0951590971493766
+CMU Ecosystem Monitoring Camera Program 2020,LLB-135,00512,Moose,0.13934978738177306,HF,0.51,0.0682813958170688
+CMU Ecosystem Monitoring Camera Program 2020,LLB-150,00512,Moose,0,Decid,0.34,0
+CMU Ecosystem Monitoring Camera Program 2020,LLB-147,00512,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,LLB-142,00512,Moose,0.46568632814429045,Conif,0.48,0.24215689063503104
+CMU Ecosystem Monitoring Camera Program 2020,FMM-8,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,FMM-19,00519,Moose,1.9352539152535961,WetOpen,0.59,0.7934541052539745
+CMU Ecosystem Monitoring Camera Program 2020,LLB-130,00512,Moose,0.1889893487924621,WetTreed,0.63,0.06992605905321098
+CMU Ecosystem Monitoring Camera Program 2020,LLB-132,00512,Moose,0.5130276730918837,WetTreed,0.63,0.18982023904399697
+CMU Ecosystem Monitoring Camera Program 2020,LLB-133,00512,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,LLB-137,00512,Moose,0.16799336573431725,Decid,0.34,0.11087562138464938
+CMU Ecosystem Monitoring Camera Program 2020,LID-9,00726,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,LLB-138,00512,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-107,00517,Moose,0,WetOpen,0.59,0
+CMU Ecosystem Monitoring Camera Program 2020,FMM-15,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-115,00517,Moose,0.20666144145671553,Decid,0.34,0.13639655136143222
+CMU Ecosystem Monitoring Camera Program 2020,LLB-146,00512,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,FMM-11,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-104,00517,Moose,0.03320224435550289,WetTreed,0.63,0.01228483041153607
+CMU Ecosystem Monitoring Camera Program 2020,LLB-126,00512,Moose,0.10487697573852106,WetTreed,0.63,0.03880448102325279
+CMU Ecosystem Monitoring Camera Program 2020,CHR-103,00517,Moose,0,Decid,0.34,0
+CMU Ecosystem Monitoring Camera Program 2020,FMM-18,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-121,00517,Moose,0.011828640451327739,WetTreed,0.63,0.004376596966991263
+CMU Ecosystem Monitoring Camera Program 2020,CHR-120,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,FMM-25,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-106,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-101,00517,Moose,0.08777105135948464,Conif,0.48,0.045640946706932015
+CMU Ecosystem Monitoring Camera Program 2020,FMM-17,00519,Moose,0.0254628335108521,WetTreed,0.63,0.009421248399015278
+CMU Ecosystem Monitoring Camera Program 2020,FMM-21,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,LLB-139,00512,Moose,0.18361734094277776,Grass,0.71,0.05324902887340556
+CMU Ecosystem Monitoring Camera Program 2020,LLB-128,00512,Moose,0.09449241187156762,Grass,0.71,0.027402799442754613
+CMU Ecosystem Monitoring Camera Program 2020,CHR-105,00517,Moose,0,HF,0.51,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-112,00517,Moose,0,Decid,0.34,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-109,00517,Moose,0.06033335311764515,WetTreed,0.63,0.022323340653528704
+CMU Ecosystem Monitoring Camera Program 2020,CHR-116,00517,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-124,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-113,00517,Moose,0.37705620678411117,Shrub,0.57,0.1621341689171678
+CMU Ecosystem Monitoring Camera Program 2020,CHR-122,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-118,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-111,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-108,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-117,00517,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-114,00517,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-102,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,FMM-12,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,FMM-24,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-119,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-110,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,FMM-9,00519,Moose,0.03188998080821818,WetTreed,0.63,0.011799292899040725
+CMU Ecosystem Monitoring Camera Program 2020,CHR-123,00517,Moose,0,WetOpen,0.59,0
+CMU Ecosystem Monitoring Camera Program 2020,FMM-10,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,FMM-16,00519,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,FMM-20,00519,Moose,0.11756169659024908,WetTreed,0.63,0.043497827738392156
+CMU Ecosystem Monitoring Camera Program 2020,FMM-22,00519,Moose,0.34683809376650987,WetTreed,0.63,0.12833009469360865
+CMU Ecosystem Monitoring Camera Program 2020,LID-6,00726,Moose,0.1429865476209112,Conif,0.48,0.07435300476287383
+CMU Ecosystem Monitoring Camera Program 2020,LID-5,00726,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,LID-8,00726,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,LID-7,00726,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,LID-25,00726,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,LID-23,00726,Moose,0.3519889690941941,WetTreed,0.63,0.1302359185648518
+CMU Ecosystem Monitoring Camera Program 2020,LID-22,00726,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,LID-21,00726,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,LID-20,00726,Moose,0.14204891351820076,HF,0.51,0.06960396762391836
+CMU Ecosystem Monitoring Camera Program 2020,LID-19,00726,Moose,0.2969150944116897,Conif,0.48,0.15439584909407864
+CMU Ecosystem Monitoring Camera Program 2020,LID-17,00726,Moose,0.09119617541266942,Conif,0.48,0.0474220112145881
+CMU Ecosystem Monitoring Camera Program 2020,LID-14,00726,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,LID-13,00726,Moose,0.3832304095358485,Decid,0.34,0.25293207029366
+CMU Ecosystem Monitoring Camera Program 2020,LID-10,00726,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,LID-11,00726,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,LID-18,00726,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-126,00517,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,CHR-125,00517,Moose,0,Decid,0.34,0
+CMU Ecosystem Monitoring Camera Program 2020,LID-15,00726,Moose,0.04709508689321674,WetTreed,0.63,0.017425182150490194
+CMU Ecosystem Monitoring Camera Program 2020,LID-16,00726,Moose,0.007208788564046031,Conif,0.48,0.0037485700533039365
+CMU Ecosystem Monitoring Camera Program 2020,LID-2,00726,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,LID-24,00726,Moose,0,Decid,0.34,0
+CMU Ecosystem Monitoring Camera Program 2020,LID-3,00726,Moose,0.24540720826849044,Conif,0.48,0.12761174829961502
+CMU Ecosystem Monitoring Camera Program 2020,ADE-1,00530,Moose,1.2145861077996716,Shrub,0.57,0.5222720263538588
+CMU Ecosystem Monitoring Camera Program 2020,ADE-10,00530,Moose,0.7136172196087975,WetTreed,0.63,0.2640383712552551
+CMU Ecosystem Monitoring Camera Program 2020,ADE-11,00530,Moose,1.1276394439450756,Decid,0.34,0.7442420330037498
+CMU Ecosystem Monitoring Camera Program 2020,ADE-13,00530,Moose,0,Decid,0.34,0
+CMU Ecosystem Monitoring Camera Program 2020,ADE-14,00530,Moose,0.10766795715076463,Decid,0.34,0.07106085171950464
+CMU Ecosystem Monitoring Camera Program 2020,ADE-16,00530,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,ADE-17,00530,Moose,0.07067353987300294,Decid,0.34,0.046644536316181935
+CMU Ecosystem Monitoring Camera Program 2020,ADE-18,00530,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,ADE-19,00530,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,ADE-2,00530,Moose,0.10019020065026168,Shrub,0.57,0.04308178627961253
+CMU Ecosystem Monitoring Camera Program 2020,ADE-20,00530,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,ADE-21,00530,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,ADE-22,00530,Moose,0.7151496278051419,Conif,0.48,0.3718778064586738
+CMU Ecosystem Monitoring Camera Program 2020,ADE-23,00530,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,ADE-25,00530,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,ADE-3,00530,Moose,0.037086920076277535,Shrub,0.57,0.01594737563279934
+CMU Ecosystem Monitoring Camera Program 2020,ADE-4,00530,Moose,0.06802052635287761,Conif,0.48,0.035370673703496364
+CMU Ecosystem Monitoring Camera Program 2020,ADE-5,00530,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,ADE-7,00530,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,ADE-8,00530,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,ADE-9,00530,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,MRG-1,00530,Moose,0.15730284430413483,Conif,0.48,0.08179747903815011
+CMU Ecosystem Monitoring Camera Program 2020,MRG-10,00530,Moose,0.3431472523457773,Shrub,0.57,0.14755331850868425
+CMU Ecosystem Monitoring Camera Program 2020,MRG-11,00530,Moose,0.9636895785219074,Conif,0.48,0.5011185808313918
+CMU Ecosystem Monitoring Camera Program 2020,MRG-13,00530,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,MRG-14,00530,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,MRG-15,00530,Moose,0.06530044037430204,Shrub,0.57,0.02807918936094988
+CMU Ecosystem Monitoring Camera Program 2020,MRG-16,00530,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,MRG-17,00530,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,MRG-2,00530,Moose,0.02382599289914128,Shrub,0.57,0.010245176946630751
+CMU Ecosystem Monitoring Camera Program 2020,MRG-20,00530,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,MRG-21,00530,Moose,0.024788257754238506,WetTreed,0.63,0.009171655369068247
+CMU Ecosystem Monitoring Camera Program 2020,MRG-22,00530,Moose,0.9236144632548929,Conif,0.48,0.48027952089254433
+CMU Ecosystem Monitoring Camera Program 2020,MRG-23,00530,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,MRG-24,00530,Moose,0.075488464536051,Shrub,0.57,0.032460039750501934
+CMU Ecosystem Monitoring Camera Program 2020,MRG-25,00530,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,MRG-3,00530,Moose,0.11371518652373305,Conif,0.48,0.05913189699234119
+CMU Ecosystem Monitoring Camera Program 2020,MRG-4,00530,Moose,0.39258100234360577,Conif,0.48,0.204142121218675
+CMU Ecosystem Monitoring Camera Program 2020,MRG-5,00530,Moose,0.045352022747853674,Shrub,0.57,0.019501369781577082
+CMU Ecosystem Monitoring Camera Program 2020,MRG-6,00530,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,MRG-7,00530,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,MRG-9,00530,Moose,0.2900590180074324,Conif,0.48,0.15083068936386484
+CMU Ecosystem Monitoring Camera Program 2020,RIC-1,00530,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,RIC-10,00530,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,RIC-11,00530,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,RIC-12,00530,Moose,0.03128642331341178,Shrub,0.57,0.013453162024767068
+CMU Ecosystem Monitoring Camera Program 2020,RIC-13,00530,Moose,0.03551720208184823,Conif,0.48,0.01846894508256108
+CMU Ecosystem Monitoring Camera Program 2020,RIC-14,00530,Moose,0.6440517744471217,WetTreed,0.63,0.23829915654543501
+CMU Ecosystem Monitoring Camera Program 2020,RIC-15,00530,Moose,0.04360307587054103,Conif,0.48,0.02267359945268134
+CMU Ecosystem Monitoring Camera Program 2020,RIC-16,00530,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,RIC-17,00530,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,RIC-18,00530,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,RIC-19,00530,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,RIC-2,00530,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,RIC-20,00530,Moose,0.014065599434441878,Shrub,0.57,0.006048207756810009
+CMU Ecosystem Monitoring Camera Program 2020,RIC-21,00530,Moose,0.8343164449317836,Conif,0.48,0.4338445513645275
+CMU Ecosystem Monitoring Camera Program 2020,RIC-22,00530,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,RIC-23,00530,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,RIC-24,00530,Moose,0,Conif,0.48,0
+CMU Ecosystem Monitoring Camera Program 2020,RIC-25,00530,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,RIC-3,00530,Moose,0.13802403724765316,Shrub,0.57,0.05935033601649087
+CMU Ecosystem Monitoring Camera Program 2020,RIC-4,00530,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,RIC-5,00530,Moose,0.7358463987660587,Shrub,0.57,0.31641395146940526
+CMU Ecosystem Monitoring Camera Program 2020,RIC-6,00530,Moose,0,WetTreed,0.63,0
+CMU Ecosystem Monitoring Camera Program 2020,RIC-8,00530,Moose,0,Shrub,0.57,0
+CMU Ecosystem Monitoring Camera Program 2020,RIC-9,00530,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2015,1023-NE,00258,Moose,0.16579554448461337,HF,0.51,0.08123981679746055
+ABMI Ecosystem Health 2015,1023-NW,00258,Moose,0.19349215269812972,WetOpen,0.59,0.07933178260623319
+ABMI Ecosystem Health 2015,294-SE,00531,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,294-SW,00531,Moose,0.7172002462595823,Conif,0.48,0.37294412805498284
+ABMI Ecosystem Health 2015,295-NE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,295-NW,00531,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,295-SE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,295-SW,00531,Moose,0.07679962894556253,WetTreed,0.63,0.028415862709858134
+ABMI Ecosystem Health 2015,296-NE,00531,Moose,0.5558205108450414,Conif,0.48,0.28902666563942153
+ABMI Ecosystem Health 2015,296-NW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,296-SE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,296-SW,00531,Moose,0.630509215747874,WetTreed,0.63,0.23328840982671337
+ABMI Ecosystem Health 2015,329-NE,00530,Moose,1.089173423800586,Conif,0.48,0.5663701803763047
+ABMI Ecosystem Health 2015,329-NW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,329-SE,00530,Moose,0.03155028565845696,Conif,0.48,0.01640614854239762
+ABMI Ecosystem Health 2015,329-SW,00530,Moose,0.1564812980693734,WetTreed,0.63,0.05789808028566815
+ABMI Ecosystem Health 2015,330-NE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,330-NW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,330-SW,00530,Moose,5.539625707194805,WetTreed,0.63,2.049661511662078
+ABMI Ecosystem Health 2015,331-NE,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,331-NW,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,331-SE,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,331-SW,00530,Moose,0.10499044289209654,Decid,0.34,0.06929369230878371
+ABMI Ecosystem Health 2015,358-NE,00530,Moose,1.2352314231108272,WetTreed,0.63,0.45703562655100605
+ABMI Ecosystem Health 2015,358-NW,00530,Moose,0.6426079595225815,Conif,0.48,0.3341561389517424
+ABMI Ecosystem Health 2015,358-SE,00530,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2015,358-SW,00530,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,359-NE,00530,Moose,0.03773541824952353,Conif,0.48,0.019622417489752235
+ABMI Ecosystem Health 2015,359-NW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,359-SE,00530,Moose,0.01122381004648045,Decid,0.34,0.007407714630677097
+ABMI Ecosystem Health 2015,359-SW,00530,Moose,0.008972986426294587,Decid,0.34,0.005922171041354426
+ABMI Ecosystem Health 2015,360-NE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,360-NW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,360-SE,00530,Moose,1.1852279108756967,Conif,0.48,0.6163185136553623
+ABMI Ecosystem Health 2015,360-SW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,388-NE,00530,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,388-NW,00530,Moose,0.0962254700227623,Shrub,0.57,0.04137695210978779
+ABMI Ecosystem Health 2015,388-SE,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,388-SW,00530,Moose,0.023999276659559435,Shrub,0.57,0.010319688963610558
+ABMI Ecosystem Health 2015,389-NE,00530,Moose,1.9078418629007512,Decid,0.34,1.2591756295144956
+ABMI Ecosystem Health 2015,389-NW,00530,Moose,6.0021598980425415,Conif,0.48,3.1211231469821215
+ABMI Ecosystem Health 2015,389-SE,00530,Moose,0.6183507740344252,WetTreed,0.63,0.2287897863927373
+ABMI Ecosystem Health 2015,389-SW,00530,Moose,4.852963174025021,Conif,0.48,2.523540850493011
+ABMI Ecosystem Health 2015,390-NE,00530,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2015,390-NW,00530,Moose,2.053343388461418,HF,0.51,1.0061382603460949
+ABMI Ecosystem Health 2015,390-SE,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,390-SW,00530,Moose,0.06462781801145243,WetTreed,0.63,0.023912292664237396
+ABMI Ecosystem Health 2015,412-NE,00531,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2015,412-NW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,412-SE,00531,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2015,412-SW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,413-NE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,413-NW,00531,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,413-SE,00531,Moose,0.5440642811222169,WetTreed,0.63,0.20130378401522026
+ABMI Ecosystem Health 2015,413-SW,00531,Moose,0.04082741830346201,WetTreed,0.63,0.015106144772280944
+ABMI Ecosystem Health 2015,414-NE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,414-NW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,414-SE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,414-SW,00531,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,442-NE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,442-NW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,442-SE,00531,Moose,1.353518705187844,WetTreed,0.63,0.5008019209195023
+ABMI Ecosystem Health 2015,442-SW,00531,Moose,0.7807258371033035,WetOpen,0.59,0.3200975932123544
+ABMI Ecosystem Health 2015,443-NE,00531,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,443-NW,00531,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,443-SE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,443-SW,00531,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,444-NE,00531,Moose,0.4948052928275722,WetTreed,0.63,0.18307795834620172
+ABMI Ecosystem Health 2015,444-NW,00531,Moose,0.04383325489175534,WetTreed,0.63,0.016218304309949475
+ABMI Ecosystem Health 2015,444-SE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,444-SW,00531,Moose,2.420385971619618,WetTreed,0.63,0.8955428094992587
+ABMI Ecosystem Health 2015,512-NE,00529,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,512-NW,00529,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,512-SE,00529,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,512-SW,00529,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,514-NE,00529,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,514-NW,00529,Moose,0.05836428407997397,WetTreed,0.63,0.021594785109590366
+ABMI Ecosystem Health 2015,514-SE,00529,Moose,1.363288543976633,Decid,0.34,0.8997704390245777
+ABMI Ecosystem Health 2015,514-SW,00529,Moose,2.9252483263193154,WetTreed,0.63,1.0823418807381466
+ABMI Ecosystem Health 2015,543-NE,00529,Moose,0.7939272587972046,Decid,0.34,0.523991990806155
+ABMI Ecosystem Health 2015,543-NW,00529,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2015,543-SE,00529,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,543-SW,00529,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2015,544-NE,00529,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,544-NW,00529,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,544-SE,00529,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,544-SW,00529,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,545-NW,00529,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2015,545-SW,00529,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2015,574-NE,00519,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2015,574-NW,00519,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,574-SE,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,574-SW,00519,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,575-NE,00529,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,575-NW,00529,Moose,1.747098975554112,WetTreed,0.63,0.6464266209550215
+ABMI Ecosystem Health 2015,575-SE,00529,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2015,575-SW,00529,Moose,2.167069541764022,HF,0.51,1.0618640754643707
+ABMI Ecosystem Health 2015,576-NE,00529,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,576-NW,00529,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2015,576-SE,00529,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2015,576-SW,00529,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,600-NE,00519,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,600-NW,00519,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,600-SE,00519,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,600-SW,00519,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,601-NE,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,601-NW,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,601-SE,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,601-SW,00519,Moose,0.7689053198777783,Shrub,0.57,0.3306292875474447
+ABMI Ecosystem Health 2015,632-NW,00519,Moose,2.281467052210307,Decid,0.34,1.5057682544588022
+ABMI Ecosystem Health 2015,632-SE,00519,Moose,2.0346114283647494,WetTreed,0.63,0.7528062284949573
+ABMI Ecosystem Health 2015,632-SW,00519,Moose,2.229450976152799,Conif,0.48,1.1593145075994555
+ABMI Ecosystem Health 2015,633-NE,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,633-NW,00512,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2015,633-SE,00512,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2015,633-SW,00512,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2015,663-NE,00516,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,663-NW,00516,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,663-SE,00516,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,663-SW,00516,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,664-NE,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,664-NW,00512,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,664-SE,00512,Moose,0.15310393534988842,Conif,0.48,0.07961404638194199
+ABMI Ecosystem Health 2015,664-SW,00512,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,665-NE,00512,Moose,0.29712170161147455,WetTreed,0.63,0.10993502959624558
+ABMI Ecosystem Health 2015,665-NW,00512,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2015,665-SE,00512,Moose,0.31364046033596565,WetTreed,0.63,0.11604697032430729
+ABMI Ecosystem Health 2015,665-SW,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,791-NE,00515,Moose,0.017831678261030395,Shrub,0.57,0.007667621652243071
+ABMI Ecosystem Health 2015,791-NW,00515,Moose,0.48626719740701185,WetTreed,0.63,0.17991886304059437
+ABMI Ecosystem Health 2015,791-SE,00515,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,791-SW,00515,Moose,0.13670149092014627,Conif,0.48,0.07108477527847606
+ABMI Ecosystem Health 2015,792-NE,00515,Moose,0.27417480553507195,Conif,0.48,0.14257089887823743
+ABMI Ecosystem Health 2015,792-NW,00515,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,792-SE,00515,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2015,792-SW,00515,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,793-NE,00515,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,793-NW,00515,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,793-SE,00515,Moose,0.06687550290047599,Decid,0.34,0.04413783191431415
+ABMI Ecosystem Health 2015,793-SW,00515,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,794-NE,00515,Moose,0.007089122585533685,HF,0.51,0.0034736700669115053
+ABMI Ecosystem Health 2015,794-NW,00515,Moose,1.5826859421693267,WetTreed,0.63,0.5855937986026508
+ABMI Ecosystem Health 2015,794-SE,00515,Moose,0.008866809936719554,Decid,0.34,0.005852094558234905
+ABMI Ecosystem Health 2015,794-SW,00515,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2015,823-NE,00503,Moose,1.063152601679042,Shrub,0.57,0.4571556187219881
+ABMI Ecosystem Health 2015,823-NW,00503,Moose,6.954699100145007,Shrub,0.57,2.9905206130623534
+ABMI Ecosystem Health 2015,823-SE,00503,Moose,1.4541933728072858,Decid,0.34,0.9597676260528085
+ABMI Ecosystem Health 2015,823-SW,00503,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2015,824-SE,00503,Moose,13.617091970356501,Shrub,0.57,5.855349547253296
+ABMI Ecosystem Health 2015,824-SW,00503,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,825-NE,00515,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,825-NW,00515,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,825-SE,00515,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,825-SW,00515,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,855-NE,00503,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2015,855-NW,00503,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,855-SE,00503,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2015,855-SW,00503,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2015,856-NE,00503,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2015,856-NW,00503,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,856-SE,00503,Moose,0.6427616364335795,HF,0.51,0.31495320185245396
+ABMI Ecosystem Health 2015,856-SW,00503,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,857-NE,00503,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,857-NW,00503,Moose,1.190816824558172,Conif,0.48,0.6192247487702495
+ABMI Ecosystem Health 2015,857-SE,00503,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,857-SW,00503,Moose,0.6679277218309073,Decid,0.34,0.44083229640839877
+ABMI Ecosystem Health 2015,990-NE,00258,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2015,990-NW,00258,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2015,990-SW,00258,Moose,1.9262575253190986,HF,0.51,0.9438661874063583
+ABMI Ecosystem Health 2015,991-NE,00258,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2015,991-NW,00258,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2015,991-SE,00258,Moose,20.13616051689528,Decid,0.34,13.289865941150884
+ABMI Ecosystem Health 2015,991-SW,00258,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,240-NE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,240-NW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,240-SE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,240-SW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,241-NE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,241-NW,00530,Moose,0.10751939690488173,Conif,0.48,0.0559100863905385
+ABMI Ecosystem Health 2016,241-SE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,241-SW,00530,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,242-NE,00530,Moose,0.06898996640480258,Conif,0.48,0.03587478253049734
+ABMI Ecosystem Health 2016,242-NW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,242-SE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,242-SW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,270-NE,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,270-NW,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,270-SE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,270-SW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,271-NE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,271-NW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,271-SE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,272-NE,00530,Moose,5.174398959027365,Conif,0.48,2.6906874586942298
+ABMI Ecosystem Health 2016,272-NW,00530,Moose,3.9284699135580086,Conif,0.48,2.0428043550501647
+ABMI Ecosystem Health 2016,272-SE,00530,Moose,0.24522810980399157,Conif,0.48,0.12751861709807563
+ABMI Ecosystem Health 2016,272-SW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,300-NE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,300-NW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,300-SW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,301-NE,00530,Moose,0.2668177881852914,Conif,0.48,0.13874524985635153
+ABMI Ecosystem Health 2016,301-NW,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,301-SE,00530,Moose,0.010432377947921007,WetTreed,0.63,0.0038599798407307727
+ABMI Ecosystem Health 2016,301-SW,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,302-NE,00530,Moose,0.6729975719563014,WetTreed,0.63,0.2490091016238315
+ABMI Ecosystem Health 2016,302-NW,00530,Moose,0.0843663999696144,Conif,0.48,0.043870527984199485
+ABMI Ecosystem Health 2016,302-SE,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,302-SW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,323-NE,00531,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2016,323-NW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,323-SE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,323-SW,00531,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2016,324-NE,00531,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,324-NW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,324-SE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,324-SW,00531,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2016,325-NE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,325-NW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,325-SE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,325-SW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,352-NE,00531,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2016,352-NW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,352-SE,00531,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2016,352-SW,00531,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2016,353-NE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,353-NW,00531,Moose,0.4542425848794764,WetTreed,0.63,0.16806975640540625
+ABMI Ecosystem Health 2016,353-SE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,353-SW,00531,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2016,354-NE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,354-NW,00531,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,354-SE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,354-SW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,382-NE,00531,Moose,3.1679045039022444,Shrub,0.57,1.3621989366779652
+ABMI Ecosystem Health 2016,382-NW,00531,Moose,0.33709466719769055,Shrub,0.57,0.14495070689500694
+ABMI Ecosystem Health 2016,382-SE,00531,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,382-SW,00531,Moose,1.8225481946993831,Conif,0.48,0.9477250612436793
+ABMI Ecosystem Health 2016,383-NE,00531,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,383-NW,00531,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,383-SE,00531,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,383-SW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,384-NE,00531,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,384-SE,00531,Moose,0.6945036623913952,Conif,0.48,0.3611419044435255
+ABMI Ecosystem Health 2016,384-SW,00531,Moose,0.18083975778585612,Conif,0.48,0.09403667404864519
+ABMI Ecosystem Health 2016,384-NW,00531,Moose,0.7900039471561289,Conif,0.48,0.410802052521187
+ABMI Ecosystem Health 2016,421-NE,00530,Moose,6.114391663000364,Conif,0.48,3.1794836647601894
+ABMI Ecosystem Health 2016,421-NW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,421-SE,00530,Moose,0.07642167698671219,Conif,0.48,0.03973927203309034
+ABMI Ecosystem Health 2016,421-SW,00530,Moose,0.2597540076544591,Conif,0.48,0.13507208398031875
+ABMI Ecosystem Health 2016,422-NE,00530,Moose,0.2720380617374923,Conif,0.48,0.141459792103496
+ABMI Ecosystem Health 2016,422-NW,00530,Moose,0.03706514105817432,Conif,0.48,0.01927387335025065
+ABMI Ecosystem Health 2016,422-SE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,422-SW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,451-NE,00530,Moose,6.09421849261057,Conif,0.48,3.1689936161574965
+ABMI Ecosystem Health 2016,451-NW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,451-SE,00530,Moose,0.08069245668285568,Conif,0.48,0.041960077475084956
+ABMI Ecosystem Health 2016,451-SW,00530,Moose,0.33802945489724767,Conif,0.48,0.1757753165465688
+ABMI Ecosystem Health 2017,452-NE,00530,Moose,2.102364597193674,Conif,0.48,1.0932295905407106
+ABMI Ecosystem Health 2016,452-NW,00530,Moose,1.8246367914523547,WetTreed,0.63,0.6751156128373712
+ABMI Ecosystem Health 2016,452-SE,00530,Moose,1.4545327349273451,Conif,0.48,0.75635702216221945
+ABMI Ecosystem Health 2016,452-SW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,481-NE,00529,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,481-NW,00529,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2017,481-SE,00529,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,481-SW,00529,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,482-NE,00529,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,482-NW,00529,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,482-SE,00529,Moose,0.04092803098881939,Conif,0.48,0.021282576114186085
+ABMI Ecosystem Health 2017,482-SW,00529,Moose,2.8836215860468246,Decid,0.34,1.903190246790904
+ABMI Ecosystem Health 2017,483-NE,00529,Moose,6.491026245269935,Decid,0.34,4.284077321878156
+ABMI Ecosystem Health 2016,483-NW,00529,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,483-SE,00529,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,483-SW,00529,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,497-NE,00520,Moose,3.8298291832874636,WetTreed,0.63,1.4170367978163616
+ABMI Ecosystem Health 2016,497-NW,00520,Moose,18.432547011505058,Decid,0.34,12.165481027593337
+ABMI Ecosystem Health 2016,497-SE,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,497-SW,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,498-NE,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,498-NW,00520,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,498-SE,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,498-SW,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,528-NE,00520,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,528-NW,00520,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,528-SE,00520,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,528-SW,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,529-NE,00520,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,529-NW,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,529-SE,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,529-SW,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,539-NE,00519,Moose,1.302976249910538,Decid,0.34,0.859964324940955
+ABMI Ecosystem Health 2016,539-NW,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,539-SE,00519,Moose,1.478437349789332,Decid,0.34,0.975768650860959
+ABMI Ecosystem Health 2016,539-SW,00519,Moose,1.9634103333078197,Decid,0.34,1.2958508199831609
+ABMI Ecosystem Health 2016,559-NE,00520,Moose,0.13683710513341052,Shrub,0.57,0.05883995520736653
+ABMI Ecosystem Health 2016,559-NW,00520,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,559-SE,00520,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,559-SW,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,560-NE,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,560-NW,00520,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,560-SE,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,560-SW,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,561-NE,00542,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,561-NW,00542,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,561-SE,00542,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,561-SW,00542,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,569-NE,00519,Moose,4.75492145894575,WetTreed,0.63,1.7593209398099277
+ABMI Ecosystem Health 2016,569-NW,00519,Moose,0.1390773988708737,WetTreed,0.63,0.051458637582223264
+ABMI Ecosystem Health 2017,569-SE,00519,Moose,0.1358573046720437,Shrub,0.57,0.058418641008978804
+ABMI Ecosystem Health 2016,569-SW,00519,Moose,0.7137760069763488,WetTreed,0.63,0.26409712258124907
+ABMI Ecosystem Health 2016,570-NE,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,570-NW,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,570-SE,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,570-SW,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,584-NE,00527,Moose,0.03710948121228602,Decid,0.34,0.02449225760010877
+ABMI Ecosystem Health 2016,584-NW,00527,Moose,4.266445161503832,Decid,0.34,2.8158538065925285
+ABMI Ecosystem Health 2016,584-SE,00527,Moose,0.11421311557545795,Decid,0.34,0.07538065627980224
+ABMI Ecosystem Health 2016,584-SW,00527,Moose,0.061395579849016925,Decid,0.34,0.040521082700351166
+ABMI Ecosystem Health 2016,585-NE,00527,Moose,2.217536757713075,Conif,0.48,1.153119114010799
+ABMI Ecosystem Health 2016,585-NW,00527,Moose,3.3719626945163306,HF,0.51,1.652261720313002
+ABMI Ecosystem Health 2016,585-SE,00527,Moose,0.11821613543304277,Conif,0.48,0.06147239042518224
+ABMI Ecosystem Health 2016,585-SW,00527,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,586-NE,00520,Moose,0.9968692783889986,Decid,0.34,0.657933723736739
+ABMI Ecosystem Health 2016,586-NW,00520,Moose,0.40743277974200875,Decid,0.34,0.2689056346297257
+ABMI Ecosystem Health 2016,586-SE,00520,Moose,1.436717976381464,Decid,0.34,0.948233864411766
+ABMI Ecosystem Health 2016,586-SW,00520,Moose,1.4989637095239774,Decid,0.34,0.989316048285825
+ABMI Ecosystem Health 2016,593-NE,00542,Moose,0.7412410179157545,Conif,0.48,0.38544532931619235
+ABMI Ecosystem Health 2016,593-NW,00542,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,593-SE,00542,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,593-SW,00542,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,594-NE,00542,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,594-NW,00542,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,594-SE,00542,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,594-SW,00542,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,595-NE,00542,Moose,0,Grass,0.71,0
+ABMI Ecosystem Health 2016,595-NW,00542,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,595-SE,00542,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,595-SW,00542,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,608-NE,00517,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,608-NW,00517,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,608-SE,00517,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,608-SW,00517,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,616-NE,00526,Moose,0.39379585063011596,Decid,0.34,0.2599052614158765
+ABMI Ecosystem Health 2016,616-NW,00526,Moose,5.823358101644501,Decid,0.34,3.84341634708537
+ABMI Ecosystem Health 2016,616-SE,00526,Moose,0.04492638393906246,Decid,0.34,0.02965141339978122
+ABMI Ecosystem Health 2016,616-SW,00526,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,617-NE,00527,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,617-NW,00527,Moose,1.3894143084020272,WetTreed,0.63,0.5140832941087501
+ABMI Ecosystem Health 2016,617-SE,00527,Moose,3.141832092488152,WetTreed,0.63,1.1624778742206163
+ABMI Ecosystem Health 2016,617-SW,00527,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,618-NE,00523,Moose,4.78959263747294,Decid,0.34,3.16113114073214
+ABMI Ecosystem Health 2016,618-NW,00523,Moose,2.0717679665979523,Decid,0.34,1.3673668579546483
+ABMI Ecosystem Health 2016,618-SE,00523,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,618-SW,00523,Moose,0.8626712130781732,HF,0.51,0.42270889440830484
+ABMI Ecosystem Health 2016,625-NE,00542,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,625-NW,00542,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,625-SE,00542,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,625-SW,00542,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,626-NE,00542,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,626-NW,00542,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,626-SE,00542,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,626-SW,00542,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,627-NE,00542,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,627-NW,00542,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,627-SE,00542,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,627-SW,00542,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,640-NE,00517,Moose,0.08733203238872425,Conif,0.48,0.04541265684213661
+ABMI Ecosystem Health 2016,640-NW,00517,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,640-SE,00517,Moose,1.1682366991152457,Conif,0.48,0.6074830835399279
+ABMI Ecosystem Health 2016,640-SW,00517,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,648-NE,00526,Moose,2.8866907291313604,HF,0.51,1.4144784572743665
+ABMI Ecosystem Health 2016,648-NW,00526,Moose,7.46985332432149,WetOpen,0.59,3.0626398629718112
+ABMI Ecosystem Health 2016,648-SE,00526,Moose,7.870371720575259,Conif,0.48,4.092593294699134
+ABMI Ecosystem Health 2016,649-NE,00527,Moose,0.038887733244505195,HF,0.51,0.019054989289807544
+ABMI Ecosystem Health 2016,649-NW,00527,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,649-SE,00527,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,649-SW,00527,Moose,0.2723200016321956,Shrub,0.57,0.11709760070184412
+ABMI Ecosystem Health 2016,650-NE,00523,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,650-NW,00523,Moose,1.2855542779239009,HF,0.51,0.6299215961827114
+ABMI Ecosystem Health 2016,650-SE,00523,Moose,0.11930877037631807,HF,0.51,0.05846129748439585
+ABMI Ecosystem Health 2016,657-NE,00542,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,657-NW,00542,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,657-SE,00542,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,657-SW,00542,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,658-NE,00542,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,658-NW,00542,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,658-SE,00542,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,658-SW,00542,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,659-NE,00542,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,659-NW,00542,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,659-SE,00542,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,659-SW,00542,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,672-NE,00517,Moose,0.2683533803372719,Conif,0.48,0.1395437577753814
+ABMI Ecosystem Health 2016,672-NW,00517,Moose,0.08453738104624048,Conif,0.48,0.04395943814404505
+ABMI Ecosystem Health 2016,672-SE,00517,Moose,0.26511122690928995,WetTreed,0.63,0.09809115395643728
+ABMI Ecosystem Health 2016,672-SW,00517,Moose,7.0044025277391695,WetTreed,0.63,2.5916289352634925
+ABMI Ecosystem Health 2016,697-NE,00512,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2016,697-NW,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,697-SE,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,697-SW,00512,Moose,2.8816308947253075,WetOpen,0.59,1.1814686668373762
+ABMI Ecosystem Health 2016,698-NE,00512,Moose,0,Grass,0.71,0
+ABMI Ecosystem Health 2016,698-NW,00512,Moose,4.872002258519419,WetTreed,0.63,1.8026408356521852
+ABMI Ecosystem Health 2016,698-SE,00512,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,698-SW,00512,Moose,0.05913425693802915,Decid,0.34,0.03902860957909923
+ABMI Ecosystem Health 2016,699-NE,00512,Moose,1.4059118085810642,WetOpen,0.59,0.5764238415182363
+ABMI Ecosystem Health 2016,699-NW,00512,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2016,699-SE,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,699-SW,00512,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,728-NE,00512,Moose,0.49940917286238334,Decid,0.34,0.329610054089173
+ABMI Ecosystem Health 2016,728-NW,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,728-SE,00512,Moose,2.3453628983153556,Decid,0.34,1.5479395128881346
+ABMI Ecosystem Health 2016,728-SW,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,729-NW,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,729-NE,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,729-SE,00512,Moose,0.2373912356696016,Conif,0.48,0.12344344254819284
+ABMI Ecosystem Health 2016,729-SW,00512,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2016,730-NE,00512,Moose,0.552929510257231,Conif,0.48,0.2875233453337601
+ABMI Ecosystem Health 2016,730-NW,00512,Moose,0.3090385708207015,WetOpen,0.59,0.12670581403648765
+ABMI Ecosystem Health 2016,730-SE,00512,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,730-SW,00512,Moose,0.11777517381273613,WetTreed,0.63,0.043576814310712364
+ABMI Ecosystem Health 2016,759-NE,00515,Moose,4.048153141078139,WetTreed,0.63,1.4978166621989113
+ABMI Ecosystem Health 2016,759-NW,00515,Moose,0.05631634908685337,WetTreed,0.63,0.02083704916213575
+ABMI Ecosystem Health 2016,759-SE,00515,Moose,0.03967222349338933,WetTreed,0.63,0.014678722692554052
+ABMI Ecosystem Health 2016,759-SW,00515,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2016,760-NE,00515,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,760-NW,00515,Moose,0.07876232604266735,Decid,0.34,0.051983135188160445
+ABMI Ecosystem Health 2016,760-SE,00515,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,760-SW,00515,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,761-NE,00515,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2016,761-NW,00515,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,761-SE,00515,Moose,0.5926215237377085,WetTreed,0.63,0.21926996378295213
+ABMI Ecosystem Health 2016,761-SW,00515,Moose,0.048437312818740634,Shrub,0.57,0.020828044512058476
+ABMI Ecosystem Health 2016,890-NE,00502,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,890-NW,00502,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,890-SE,00502,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,890-SW,00502,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,891B-NE,00502,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,891B-NW,00502,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,891B-SW,00502,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,892-NE,00502,Moose,1.1562454998487053,Decid,0.34,0.7631220299001454
+ABMI Ecosystem Health 2016,892-NW,00502,Moose,0.38888649500131,Decid,0.34,0.2566650867008646
+ABMI Ecosystem Health 2016,892-SE,00502,Moose,0.10182833031764385,Conif,0.48,0.052950731765174806
+ABMI Ecosystem Health 2016,892-SW,00502,Moose,0.025861751007789098,Conif,0.48,0.013448110524050332
+ABMI Ecosystem Health 2016,923-NE,00502,Moose,2.655775221595319,WetOpen,0.59,1.088867840854081
+ABMI Ecosystem Health 2016,923-NW,00502,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,923-SE,00502,Moose,0.5008342320199023,Decid,0.34,0.33055059313313545
+ABMI Ecosystem Health 2016,923-SW,00502,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,924-NE,00502,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,924-NW,00502,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,924-SE,00502,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,924-SW,00502,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,925-NE,00258,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,925-NW,00258,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,925-SE,00258,Moose,0.01151609021285745,HF,0.51,0.0056428842043001505
+ABMI Ecosystem Health 2016,925-SW,00258,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,957-NE,00258,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,957-NW,00258,Moose,0.030425478205680066,HF,0.51,0.014908484320783231
+ABMI Ecosystem Health 2016,957-SE,00258,Moose,0.05893742615051331,HF,0.51,0.028879338813751522
+ABMI Ecosystem Health 2016,957-SW,00258,Moose,0.9348958747497093,HF,0.51,0.45809897862735754
+ABMI Ecosystem Health 2016,958-NE,00258,Moose,2.3120686114242828,Conif,0.48,1.2022756779406272
+ABMI Ecosystem Health 2016,958-NW,00258,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2016,958-SE,00258,Moose,0.12156450563365287,Decid,0.34,0.08023257371821088
+ABMI Ecosystem Health 2016,958-SW,00258,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,1428-NE,00214,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,1428-NW,00214,Moose,0.6367006410222953,HF,0.51,0.31198331410092467
+ABMI Ecosystem Health 2016,1428-SE,00214,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2016,1428-SW,00214,Moose,0.2808730073481349,Grass,0.71,0.08145317213095914
+ABMI Ecosystem Health 2016,1429-NE,00214,Moose,0.7312865061826033,Decid,0.34,0.4826490940805181
+ABMI Ecosystem Health 2016,1429-NW,00214,Moose,0,Grass,0.71,0
+ABMI Ecosystem Health 2016,1429-SW,00214,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2014,921-SW,00504,Moose,9.96155566122314,Decid,0.34,6.574626736407272
+ABMI Ecosystem Health 2014,921-SE,00504,Moose,4.907791892754078,Decid,0.34,3.2391426492176913
+ABMI Ecosystem Health 2014,921-NE,00504,Moose,2.174781154694779,Decid,0.34,1.435355562098554
+ABMI Ecosystem Health 2014,921-NW,00504,Moose,1.872427280427825,Decid,0.34,1.2358020050823644
+ABMI Ecosystem Health 2014,540-NE,00519,Moose,0.053907571804983546,Conif,0.48,0.028031937338591446
+ABMI Ecosystem Health 2014,540-SE,00519,Moose,0.13656480965809795,Conif,0.48,0.07101370102221094
+ABMI Ecosystem Health 2014,540-SW,00519,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2014,540-NW,00519,Moose,0.17198464083393217,Conif,0.48,0.08943201323364473
+ABMI Ecosystem Health 2014,572-SW,00519,Moose,0.6094508706566442,Conif,0.48,0.31691445274145497
+ABMI Ecosystem Health 2014,572-SE,00519,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2014,572-NE,00519,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2014,572-NW,00519,Moose,0.2334857111440226,Decid,0.34,0.1541005693550549
+ABMI Ecosystem Health 2014,541-SW,00519,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2014,541-NW,00519,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2014,541-NE,00519,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2014,541-SE,00519,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,210-NW,00530,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2017,210-NE,00530,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2017,181-NE,00530,Moose,0.21564397333891125,WetOpen,0.59,0.08841402906895363
+ABMI Ecosystem Health 2017,181-NW,00530,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2017,181-SW,00530,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2017,181-SE,00530,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2017,212-SW,00530,Moose,0.9529432053063247,Conif,0.48,0.49553046675928886
+ABMI Ecosystem Health 2017,212-SE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,183-NE,00530,Moose,0.7589954853431281,Conif,0.48,0.3946776523784266
+ABMI Ecosystem Health 2017,183-NW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,154-NE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,154-NW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,212-NW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,212-NE,00530,Moose,1.3044782034306317,Conif,0.48,0.6783286657839285
+ABMI Ecosystem Health 2017,183-SE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,183-SW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,154-SE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,154-SW,00530,Moose,0.22388575798664434,Conif,0.48,0.11642059415305506
+ABMI Ecosystem Health 2017,210-SW,00530,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,210-SE,00530,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,211-SE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,211-SW,00530,Moose,0.01508225377536162,Conif,0.48,0.007842771963188043
+ABMI Ecosystem Health 2017,182-SE,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,211-NE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,211-NW,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,182-SW,00530,Moose,0.9048747476507711,Conif,0.48,0.470534868778401
+ABMI Ecosystem Health 2017,182-NE,00530,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,182-NW,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,317-NW,00540,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,317-NE,00540,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,318-NW,00540,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,318-NE,00540,Moose,7.0788500537487575,Shrub,0.57,3.0439055231119663
+ABMI Ecosystem Health 2017,319-SW,00540,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,319-SE,00540,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,317-SE,00540,Moose,0.16948335171772208,Decid,0.34,0.11185901213369656
+ABMI Ecosystem Health 2017,318-SW,00540,Moose,3.9738507077997056,Shrub,0.57,1.7087558043538735
+ABMI Ecosystem Health 2017,319-NW,00540,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,347-NW,00540,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,378-NE,00540,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,378-SE,00540,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,347-SW,00540,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,347-SE,00540,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,348-NW,00540,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,348-NE,00540,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2017,378-NW,00540,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,378-SW,00540,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,377-NW,00540,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,377-SW,00540,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,376-NE,00528,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,376-NW,00528,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,346-NE,00540,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,346-NW,00540,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,376-SE,00528,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,376-SW,00528,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,346-SE,00540,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,317-SW,00540,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,318-SE,00540,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,319-NE,00540,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,347-NE,00540,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,348-SW,00540,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,348-SE,00540,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,392-NW,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,392-NE,00530,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,391-NW,00530,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,391-SW,00530,Moose,4.802221857685155,WetTreed,0.63,1.7768220873435074
+ABMI Ecosystem Health 2017,361-SE,00530,Moose,0.3116667318415366,WetTreed,0.63,0.11531669078136854
+ABMI Ecosystem Health 2017,361-SW,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,362-SE,00530,Moose,0.5183472552089784,Conif,0.48,0.26954057270866877
+ABMI Ecosystem Health 2017,362-NE,00530,Moose,4.274573526283123,Conif,0.48,2.222778233667224
+ABMI Ecosystem Health 2017,332-NW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,332-SW,00530,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,332-NE,00530,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,332-SE,00530,Moose,0.530017991531675,Decid,0.34,0.34981187441090544
+ABMI Ecosystem Health 2017,362-SW,00530,Moose,0.9516624110787272,Conif,0.48,0.49486445376093813
+ABMI Ecosystem Health 2017,362-NW,00530,Moose,0.16449831318835523,Conif,0.48,0.08553912285794472
+ABMI Ecosystem Health 2017,361-NE,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,361-NW,00530,Moose,0.11156028292370297,Conif,0.48,0.058011347120325546
+ABMI Ecosystem Health 2017,392-SE,00530,Moose,1.9148905634703486,Shrub,0.57,0.82340294229225
+ABMI Ecosystem Health 2017,392-SW,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,391-NE,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,391-SE,00530,Moose,0,Grass,0.71,0
+ABMI Ecosystem Health 2017,415-NW,00531,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,415-NE,00531,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,416-SE,00531,Moose,0.4738093052470569,Decid,0.34,0.3127141414630575
+ABMI Ecosystem Health 2017,416-SW,00531,Moose,0.02625429361767675,Decid,0.34,0.017327833787666655
+ABMI Ecosystem Health 2017,445-SE,00531,Moose,0.48063598319203776,WetTreed,0.63,0.17783531378105397
+ABMI Ecosystem Health 2017,445-SW,00531,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,417-NE,00531,Moose,0.4869222893836774,HF,0.51,0.2385919217980019
+ABMI Ecosystem Health 2017,417-NW,00531,Moose,2.680215105466474,Conif,0.48,1.3937118548425664
+ABMI Ecosystem Health 2017,446-NE,00531,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,446-NW,00531,Moose,0.01108351242089944,Decid,0.34,0.00731511819779363
+ABMI Ecosystem Health 2017,417-SE,00531,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,417-SW,00531,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,415-SE,00531,Moose,0.06074647923545663,Conif,0.48,0.03158816920243745
+ABMI Ecosystem Health 2017,415-SW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,416-NE,00531,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,416-NW,00531,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,445-NE,00531,Moose,0.02522521273403197,WetTreed,0.63,0.009333328711591829
+ABMI Ecosystem Health 2017,445-NW,00531,Moose,0.14819538334285434,WetTreed,0.63,0.054832291836856104
+ABMI Ecosystem Health 2017,446-SE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,446-SW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,555-SE,00520,Moose,0.324375980463328,Decid,0.34,0.21408814710579646
+ABMI Ecosystem Health 2017,555-NE,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,555-NW,00520,Moose,1.721065396685152,HF,0.51,0.8433220443757244
+ABMI Ecosystem Health 2017,555-SW,00520,Moose,0.8131737475845391,HF,0.51,0.39845513631642415
+ABMI Ecosystem Health 2017,587-NE,00520,Moose,0.43417732757115096,Shrub,0.57,0.18669625085559494
+ABMI Ecosystem Health 2017,587-SE,00520,Moose,0.02543207063494963,Decid,0.34,0.016785166619066753
+ABMI Ecosystem Health 2017,587-SW,00520,Moose,1.3511560230392017,WetTreed,0.63,0.4999277285245046
+ABMI Ecosystem Health 2017,588-NE,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,588-SE,00520,Moose,3.6094062774038584,Decid,0.34,2.3822081430865465
+ABMI Ecosystem Health 2017,588-SW,00520,Moose,0.08380346545133803,Decid,0.34,0.05531028719788309
+ABMI Ecosystem Health 2017,588-NW,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,589-NE,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,589-NW,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,589-SW,00520,Moose,1.4495546478366865,Decid,0.34,0.956706067572213
+ABMI Ecosystem Health 2017,589-SE,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,619-NE,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,619-SE,00520,Moose,0.025054638611127583,Conif,0.48,0.013028412077786343
+ABMI Ecosystem Health 2017,619-NW,00520,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,619-SW,00520,Moose,0.00694966595531369,Conif,0.48,0.003613826296763119
+ABMI Ecosystem Health 2017,620-SW,00520,Moose,0.05700347402525196,Decid,0.34,0.03762229285666629
+ABMI Ecosystem Health 2017,620-SE,00520,Moose,1.3404067496060281,Decid,0.34,0.8846684547399785
+ABMI Ecosystem Health 2017,620-NW,00520,Moose,0.049574390136162896,Decid,0.34,0.03271909748986751
+ABMI Ecosystem Health 2017,620-NE,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,621-NW,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,621-NE,00520,Moose,0.2594487048764025,Shrub,0.57,0.11156294309685308
+ABMI Ecosystem Health 2017,621-SE,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,621-SW,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,651-NW,00520,Moose,0.07418017983342377,WetTreed,0.63,0.027446666538366797
+ABMI Ecosystem Health 2017,651-NE,00520,Moose,0.2635796446601039,Decid,0.34,0.17396256547566857
+ABMI Ecosystem Health 2017,651-SE,00520,Moose,0.11024707372433523,Conif,0.48,0.057328478336654325
+ABMI Ecosystem Health 2017,651-SW,00520,Moose,0.1837762287625092,WetTreed,0.63,0.06799720464212841
+ABMI Ecosystem Health 2017,652-NW,00520,Moose,1.2319966284774273,Shrub,0.57,0.5297585502452938
+ABMI Ecosystem Health 2017,652-SW,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,652-NE,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,652-SE,00520,Moose,1.895292363023291,Shrub,0.57,0.8149757161000152
+ABMI Ecosystem Health 2017,653-NE,00544,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,653-SE,00544,Moose,0.8042312716760596,HF,0.51,0.3940733231212692
+ABMI Ecosystem Health 2017,653-NW,00544,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,653-SW,00544,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,636-NE,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,636-SW,00512,Moose,2.0601034617075786,Decid,0.34,1.3596682847270016
+ABMI Ecosystem Health 2017,636-NW,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,668-SW,00512,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,668-SE,00512,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,668-NE,00512,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,668-NW,00512,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,602-SE,00519,Moose,0.030792050232254533,HF,0.51,0.01508810461380472
+ABMI Ecosystem Health 2017,602-SW,00519,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,602-NW,00519,Moose,0.037025956051703876,Shrub,0.57,0.01592116110223267
+ABMI Ecosystem Health 2017,602-NE,00519,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,636-SE,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,603-NW,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,603-SW,00519,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,667-SE,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,667-SW,00512,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,667-NW,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,667-NE,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,635-SW,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,635-NW,00512,Moose,0.3240714071963963,Conif,0.48,0.1685171317421261
+ABMI Ecosystem Health 2017,635-NE,00512,Moose,0.49437240806925536,Conif,0.48,0.2570736521960128
+ABMI Ecosystem Health 2017,635-SE,00512,Moose,0.03973552726088933,Conif,0.48,0.020662474175662453
+ABMI Ecosystem Health 2017,634-NW,00512,Moose,4.222474202108286,WetOpen,0.59,1.7312144228643973
+ABMI Ecosystem Health 2017,634-SW,00512,Moose,0.5186834802590982,Shrub,0.57,0.22303389651141223
+ABMI Ecosystem Health 2017,634-SE,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,634-NE,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,666-NW,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,666-NE,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,666-SE,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,666-SW,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,604-SE,00519,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2017,604-NE,00519,Moose,0.24192024986295596,WetTreed,0.63,0.08951049244929371
+ABMI Ecosystem Health 2017,604-NW,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,604-SW,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,603-NE,00519,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,603-SE,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,753-SE,00511,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,753-SW,00511,Moose,1.372451912833576,Decid,0.34,0.90581826247016
+ABMI Ecosystem Health 2017,753-NE,00511,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,724-SE,00516,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,724-NE,00516,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,724-SW,00516,Moose,0.08734450376977153,Decid,0.34,0.0576473724880492
+ABMI Ecosystem Health 2017,724-NW,00516,Moose,0.05710712545913175,WetTreed,0.63,0.021129636419878747
+ABMI Ecosystem Health 2017,722-SW,00511,Moose,0.1701635013307141,WetTreed,0.63,0.06296049549236421
+ABMI Ecosystem Health 2017,722-NW,00511,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,722-SE,00511,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,722-NE,00511,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,753-NW,00511,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,691-NE,00511,Moose,0.38587674006433487,Decid,0.34,0.25467864844246096
+ABMI Ecosystem Health 2017,691-SE,00511,Moose,1.2874770259508743,Decid,0.34,0.8497348371275769
+ABMI Ecosystem Health 2017,754-SW,00511,Moose,1.8737043945743637,Decid,0.34,1.2366449004190798
+ABMI Ecosystem Health 2017,754-SE,00511,Moose,1.2374063368411075,Decid,0.34,0.8166881823151309
+ABMI Ecosystem Health 2017,691-NW,00511,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,691-SW,00511,Moose,0.8239063630527567,Decid,0.34,0.5437781996148193
+ABMI Ecosystem Health 2017,755-SE,00511,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,755-NE,00511,Moose,0.11845211643093681,Grass,0.71,0.03435111376497168
+ABMI Ecosystem Health 2017,755-SW,00511,Moose,0.6662454639716325,HF,0.51,0.32646027734609995
+ABMI Ecosystem Health 2017,693-SW,00516,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,693-NW,00516,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,692-NW,00511,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,692-NE,00511,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,692-SE,00511,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,692-SW,00511,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,693-SE,00516,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,693-NE,00516,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,755-NW,00511,Moose,0.20260373227351033,Decid,0.34,0.13371846330051682
+ABMI Ecosystem Health 2017,723-NE,00511,Moose,2.189241170273416,Decid,0.34,1.4448991723804543
+ABMI Ecosystem Health 2017,723-NW,00511,Moose,1.6934754575093778,HF,0.51,0.8298029741795951
+ABMI Ecosystem Health 2017,723-SE,00511,Moose,0.7375725942504952,WetTreed,0.63,0.27290185987268323
+ABMI Ecosystem Health 2017,723-SW,00511,Moose,0.6751009606997856,Conif,0.48,0.35105249956388856
+ABMI Ecosystem Health 2017,754-NW,00511,Moose,0.3992920648299209,WetOpen,0.59,0.16370974658026757
+ABMI Ecosystem Health 2017,754-NE,00511,Moose,3.230797829186443,WetTreed,0.63,1.195395196798984
+ABMI Ecosystem Health 2017,858-SE,00514,Moose,1.6508789940372586,Decid,0.34,1.0895801360645905
+ABMI Ecosystem Health 2017,858-NE,00514,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,858-NW,00514,Moose,2.0911815117091668,Shrub,0.57,0.8992080500349419
+ABMI Ecosystem Health 2017,858-SW,00514,Moose,0.031670877693954325,Decid,0.34,0.02090277927800985
+ABMI Ecosystem Health 2017,859-NE,00502,Moose,2.59682449635234,Decid,0.34,1.7139041675925442
+ABMI Ecosystem Health 2017,859-NW,00502,Moose,0.9141337691130457,WetTreed,0.63,0.3382294945718269
+ABMI Ecosystem Health 2017,859-SW,00502,Moose,0.2602151080360427,Decid,0.34,0.17174197130378815
+ABMI Ecosystem Health 2017,859-SE,00502,Moose,0.05493327257149121,Decid,0.34,0.03625595989718419
+ABMI Ecosystem Health 2017,860-NW,00501,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2017,827-SW,00514,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,827-SE,00514,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2017,828-NE,00514,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2017,828-NW,00514,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,828-SW,00514,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2017,828-SE,00514,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2017,860-SE,00501,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2017,860-SW,00501,Moose,0.020991439829336513,HF,0.51,0.010285805516374891
+ABMI Ecosystem Health 2017,860-NE,00501,Moose,0.18197113506315232,Shrub,0.57,0.07824758807715551
+ABMI Ecosystem Health 2017,827-NW,00514,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2017,827-NE,00514,Moose,0.023867907819406026,Conif,0.48,0.012411312066091133
+ABMI Ecosystem Health 2017,992-SW,00256,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2017,1026-NE,00256,Moose,0,Grass,0.71,0
+ABMI Ecosystem Health 2017,1026-NW,00256,Moose,0,Grass,0.71,0
+ABMI Ecosystem Health 2017,1026-SE,00256,Moose,0,Grass,0.71,0
+ABMI Ecosystem Health 2017,1026-SW,00256,Moose,0,Grass,0.71,0
+ABMI Ecosystem Health 2017,1027-NE,00256,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2017,1027-SE,00256,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2017,1027-SW,00256,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2017,1060-NE,00256,Moose,0.3480195424355552,HF,0.51,0.17052957579342207
+ABMI Ecosystem Health 2017,1060-NW,00256,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2017,1060-SE,00256,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2017,1060-SW,00256,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2017,1061-NE,00256,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2017,992-NE,00256,Moose,0.6439771340400725,HF,0.51,0.3155487956796355
+ABMI Ecosystem Health 2017,992-SE,00256,Moose,3.621091359297237,Decid,0.34,2.389920297136176
+ABMI Ecosystem Health 2017,993-NE,00256,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2017,993-NW,00256,Moose,0,Grass,0.71,0
+ABMI Ecosystem Health 2017,993-SE,00256,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2017,993-SW,00256,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2017,1381-NE,00214,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2017,1381-NW,00214,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2017,1381-SE,00214,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2017,1381-SW,00214,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2017,1427-SE,00314,Moose,0.04748527388191047,Decid,0.34,0.031340280762060906
+ABMI Ecosystem Health 2017,1427-NE,00314,Moose,0.07022170540085125,Decid,0.34,0.04634632556456182
+ABMI Ecosystem Health 2017,1427-NW,00314,Moose,0.1298232898649957,Decid,0.34,0.08568337131089715
+ABMI Ecosystem Health 2017,1427-SW,00314,Moose,2.204332307095897,Decid,0.34,1.454859322683292
+ABMI Ecosystem Health 2018,298-NE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,298-SW,00531,Moose,0.60599047695204,Decid,0.34,0.39995371478834635
+ABMI Ecosystem Health 2018,299-NE,00531,Moose,0.05672481487924092,Conif,0.48,0.02949690373720528
+ABMI Ecosystem Health 2018,213-NE,00530,Moose,0.026076802779866005,Conif,0.48,0.013559937445530324
+ABMI Ecosystem Health 2018,239-NE,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2018,213-SW,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,239-SW,00530,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2018,297-NE,00531,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2018,297-SW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,299-SW,00531,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,322-SE,00531,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,322-SW,00531,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,321-SW,00531,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,321-SE,00531,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,351-SE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,351-SW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,349-NE,00540,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,349-SE,00540,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,350-SE,00531,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,350-SW,00531,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,379-SE,00540,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,380-SE,00540,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,380-SW,00540,Moose,0.02401505152295656,WetTreed,0.63,0.008885569063493927
+ABMI Ecosystem Health 2018,381-SE,00531,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2018,381-SW,00531,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,381-NE,00531,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,381-NW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,380-NW,00540,Moose,0.14206447361873667,WetTreed,0.63,0.05256385523893257
+ABMI Ecosystem Health 2018,380-NE,00540,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,379-NW,00540,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,379-SW,00540,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2018,350-NE,00531,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,350-NW,00531,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,349-NW,00540,Moose,0.2661408157129652,Shrub,0.57,0.11444055075657505
+ABMI Ecosystem Health 2018,349-SW,00540,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,320-SE,00540,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,320-SW,00540,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2018,351-NE,00531,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,351-NW,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,322-NE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,322-NW,00531,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,321-NW,00531,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,321-NE,00531,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,320-NE,00540,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,320-NW,00540,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,404-SW,00528,Moose,0.24489720220828062,WetTreed,0.63,0.09061196481706384
+ABMI Ecosystem Health 2018,404-SE,00528,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,463-NE,00528,Moose,2.4472279408023327,Shrub,0.57,1.0523080145450032
+ABMI Ecosystem Health 2018,463-NW,00528,Moose,0.93273335253286,Shrub,0.57,0.4010753415891299
+ABMI Ecosystem Health 2018,464-NE,00528,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,464-SE,00528,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,405-SW,00528,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,405-SE,00528,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2018,435-NW,00528,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,435-NE,00528,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,465-NE,00528,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,465-SE,00528,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,434-SW,00528,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,434-NW,00528,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,433-SE,00528,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,433-NE,00528,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,403-NE,00528,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,403-SE,00528,Moose,3.175374258633578,Decid,0.34,2.0957470106981613
+ABMI Ecosystem Health 2018,465-NW,00528,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,465-SW,00528,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,435-SW,00528,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,435-SE,00528,Moose,1.0998382221131602,Decid,0.34,0.7258932265946856
+ABMI Ecosystem Health 2018,464-NW,00528,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,464-SW,00528,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,463-SE,00528,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,463-SW,00528,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,434-NE,00528,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,434-SE,00528,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,405-NW,00528,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,405-NE,00528,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,404-NW,00528,Moose,0.11272622029712755,Decid,0.34,0.07439930539610418
+ABMI Ecosystem Health 2018,404-NE,00528,Moose,1.469062177818598,WetTreed,0.63,0.5435530057928812
+ABMI Ecosystem Health 2018,433-NW,00528,Moose,0.550454712022687,WetTreed,0.63,0.2036682434483942
+ABMI Ecosystem Health 2018,433-SW,00528,Moose,0.8869191156067165,Decid,0.34,0.5853666163004329
+ABMI Ecosystem Health 2018,403-NW,00528,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,403-SW,00528,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,449-NE,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,449-SW,00530,Moose,0.031347645894945306,Conif,0.48,0.01630077586537156
+ABMI Ecosystem Health 2018,418-NE,00530,Moose,0.737703272873568,WetTreed,0.63,0.27295021096322014
+ABMI Ecosystem Health 2018,418-SW,00530,Moose,0.12045687008215836,HF,0.51,0.059023866340257594
+ABMI Ecosystem Health 2018,419-NE,00530,Moose,0.05093869353464584,WetTreed,0.63,0.01884731660781896
+ABMI Ecosystem Health 2018,420-NE,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,420-SW,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,480-NE,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,480-SW,00530,Moose,0.0316872591987719,WetTreed,0.63,0.011724285903545602
+ABMI Ecosystem Health 2018,450-SW,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,450-NE,00530,Moose,0.055593821945335416,WetTreed,0.63,0.020569714119774103
+ABMI Ecosystem Health 2018,419-SW,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,479-SW,00530,Moose,0.08674370441736846,WetTreed,0.63,0.03209517063442633
+ABMI Ecosystem Health 2018,479-NE,00530,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,565-NW,00542,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,565-SW,00542,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,565-NE,00542,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2018,565-SE,00542,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,623-SE,00520,Moose,1.371408836044024,Decid,0.34,0.9051298317890557
+ABMI Ecosystem Health 2018,592-SE,00542,Moose,0.17453492875869356,Shrub,0.57,0.07505001936623824
+ABMI Ecosystem Health 2018,622-SE,00520,Moose,1.932213221365836,Decid,0.34,1.2752607261014517
+ABMI Ecosystem Health 2018,622-NE,00520,Moose,0.3703975905611449,Decid,0.34,0.2444624097703556
+ABMI Ecosystem Health 2018,624-SE,00542,Moose,1.1033974655942884,Conif,0.48,0.57376668210903
+ABMI Ecosystem Health 2018,624-NE,00542,Moose,1.1597833792410481,Decid,0.34,0.7654570302990916
+ABMI Ecosystem Health 2018,592-NW,00542,Moose,0.23003113397089264,WetOpen,0.59,0.09431276492806599
+ABMI Ecosystem Health 2018,592-SW,00542,Moose,0.8364711209533094,WetTreed,0.63,0.3094943147527245
+ABMI Ecosystem Health 2018,622-NW,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,622-SW,00520,Moose,0.23600614836508996,Decid,0.34,0.15576405792095935
+ABMI Ecosystem Health 2018,590-SE,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,590-NW,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,590-SW,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,623-NE,00520,Moose,0.6270589391641792,Decid,0.34,0.4138588998483582
+ABMI Ecosystem Health 2018,623-NW,00520,Moose,0.021644675632635658,Decid,0.34,0.014285485917539533
+ABMI Ecosystem Health 2018,592-NE,00542,Moose,0.1747671727736206,Shrub,0.57,0.07514988429265687
+ABMI Ecosystem Health 2018,624-SW,00542,Moose,0.16278145747432998,Decid,0.34,0.10743576193305777
+ABMI Ecosystem Health 2018,624-NW,00542,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2018,590-NE,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,623-SW,00520,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,669-NE,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,607-SW,00517,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,607-NE,00517,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,639-SW,00517,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2018,639-NE,00517,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,670-SW,00517,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,670-NE,00517,Moose,0.6197377259237453,Decid,0.34,0.4090268991096719
+ABMI Ecosystem Health 2018,671-SW,00517,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,671-NE,00517,Moose,0.8825315025348565,WetTreed,0.63,0.3265366559378969
+ABMI Ecosystem Health 2018,638-SW,00517,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,638-NE,00517,Moose,0.7463520071973203,Shrub,0.57,0.32093136309484777
+ABMI Ecosystem Health 2018,637-NE,00512,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,637-SW,00512,Moose,0.07252296162637574,Decid,0.34,0.04786515467340798
+ABMI Ecosystem Health 2018,605-SW,00519,Moose,0.4161902262508497,HF,0.51,0.20393321086291635
+ABMI Ecosystem Health 2018,605-NE,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,669-SW,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,606-SW,00517,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,606-NE,00517,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,679-SW,00526,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,679-NE,00526,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,681-SW,00523,Moose,1.2549443109332605,Decid,0.34,0.8282632452159518
+ABMI Ecosystem Health 2018,681-NE,00523,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,712-NE,00523,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,712-SW,00523,Moose,12.290501541063836,WetTreed,0.63,4.547485570193619
+ABMI Ecosystem Health 2018,743-NE,00523,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,743-SW,00523,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,742-NE,00523,Moose,0.19248545638889203,HF,0.51,0.09431787363055709
+ABMI Ecosystem Health 2018,742-SW,00523,Moose,1.0156463392423458,Grass,0.71,0.29453743838028035
+ABMI Ecosystem Health 2018,680-NE,00523,Moose,2.465236167643514,Decid,0.34,1.6270558706447191
+ABMI Ecosystem Health 2018,680-SW,00523,Moose,1.2276924071370874,Decid,0.34,0.8102769887104776
+ABMI Ecosystem Health 2018,711-NE,00523,Moose,1.6822378933318545,Grass,0.71,0.48784898906623786
+ABMI Ecosystem Health 2018,711-SW,00523,Moose,0.3297540526985127,Decid,0.34,0.21763767478101836
+ABMI Ecosystem Health 2018,725-NE,00516,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,757-SW,00516,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,757-NE,00516,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,695-SW,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,695-NE,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,696-NE,00512,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,694-NE,00516,Moose,0.06405832151447234,WetTreed,0.63,0.023701578960354765
+ABMI Ecosystem Health 2018,694-SW,00516,Moose,5.2231967820979275,WetTreed,0.63,1.9325828093762332
+ABMI Ecosystem Health 2018,696-SW,00512,Moose,0.4748126793349241,HF,0.51,0.2326582128741128
+ABMI Ecosystem Health 2018,756-NE,00516,Moose,0.4778545446301155,WetTreed,0.63,0.17680618151314273
+ABMI Ecosystem Health 2018,726-NE,00516,Moose,0.4489696955281859,WetTreed,0.63,0.1661187873454288
+ABMI Ecosystem Health 2018,758-NE,00503,Moose,0.528600557631218,WetTreed,0.63,0.19558220632355067
+ABMI Ecosystem Health 2018,758-SW,00503,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,727-SW,00512,Moose,0.9403445304022131,Conif,0.48,0.48897915580915086
+ABMI Ecosystem Health 2018,727-NE,00512,Moose,2.5336773763084244,WetTreed,0.63,0.937460629234117
+ABMI Ecosystem Health 2018,801-SW,00357,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,801-NE,00357,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,801-SE,00357,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,801-NW,00357,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,831-SW,00357,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,831-SE,00357,Moose,0.12562563761658097,WetOpen,0.59,0.0515065114227982
+ABMI Ecosystem Health 2018,831-NE,00357,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,832-SE,00357,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,832-SW,00357,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,832-NW,00357,Moose,0.17373178973105968,HF,0.51,0.08512857696821924
+ABMI Ecosystem Health 2018,832-NE,00357,Moose,2.3782929236364336,WetTreed,0.63,0.8799683817454804
+ABMI Ecosystem Health 2018,833-NW,00357,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,833-NE,00357,Moose,0.06630986440362675,HF,0.51,0.03249183355777711
+ABMI Ecosystem Health 2018,833-SE,00357,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,833-SW,00357,Moose,1.5145073315407371,Decid,0.34,0.9995748388168864
+ABMI Ecosystem Health 2018,799-NE,00358,Moose,0.5344646778777131,HF,0.51,0.2618876921600794
+ABMI Ecosystem Health 2018,799-NW,00358,Moose,7.964104132226498,WetOpen,0.59,3.2652826942128645
+ABMI Ecosystem Health 2018,799-SE,00358,Moose,0.10744957892947836,HF,0.51,0.052650293675444396
+ABMI Ecosystem Health 2018,799-SW,00358,Moose,0.30245680904785577,Decid,0.34,0.1996214939715848
+ABMI Ecosystem Health 2018,767-NW,00358,Moose,0.0853462121497913,Decid,0.34,0.05632850001886225
+ABMI Ecosystem Health 2018,767-NE,00358,Moose,4.3923023124992975,Decid,0.34,2.898919526249536
+ABMI Ecosystem Health 2018,767-SW,00358,Moose,1.782571926081178,Conif,0.48,0.9269374015622126
+ABMI Ecosystem Health 2018,767-SE,00358,Moose,0.8154029272098959,Decid,0.34,0.5381659319585312
+ABMI Ecosystem Health 2018,768-NW,00358,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,768-NE,00358,Moose,2.030844893966523,HF,0.51,0.9951139980435963
+ABMI Ecosystem Health 2018,768-SE,00358,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,800-NW,00357,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,800-SW,00357,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,800-SE,00357,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,800-NE,00357,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,769-NW,00358,Moose,0.8585163234458978,Decid,0.34,0.5666207734742925
+ABMI Ecosystem Health 2018,769-SW,00358,Moose,3.0885281764357435,Decid,0.34,2.0384285964475906
+ABMI Ecosystem Health 2018,769-NE,00358,Moose,2.0416878317166978,Decid,0.34,1.3475139689330204
+ABMI Ecosystem Health 2018,769-SE,00358,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,829-NE,00514,Moose,0.267459576227932,Decid,0.34,0.17652332031043508
+ABMI Ecosystem Health 2018,829-SW,00514,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,830-NE,00514,Moose,0.5905265517716339,Decid,0.34,0.3897475241692783
+ABMI Ecosystem Health 2018,861-SW,00501,Moose,5.590873256390249,HF,0.51,2.739527895631222
+ABMI Ecosystem Health 2018,861-NE,00501,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,862-SW,00501,Moose,0.9341935849972306,HF,0.51,0.45775485664864296
+ABMI Ecosystem Health 2018,862-NE,00501,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,940-SW,00349,Moose,0.48936443145198594,Decid,0.34,0.3229805247583107
+ABMI Ecosystem Health 2018,940-NW,00349,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2018,940-NE,00349,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,940-SE,00349,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,939-SW,00349,Moose,0.06423950830808578,Conif,0.48,0.03340454432020461
+ABMI Ecosystem Health 2018,939-SE,00349,Moose,2.7032448679727317,Decid,0.34,1.7841416128620027
+ABMI Ecosystem Health 2018,939-NE,00349,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,939-NW,00349,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,953-NE,00504,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,920-NE,00504,Moose,0.12271256123543978,Decid,0.34,0.08099029041539024
+ABMI Ecosystem Health 2018,920-SW,00504,Moose,2.763638412628456,WetOpen,0.59,1.133091749177667
+ABMI Ecosystem Health 2018,889-SW,00502,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,889-NE,00502,Moose,3.6792360777649358,WetTreed,0.63,1.3613173487730261
+ABMI Ecosystem Health 2018,954-NE,00504,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2018,954-SW,00504,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,922-NE,00502,Moose,0.4765757805017113,Decid,0.34,0.3145400151311294
+ABMI Ecosystem Health 2018,922-SW,00502,Moose,0.6396574399852504,Decid,0.34,0.4221739103902652
+ABMI Ecosystem Health 2018,888-SW,00504,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2018,888-NE,00504,Moose,0.6696149727674597,Decid,0.34,0.44194588202652335
+ABMI Ecosystem Health 2018,921-NE,00504,Moose,1.3013741001651153,Decid,0.34,0.858906906108976
+ABMI Ecosystem Health 2018,921-SW,00504,Moose,0.5184212190928263,Decid,0.34,0.34215800460126533
+ABMI Ecosystem Health 2018,887-NE,00504,Moose,2.5423159189857367,HF,0.51,1.2457348003030109
+ABMI Ecosystem Health 2018,887-SW,00504,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,1062-NE,00256,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,1062-NW,00256,Moose,0.7929772256384031,HF,0.51,0.38855884056281753
+ABMI Ecosystem Health 2018,1062-SW,00256,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2018,1062-SE,00256,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2018,1028-SE,00256,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,1028-SW,00256,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2018,1028-NW,00256,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,1028-NE,00256,Moose,0.39790388853228154,HF,0.51,0.19497290538081796
+ABMI Ecosystem Health 2018,1449-SE,00314,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,1449-NW,00314,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2018,1449-NE,00314,Moose,0.008541111548835764,HF,0.51,0.004185144658929524
+ABMI Ecosystem Health 2018,1469-SE,00314,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2018,1469-NW,00314,Moose,0,Grass,0.71,0
+ABMI Ecosystem Health 2019,863-SE,00357,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,863-SW,00357,Moose,13.54094455020686,WetTreed,0.63,5.010149483576538
+ABMI Ecosystem Health 2019,863-NE,00357,Moose,0.131987192829735,Decid,0.34,0.0871115472676251
+ABMI Ecosystem Health 2019,863-NW,00357,Moose,0.29807951752396405,Decid,0.34,0.19673248156581624
+ABMI Ecosystem Health 2019,865-SE,00357,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,865-SW,00357,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,865-NW,00357,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,865-NE,00357,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,897-SE,00356,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,897-SW,00356,Moose,2.864418499807849,WetTreed,0.63,1.0598348449289041
+ABMI Ecosystem Health 2019,897-NW,00356,Moose,0.2408737236888246,Shrub,0.57,0.10357570118619458
+ABMI Ecosystem Health 2019,897-NE,00356,Moose,0.31009257129187845,Shrub,0.57,0.13333980565550774
+ABMI Ecosystem Health 2019,929-NW,00357,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,929-SW,00357,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,929-SE,00357,Moose,0.09055526862134693,HF,0.51,0.04437208162445999
+ABMI Ecosystem Health 2019,929-NE,00357,Moose,1.8878197255669182,Shrub,0.57,0.811762481993775
+ABMI Ecosystem Health 2019,930-NW,00356,Moose,0.10429862506235878,Decid,0.34,0.06883709254115679
+ABMI Ecosystem Health 2019,930-SW,00356,Moose,2.535125857978146,Decid,0.34,1.6731830662655762
+ABMI Ecosystem Health 2019,930-NE,00356,Moose,0.3834966819493887,Conif,0.48,0.1994182746136821
+ABMI Ecosystem Health 2019,930-SE,00356,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,898-SW,00356,Moose,5.180850425326417,Shrub,0.57,2.2277656828903596
+ABMI Ecosystem Health 2019,898-NW,00356,Moose,0.04287341300545109,Decid,0.34,0.028296452583597715
+ABMI Ecosystem Health 2019,898-NE,00356,Moose,3.0022137970500933,Shrub,0.57,1.2909519327315402
+ABMI Ecosystem Health 2019,898-SE,00356,Moose,3.1457914297175025,Decid,0.34,2.0762223436135514
+ABMI Ecosystem Health 2019,896-NE,00357,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2019,896-NW,00357,Moose,0.0384034620191013,Conif,0.48,0.019969800249932678
+ABMI Ecosystem Health 2019,896-SW,00357,Moose,0.8200663111334301,Decid,0.34,0.5412437653480638
+ABMI Ecosystem Health 2019,896-SE,00357,Moose,0.9074827029387444,Decid,0.34,0.5989385839395712
+ABMI Ecosystem Health 2019,864-NW,00357,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,864-SE,00357,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,864-NE,00357,Moose,0.47705602055675916,Decid,0.34,0.314856973567461
+ABMI Ecosystem Health 2019,931-NW,00356,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,931-NE,00356,Moose,2.2652365850884233,Conif,0.48,1.1779230242459802
+ABMI Ecosystem Health 2019,931-SE,00356,Moose,1.4086295700417415,Conif,0.48,0.7324873764217056
+ABMI Ecosystem Health 2019,931-SW,00356,Moose,0.6394808918651443,Decid,0.34,0.42205738863099523
+ABMI Ecosystem Health 2019,409-NE,00540,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2019,409-NW,00540,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2019,409-SW,00540,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2019,410-NE,00540,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,410-NW,00540,Moose,0.6606556933835781,Conif,0.48,0.34354096055946065
+ABMI Ecosystem Health 2019,410-SE,00540,Moose,0.052820454378133264,Conif,0.48,0.0274666362766293
+ABMI Ecosystem Health 2019,410-SW,00540,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,411-NE,00531,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,411-NW,00531,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2019,411-SE,00531,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,411-SW,00531,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,441-NE,00531,Moose,1.5474014027246545,Conif,0.48,0.8046487294168204
+ABMI Ecosystem Health 2019,441-SE,00531,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,441-SW,00531,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,789-SW,00516,Moose,0.6144386746626813,Shrub,0.57,0.264208630104953
+ABMI Ecosystem Health 2019,789-SE,00516,Moose,0.1411684013788658,Shrub,0.57,0.0607024125929123
+ABMI Ecosystem Health 2019,789-NE,00516,Moose,0.14110729859096113,Decid,0.34,0.09313081707003433
+ABMI Ecosystem Health 2019,789-NW,00516,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,788-SW,00509,Moose,0.16899729018780532,HF,0.51,0.0828086721920246
+ABMI Ecosystem Health 2019,788-SE,00509,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,788-NE,00509,Moose,1.0027579199843433,Shrub,0.57,0.43118590559326764
+ABMI Ecosystem Health 2019,788-NW,00509,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,822-NW,00509,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,822-SW,00509,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,854-NW,00503,Moose,8.26001494511861,WetTreed,0.63,3.0562055296938855
+ABMI Ecosystem Health 2019,854-NE,00503,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,854-SW,00503,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,854-SE,00503,Moose,0.05806168543345343,HF,0.51,0.028450225862392178
+ABMI Ecosystem Health 2019,853-NW,00509,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,853-NE,00509,Moose,2.8309422396101143,Shrub,0.57,1.2173051630323493
+ABMI Ecosystem Health 2019,853-SE,00509,Moose,5.204254337321521,Shrub,0.57,2.237829365048254
+ABMI Ecosystem Health 2019,853-SW,00509,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,852-SW,00509,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,852-NW,00509,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,852-NE,00509,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,852-SE,00509,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,821-SE,00509,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,821-SW,00509,Moose,1.0969406625846576,Decid,0.34,0.7239808373058739
+ABMI Ecosystem Health 2019,821-NE,00509,Moose,2.302846091209741,Conif,0.48,1.1974799674290653
+ABMI Ecosystem Health 2019,821-NW,00509,Moose,0.04720113755623019,Decid,0.34,0.03115275078711192
+ABMI Ecosystem Health 2019,820-SE,00509,Moose,0.10136403843629252,Decid,0.34,0.06690026536795306
+ABMI Ecosystem Health 2019,820-SW,00509,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,820-NW,00509,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,820-NE,00509,Moose,0.87808261400546,Decid,0.34,0.5795345252436035
+ABMI Ecosystem Health 2019,790-SE,00503,Moose,0.4963401059503178,Shrub,0.57,0.21342624555863668
+ABMI Ecosystem Health 2019,790-NE,00503,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,790-NW,00503,Moose,0.41732238142352507,WetTreed,0.63,0.15440928112670427
+ABMI Ecosystem Health 2019,790-SW,00503,Moose,0.022401162821275383,Decid,0.34,0.014784767462041751
+ABMI Ecosystem Health 2019,676-NE,00526,Moose,1.6809853248843234,Shrub,0.57,0.7228236897002591
+ABMI Ecosystem Health 2019,676-NW,00526,Moose,1.914711265669648,WetOpen,0.59,0.7850316189245558
+ABMI Ecosystem Health 2019,676-SW,00526,Moose,0.148702662536215,Decid,0.34,0.09814375727390189
+ABMI Ecosystem Health 2019,676-SE,00526,Moose,4.441793919698513,Decid,0.34,2.931583987001018
+ABMI Ecosystem Health 2019,677-SE,00526,Moose,0.09569468966685488,HF,0.51,0.046890397936758886
+ABMI Ecosystem Health 2019,677-SW,00526,Moose,0.1143056328769437,HF,0.51,0.05600976010970241
+ABMI Ecosystem Health 2019,677-NW,00526,Moose,0.9297587930977715,Shrub,0.57,0.3997962810320418
+ABMI Ecosystem Health 2019,677-NE,00526,Moose,0.08476749034224351,HF,0.51,0.04153607026769932
+ABMI Ecosystem Health 2019,678-SE,00526,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,678-NW,00526,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,678-NE,00526,Moose,0.21195672146512273,HF,0.51,0.10385879351791014
+ABMI Ecosystem Health 2019,678-SW,00526,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,708-SE,00526,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,708-SW,00526,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,708-NW,00526,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,708-NE,00526,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,707-SE,00526,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,707-NE,00526,Moose,0.5694350555179493,HF,0.51,0.27902317720379516
+ABMI Ecosystem Health 2019,707-NW,00526,Moose,0.8518460693641702,HF,0.51,0.4174045739884434
+ABMI Ecosystem Health 2019,707-SW,00526,Moose,0.15639910099785687,HF,0.51,0.07663555948894986
+ABMI Ecosystem Health 2019,911-NE,00349,Moose,3.265140399537035,Shrub,0.57,1.4040103718009254
+ABMI Ecosystem Health 2019,911-NW,00349,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,911-SE,00349,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,911-SW,00349,Moose,0.6162625099405329,Conif,0.48,0.3204565051690771
+ABMI Ecosystem Health 2019,944-NE,00349,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,944-NW,00349,Moose,0.011822413245035489,Conif,0.48,0.0061476548874184545
+ABMI Ecosystem Health 2019,944-SE,00349,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,944-SW,00349,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,945-NE,00349,Moose,0.26095351365755404,Conif,0.48,0.1356958271019281
+ABMI Ecosystem Health 2019,945-NW,00349,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,945-SE,00349,Moose,1.42519137372598,Conif,0.48,0.7410995143375096
+ABMI Ecosystem Health 2019,945-SW,00349,Moose,0.00513153825224526,Decid,0.34,0.003386815246481871
+ABMI Ecosystem Health 2019,510-NE,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,510-NW,00519,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,510-SE,00519,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,510-SW,00519,Moose,0.24912586239244544,Decid,0.34,0.16442306917901398
+ABMI Ecosystem Health 2019,511-NE,00519,Moose,4.438530642622685,WetTreed,0.63,1.6422563377703934
+ABMI Ecosystem Health 2019,511-SE,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,511-SW,00519,Moose,1.0514272312943553,WetTreed,0.63,0.38902807557891145
+ABMI Ecosystem Health 2019,540-NE,00519,Moose,1.4491820591322904,WetTreed,0.63,0.5361973618789474
+ABMI Ecosystem Health 2019,540-NW,00519,Moose,1.0973892140527435,WetTreed,0.63,0.4060340091995151
+ABMI Ecosystem Health 2019,540-SE,00519,Moose,1.0694508603780004,WetTreed,0.63,0.39569681833986015
+ABMI Ecosystem Health 2019,540-SW,00519,Moose,7.539291511955897,WetOpen,0.59,3.091109519901918
+ABMI Ecosystem Health 2019,541-NE,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,541-NW,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,541-SE,00519,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,541-SW,00519,Moose,0.2939598366658117,Shrub,0.57,0.12640272976629904
+ABMI Ecosystem Health 2019,542-NE,00519,Moose,0.10327354048802583,Decid,0.34,0.06816053672209704
+ABMI Ecosystem Health 2019,542-NW,00519,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,542-SE,00519,Moose,0.3021889182797388,Conif,0.48,0.15713823750546418
+ABMI Ecosystem Health 2019,542-SW,00519,Moose,0.6089559630515362,Conif,0.48,0.3166571007867988
+ABMI Ecosystem Health 2019,571-NE,00519,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,571-NW,00519,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2019,571-SE,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,571-SW,00519,Moose,0.04530654908466442,WetTreed,0.63,0.016763423161325838
+ABMI Ecosystem Health 2019,572-NE,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,572-NW,00519,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,572-SE,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,572-SW,00519,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,573-NE,00519,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2019,573-NW,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,573-SE,00519,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2019,573-SW,00519,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,685-NW,00544,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2019,685-SE,00544,Moose,1.7460040490549475,Shrub,0.57,0.7507817410936275
+ABMI Ecosystem Health 2019,685-SW,00544,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,686-NE,00544,Moose,7.076990229698776,Decid,0.34,4.670813551601191
+ABMI Ecosystem Health 2019,686-SE,00544,Moose,3.744938001511983,Decid,0.34,2.471659080997908
+ABMI Ecosystem Health 2019,686-SW,00544,Moose,2.2640576878152943,Decid,0.34,1.494278073958094
+ABMI Ecosystem Health 2019,687-NE,00544,Moose,1.4805735812927099,Decid,0.34,0.9771785636531884
+ABMI Ecosystem Health 2019,687-NW,00544,Moose,2.0530696301137974,Decid,0.34,1.355025955875106
+ABMI Ecosystem Health 2019,687-SE,00544,Moose,1.266003612253975,Decid,0.34,0.8355623840876234
+ABMI Ecosystem Health 2019,687-SW,00544,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,716-NE,00544,Moose,1.3529018770743149,WetTreed,0.63,0.5005736945174964
+ABMI Ecosystem Health 2019,716-NW,00544,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2019,716-SE,00544,Moose,0,Shrub,0.57,0
+ABMI Ecosystem Health 2019,716-SW,00544,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,717-NE,00544,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,717-NW,00544,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,717-SE,00544,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,717-SW,00544,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,718-NE,00544,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,718-NW,00544,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,718-SE,00544,Moose,1.2562102235418453,Decid,0.34,0.8290987475376178
+ABMI Ecosystem Health 2019,718-SW,00544,Moose,0.807214731462512,Decid,0.34,0.5327617227652578
+ABMI Ecosystem Health 2019,747-NE,00544,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,747-NW,00544,Moose,3.3976910425588334,Shrub,0.57,1.4610071483002984
+ABMI Ecosystem Health 2019,747-SE,00544,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,747-SW,00544,Moose,0.20335651865227664,Decid,0.34,0.13421530231050258
+ABMI Ecosystem Health 2019,748-NE,00544,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,748-NW,00544,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,748-SE,00544,Moose,0.11626682343957366,Conif,0.48,0.060458748188578305
+ABMI Ecosystem Health 2019,748-SW,00544,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,494-SE,00528,Moose,0.2484992592927098,Conif,0.48,0.1292196148322091
+ABMI Ecosystem Health 2019,494-SW,00528,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,495-NW,00528,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,495-SW,00528,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,496-NE,00528,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,496-SE,00528,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,527-NE,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,527-NW,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,526-SW,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,526-SE,00520,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,557-SE,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,1172-NE,00340,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,1172-NW,00340,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,1172-SE,00340,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2019,1172-SW,00340,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,1173-NE,00340,Moose,0.5333485946237222,WetTreed,0.63,0.1973389800107772
+ABMI Ecosystem Health 2019,1173-NW,00340,Moose,1.634577542476578,Conif,0.48,0.8499803220878206
+ABMI Ecosystem Health 2019,1173-SE,00340,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,1173-SW,00340,Moose,0.004402883521242073,Shrub,0.57,0.0018932399141340915
+ABMI Ecosystem Health 2019,1204-NE,00340,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2019,1204-NW,00340,Moose,6.5210045357153295,HF,0.51,3.1952922225005116
+ABMI Ecosystem Health 2019,1204-SE,00340,Moose,0.049644050003114275,HF,0.51,0.024325584501525995
+ABMI Ecosystem Health 2019,1204-SW,00340,Moose,0.9461279318540854,HF,0.51,0.46360268660850185
+ABMI Ecosystem Health 2019,494-NE,00528,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,494-NW,00528,Moose,1.9100669347305663,Conif,0.48,0.9932348060598946
+ABMI Ecosystem Health 2019,495-NE,00528,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,495-SE,00528,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,496-NW,00528,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2019,496-SW,00528,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,527-SE,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,527-SW,00520,Moose,0,Decid,0.34,0
+ABMI Ecosystem Health 2019,526-NE,00520,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,526-NW,00520,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2019,557-NE,00520,Moose,0,WetOpen,0.59,0
+ABMI Ecosystem Health 2019,557-NW,00520,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2020,966-NW,00356,Moose,0,Conif,0.48,0
+ABMI Ecosystem Health 2020,966-NE,00356,Moose,0.8484925091331704,HF,0.51,0.4157613294752535
+ABMI Ecosystem Health 2020,967-NW,00356,Moose,2.058449314358986,Conif,0.48,1.0703936434666728
+ABMI Ecosystem Health 2020,967-SW,00356,Moose,3.4803271802801254,Decid,0.34,2.2970159389848823
+ABMI Ecosystem Health 2020,967-SE,00356,Moose,1.979920329130136,WetTreed,0.63,0.7325705217781503
+ABMI Ecosystem Health 2020,967-NE,00356,Moose,0.1082587778090792,Conif,0.48,0.05629456446072119
+ABMI Ecosystem Health 2020,1000-NE,00356,Moose,1.3416847957223594,Conif,0.48,0.6976760937756269
+ABMI Ecosystem Health 2020,1000-NW,00356,Moose,0.16303139079944895,Decid,0.34,0.1076007179276363
+ABMI Ecosystem Health 2020,1000-SW,00356,Moose,0.8233997990435601,Conif,0.48,0.4281678955026513
+ABMI Ecosystem Health 2020,1000-SE,00356,Moose,0.4003686677073744,Conif,0.48,0.2081917072078347
+ABMI Ecosystem Health 2020,966-SE,00356,Moose,0.05168760490864854,HF,0.51,0.025326926405237787
+ABMI Ecosystem Health 2020,999-NE,00356,Moose,0,HF,0.51,0
+ABMI Ecosystem Health 2020,999-NW,00356,Moose,4.089249483758841,Conif,0.48,2.126409731554597
+ABMI Ecosystem Health 2020,999-SW,00356,Moose,2.7152724785638247,HF,0.51,1.3304835144962741
+ABMI Ecosystem Health 2020,999-SE,00356,Moose,0.432852382794147,HF,0.51,0.21209766756913204
+ABMI Ecosystem Health 2020,965-SW,00356,Moose,6.344554280328612,Decid,0.34,4.187405825016883
+ABMI Ecosystem Health 2020,965-SE,00356,Moose,0,WetTreed,0.63,0
+ABMI Ecosystem Health 2020,965-NE,00356,Moose,0.008526462745896976,WetTreed,0.63,0.0031547912159818814
+ABMI Ecosystem Health 2020,965-NW,00356,Moose,1.364066062116348,Conif,0.48,0.709314352300501

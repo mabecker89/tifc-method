@@ -1,0 +1,43 @@
+common_name,dist_group
+White-tailed Deer,WTDeer
+Coyote,CoyoteFox
+Moose,BigForestUngulates
+Black Bear,Bear
+Mule deer,Muledeer
+Deer,WTDeer
+Snowshoe Hare,SmallForest
+Raccoon,SmallOpen
+Porcupine,SmallForest
+Red fox,CoyoteFox
+Red Squirrel,SmallForest
+Striped Skunk,SmallOpen
+Elk (wapiti),Elk
+White-tailed Jack Rabbit,SmallOpen
+Muskrat,SmallOpen
+Gray Wolf,BigForestCarnivores
+Canada Lynx,Lynx
+Weasels and Ermine,SmallForest
+Marten,SmallForest
+Richardson's Ground Squirrel,SmallOpen
+Badger,SmallOpen
+Mountain goat,Bighorn sheep
+Bighorn sheep,Bighorn sheep
+Cougar,BigForestCarnivores
+"Wolves, Coyotes and Allies",BigForestCarnivores
+Fisher,SmallForest
+Hoary Marmot,SmallOpen
+Grizzly bear,Bear
+"Voles, Mice and Allies",SmallOpen
+Columbian Ground Squirrel,SmallOpen
+Pronghorn,Pronghorn
+Least Chipmunk,SmallOpen
+Groundhog,SmallOpen
+Golden-Mantled Ground Squirrel,SmallOpen
+Bobcat,Lynx
+Bison,BigForestUngulates
+Woodland Caribou,BigForestUngulates
+Wolverine,BigForestCarnivores
+Beaver,SmallOpen
+Mink,SmallForest
+River Otter,SmallOpen
+Northern Flying Squirrel,SmallForest

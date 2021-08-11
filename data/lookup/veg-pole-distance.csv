@@ -1,0 +1,9 @@
+VegHF,VegHF1,VegHF2,VegHF3,VegHF4,VegHF5
+Conif,ConifDecid,Treed,ConifDecid,Treed,Treed
+Decid,ConifDecid,Treed,ConifDecid,Treed,Treed
+Grass,GrassShrub,GrassWater,GrassShrubHF,GrassWaterHF,GrassWaterShrubHF
+Shrub,GrassShrub,Shrub,GrassShrubHF,Shrub,GrassWaterShrubHF
+WetGrass,Wet,GrassWater,Wet,GrassWaterHF,GrassWaterShrubHF
+WetTreed,Wet,Treed,Wet,Treed,Treed
+Water,Wet,GrassWater,Wet,GrassWaterHF,GrassWaterShrubHF
+HF,HF,HF,GrassShrubHF,GrassWaterHF,GrassWaterShrubHF

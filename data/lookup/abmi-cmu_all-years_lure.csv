@@ -1,0 +1,4743 @@
+location,project,lure
+CAL-100,CMU 2017,No
+CAL-100,CMU 2018,No
+CAL-76,CMU 2017,No
+CAL-76,CMU 2018,No
+CAL-77,CMU 2017,No
+CAL-77,CMU 2018,No
+CAL-78,CMU 2017,No
+CAL-78,CMU 2018,No
+CAL-79,CMU 2017,No
+CAL-79,CMU 2018,No
+CAL-80,CMU 2017,No
+CAL-80,CMU 2018,No
+CAL-81,CMU 2017,No
+CAL-82,CMU 2017,No
+CAL-82,CMU 2018,No
+CAL-83,CMU 2017,No
+CAL-83,CMU 2018,No
+CAL-83,CMU 2018,No
+CAL-84,CMU 2017,No
+CAL-84,CMU 2018,No
+CAL-85,CMU 2017,No
+CAL-85,CMU 2018,No
+CAL-85,CMU 2018,No
+CAL-86,CMU 2017,No
+CAL-86,CMU 2018,No
+CAL-87,CMU 2017,No
+CAL-87,CMU 2018,No
+CAL-87,CMU 2018,No
+CAL-88,CMU 2017,No
+CAL-88,CMU 2018,No
+CAL-89,CMU 2017,No
+CAL-89,CMU 2018,No
+CAL-89,CMU 2018,No
+CAL-90,CMU 2017,No
+CAL-90,CMU 2018,No
+CAL-91,CMU 2017,No
+CAL-91,CMU 2018,No
+CAL-92,CMU 2017,No
+CAL-92,CMU 2018,No
+CAL-93,CMU 2017,No
+CAL-93,CMU 2018,No
+CAL-94,CMU 2017,No
+CAL-95,CMU 2017,No
+CAL-95,CMU 2018,No
+CAL-96,CMU 2017,No
+CAL-96,CMU 2018,No
+CAL-97,CMU 2017,No
+CAL-97,CMU 2018,No
+CAL-98,CMU 2017,No
+CAL-98,CMU 2018,No
+CAL-99,CMU 2017,No
+CAL-99,CMU 2018,No
+CHR-101,CMU 2017,No
+CHR-101,CMU 2018,No
+CHR-102,CMU 2017,No
+CHR-102,CMU 2018,No
+CHR-103,CMU 2017,No
+CHR-103,CMU 2018,No
+CHR-104,CMU 2017,No
+CHR-104,CMU 2018,No
+CHR-105,CMU 2017,No
+CHR-105,CMU 2018,No
+CHR-106,CMU 2017,No
+CHR-106,CMU 2018,No
+CHR-107,CMU 2017,No
+CHR-107,CMU 2018,No
+CHR-108,CMU 2017,No
+CHR-108,CMU 2018,No
+CHR-109,CMU 2017,No
+CHR-109,CMU 2018,No
+CHR-110,CMU 2017,No
+CHR-110,CMU 2018,No
+CHR-111,CMU 2017,No
+CHR-111,CMU 2018,No
+CHR-112,CMU 2017,No
+CHR-112,CMU 2018,No
+CHR-113,CMU 2017,No
+CHR-113,CMU 2018,No
+CHR-114,CMU 2017,No
+CHR-114,CMU 2018,No
+CHR-115,CMU 2017,No
+CHR-115,CMU 2018,No
+CHR-116,CMU 2017,No
+CHR-116,CMU 2018,No
+CHR-117,CMU 2017,No
+CHR-117,CMU 2018,No
+CHR-118,CMU 2017,No
+CHR-118,CMU 2018,No
+CHR-119,CMU 2017,No
+CHR-119,CMU 2018,No
+CHR-120,CMU 2017,No
+CHR-120,CMU 2018,No
+CHR-121,CMU 2017,No
+CHR-121,CMU 2018,No
+CHR-122,CMU 2017,No
+CHR-122,CMU 2018,No
+CHR-123,CMU 2017,No
+CHR-123,CMU 2018,No
+CHR-124,CMU 2017,No
+CHR-124,CMU 2018,No
+CHR-125,CMU 2017,No
+CHR-125,CMU 2018,No
+DEW-1,CMU 2018,No
+DEW-1,CMU 2018,No
+DEW-10,CMU 2018,No
+DEW-11,CMU 2018,No
+DEW-12,CMU 2018,No
+DEW-13,CMU 2018,No
+DEW-14,CMU 2018,No
+DEW-15,CMU 2018,No
+DEW-15,CMU 2018,No
+DEW-16,CMU 2018,No
+DEW-17,CMU 2018,No
+DEW-18,CMU 2018,No
+DEW-19,CMU 2018,No
+DEW-2,CMU 2018,No
+DEW-20,CMU 2018,No
+DEW-21,CMU 2018,No
+DEW-22,CMU 2018,No
+DEW-23,CMU 2018,No
+DEW-23,CMU 2018,No
+DEW-23,CMU 2018,No
+DEW-24,CMU 2018,No
+DEW-25,CMU 2018,No
+DEW-3,CMU 2018,No
+DEW-4,CMU 2018,No
+DEW-5,CMU 2018,No
+DEW-6,CMU 2018,No
+DEW-7,CMU 2018,No
+DEW-8,CMU 2018,No
+DEW-9,CMU 2018,No
+FMM-1,CMU 2017,No
+FMM-1,CMU 2018,No
+FMM-1,CMU 2018,No
+FMM-10,CMU 2017,No
+FMM-10,CMU 2018,No
+FMM-10,CMU 2018,No
+FMM-11,CMU 2017,No
+FMM-11,CMU 2018,No
+FMM-12,CMU 2017,No
+FMM-12,CMU 2018,No
+FMM-12,CMU 2018,No
+FMM-13,CMU 2017,No
+FMM-13,CMU 2018,No
+FMM-13,CMU 2018,No
+FMM-14,CMU 2017,No
+FMM-14,CMU 2018,No
+FMM-14,CMU 2018,No
+FMM-15,CMU 2017,No
+FMM-15,CMU 2018,No
+FMM-15,CMU 2018,No
+FMM-16,CMU 2017,No
+FMM-16,CMU 2018,No
+FMM-16,CMU 2018,No
+FMM-17,CMU 2017,No
+FMM-17,CMU 2018,No
+FMM-17,CMU 2018,No
+FMM-18,CMU 2017,No
+FMM-18,CMU 2018,No
+FMM-18,CMU 2018,No
+FMM-19,CMU 2017,No
+FMM-19,CMU 2018,No
+FMM-19,CMU 2018,No
+FMM-2,CMU 2017,No
+FMM-2,CMU 2018,No
+FMM-2,CMU 2018,No
+FMM-20,CMU 2017,No
+FMM-20,CMU 2018,No
+FMM-20,CMU 2018,No
+FMM-21,CMU 2017,No
+FMM-21,CMU 2018,No
+FMM-21,CMU 2018,No
+FMM-22,CMU 2017,No
+FMM-22,CMU 2018,No
+FMM-22,CMU 2018,No
+FMM-23,CMU 2017,No
+FMM-23,CMU 2018,No
+FMM-23,CMU 2018,No
+FMM-24,CMU 2017,No
+FMM-24,CMU 2018,No
+FMM-24,CMU 2018,No
+FMM-25,CMU 2017,No
+FMM-25,CMU 2018,No
+FMM-25,CMU 2018,No
+FMM-3,CMU 2017,No
+FMM-3,CMU 2018,No
+FMM-3,CMU 2018,No
+FMM-4,CMU 2017,No
+FMM-4,CMU 2018,No
+FMM-4,CMU 2018,No
+FMM-5,CMU 2017,No
+FMM-5,CMU 2018,No
+FMM-5,CMU 2018,No
+FMM-6,CMU 2017,No
+FMM-6,CMU 2018,No
+FMM-6,CMU 2018,No
+FMM-7,CMU 2017,No
+FMM-7,CMU 2018,No
+FMM-8,CMU 2017,No
+FMM-8,CMU 2018,No
+FMM-8,CMU 2018,No
+FMM-9,CMU 2017,No
+FMM-9,CMU 2018,No
+FMM-9,CMU 2018,No
+LID-1,CMU 2018,No
+LID-10,CMU 2018,No
+LID-11,CMU 2018,No
+LID-12,CMU 2018,No
+LID-13,CMU 2018,No
+LID-14,CMU 2018,No
+LID-15,CMU 2018,No
+LID-17,CMU 2018,No
+LID-18,CMU 2018,No
+LID-19,CMU 2018,No
+LID-20,CMU 2018,No
+LID-21,CMU 2018,No
+LID-22,CMU 2018,No
+LID-23,CMU 2018,No
+LID-25,CMU 2018,No
+LID-4,CMU 2018,No
+LID-5,CMU 2018,No
+LID-6,CMU 2018,No
+LID-7,CMU 2018,No
+LID-8,CMU 2018,No
+LID-9,CMU 2018,No
+LLB-126,CMU 2017,No
+LLB-126,CMU 2018,No
+LLB-126,CMU 2018,No
+LLB-127,CMU 2017,No
+LLB-127,CMU 2018,No
+LLB-127,CMU 2018,No
+LLB-128,CMU 2017,No
+LLB-128,CMU 2018,No
+LLB-128,CMU 2018,No
+LLB-129,CMU 2017,No
+LLB-129,CMU 2018,No
+LLB-129,CMU 2018,No
+LLB-130,CMU 2017,No
+LLB-130,CMU 2018,No
+LLB-130,CMU 2018,No
+LLB-131,CMU 2017,No
+LLB-131,CMU 2018,No
+LLB-131,CMU 2018,No
+LLB-132,CMU 2017,No
+LLB-132,CMU 2018,No
+LLB-132,CMU 2018,No
+LLB-133,CMU 2017,No
+LLB-133,CMU 2018,No
+LLB-133,CMU 2018,No
+LLB-134,CMU 2017,No
+LLB-134,CMU 2018,No
+LLB-134,CMU 2018,No
+LLB-135,CMU 2017,No
+LLB-135,CMU 2018,No
+LLB-135,CMU 2018,No
+LLB-136,CMU 2017,No
+LLB-136,CMU 2018,No
+LLB-136,CMU 2018,No
+LLB-137,CMU 2017,No
+LLB-137,CMU 2018,No
+LLB-137,CMU 2018,No
+LLB-138,CMU 2017,No
+LLB-138,CMU 2018,No
+LLB-138,CMU 2018,No
+LLB-139,CMU 2017,No
+LLB-139,CMU 2018,No
+LLB-139,CMU 2018,No
+LLB-140,CMU 2017,No
+LLB-140,CMU 2018,No
+LLB-140,CMU 2018,No
+LLB-141,CMU 2017,No
+LLB-141,CMU 2018,No
+LLB-141,CMU 2018,No
+LLB-142,CMU 2017,No
+LLB-142,CMU 2018,No
+LLB-142,CMU 2018,No
+LLB-143,CMU 2017,No
+LLB-143,CMU 2018,No
+LLB-143,CMU 2018,No
+LLB-144,CMU 2017,No
+LLB-144,CMU 2018,No
+LLB-144,CMU 2018,No
+LLB-145,CMU 2017,No
+LLB-145,CMU 2018,No
+LLB-145,CMU 2018,No
+LLB-146,CMU 2017,No
+LLB-146,CMU 2018,No
+LLB-146,CMU 2018,No
+LLB-147,CMU 2017,No
+LLB-147,CMU 2018,No
+LLB-147,CMU 2018,No
+LLB-148,CMU 2017,No
+LLB-148,CMU 2018,No
+LLB-148,CMU 2018,No
+LLB-149,CMU 2017,No
+LLB-149,CMU 2018,No
+LLB-149,CMU 2018,No
+LLB-150,CMU 2017,No
+LLB-150,CMU 2018,No
+LLB-150,CMU 2018,No
+LRN-51,CMU 2018,No
+LRN-51,CMU 2018,No
+LRN-52,CMU 2018,No
+LRN-52,CMU 2018,No
+LRN-53,CMU 2018,No
+LRN-53,CMU 2018,No
+LRN-54,CMU 2018,No
+LRN-54,CMU 2018,No
+LRN-55,CMU 2018,No
+LRN-55,CMU 2018,No
+LRN-56,CMU 2018,No
+LRN-56,CMU 2018,No
+LRN-57,CMU 2018,No
+LRN-57,CMU 2018,No
+LRN-58,CMU 2018,No
+LRN-58,CMU 2018,No
+LRN-59,CMU 2018,No
+LRN-59,CMU 2018,No
+LRN-60,CMU 2018,No
+LRN-60,CMU 2018,No
+LRN-61,CMU 2018,No
+LRN-61,CMU 2018,No
+LRN-62,CMU 2018,No
+LRN-62,CMU 2018,No
+LRN-63,CMU 2018,No
+LRN-63,CMU 2018,No
+LRN-64,CMU 2018,No
+LRN-64,CMU 2018,No
+LRN-65,CMU 2018,No
+LRN-65,CMU 2018,No
+LRN-66,CMU 2018,No
+LRN-66,CMU 2018,No
+LRN-67,CMU 2018,No
+LRN-67,CMU 2018,No
+LRN-68,CMU 2018,No
+LRN-68,CMU 2018,No
+LRN-69,CMU 2018,No
+LRN-69,CMU 2018,No
+LRN-70,CMU 2018,No
+LRN-70,CMU 2018,No
+LRN-71,CMU 2018,No
+LRN-71,CMU 2018,No
+LRN-72,CMU 2018,No
+LRN-72,CMU 2018,No
+LRN-73,CMU 2018,No
+LRN-73,CMU 2018,No
+LRN-74,CMU 2018,No
+LRN-74,CMU 2018,No
+LRN-75,CMU 2018,No
+LRN-75,CMU 2018,No
+MAC-26,CMU 2017,No
+MAC-26,CMU 2018,No
+MAC-27,CMU 2017,No
+MAC-27,CMU 2018,No
+MAC-28,CMU 2017,No
+MAC-28,CMU 2018,No
+MAC-29,CMU 2017,No
+MAC-29,CMU 2018,No
+MAC-30,CMU 2017,No
+MAC-30,CMU 2018,No
+MAC-31,CMU 2017,No
+MAC-31,CMU 2018,No
+MAC-32,CMU 2017,No
+MAC-32,CMU 2018,No
+MAC-33,CMU 2017,No
+MAC-33,CMU 2018,No
+MAC-34,CMU 2017,No
+MAC-34,CMU 2018,No
+MAC-35,CMU 2017,No
+MAC-35,CMU 2018,No
+MAC-36,CMU 2017,No
+MAC-36,CMU 2018,No
+MAC-37,CMU 2017,No
+MAC-37,CMU 2018,No
+MAC-38,CMU 2017,No
+MAC-38,CMU 2018,No
+MAC-39,CMU 2017,No
+MAC-39,CMU 2018,No
+MAC-40,CMU 2017,No
+MAC-40,CMU 2018,No
+MAC-41,CMU 2017,No
+MAC-41,CMU 2018,No
+MAC-42,CMU 2017,No
+MAC-42,CMU 2018,No
+MAC-43,CMU 2017,No
+MAC-43,CMU 2018,No
+MAC-44,CMU 2017,No
+MAC-44,CMU 2018,No
+MAC-45,CMU 2017,No
+MAC-45,CMU 2018,No
+MAC-46,CMU 2017,No
+MAC-46,CMU 2018,No
+MAC-47,CMU 2017,No
+MAC-47,CMU 2018,No
+MAC-48,CMU 2017,No
+MAC-48,CMU 2018,No
+MAC-49,CMU 2017,No
+MAC-49,CMU 2018,No
+MAC-50,CMU 2017,No
+MAC-50,CMU 2018,No
+MCC-26,CMU 2018,No
+MCC-26,CMU 2018,No
+MCC-27,CMU 2018,No
+MCC-27,CMU 2018,No
+MCC-28,CMU 2018,No
+MCC-28,CMU 2018,No
+MCC-29,CMU 2018,No
+MCC-29,CMU 2018,No
+MCC-30,CMU 2018,No
+MCC-30,CMU 2018,No
+MCC-31,CMU 2018,No
+MCC-31,CMU 2018,No
+MCC-32,CMU 2018,No
+MCC-32,CMU 2018,No
+MCC-33,CMU 2018,No
+MCC-33,CMU 2018,No
+MCC-34,CMU 2018,No
+MCC-34,CMU 2018,No
+MCC-35,CMU 2018,No
+MCC-35,CMU 2018,No
+MCC-36,CMU 2018,No
+MCC-36,CMU 2018,No
+MCC-37,CMU 2018,No
+MCC-37,CMU 2018,No
+MCC-38,CMU 2018,No
+MCC-38,CMU 2018,No
+MCC-39,CMU 2018,No
+MCC-39,CMU 2018,No
+MCC-40,CMU 2018,No
+MCC-40,CMU 2018,No
+MCC-41,CMU 2018,No
+MCC-41,CMU 2018,No
+MCC-42,CMU 2018,No
+MCC-43,CMU 2018,No
+MCC-44,CMU 2018,No
+MCC-44,CMU 2018,No
+MCC-45,CMU 2018,No
+MCC-45,CMU 2018,No
+MCC-46,CMU 2018,No
+MCC-46,CMU 2018,No
+MCC-47,CMU 2018,No
+MCC-47,CMU 2018,No
+MCC-48,CMU 2018,No
+MCC-48,CMU 2018,No
+MCC-49,CMU 2018,No
+MCC-49,CMU 2018,No
+MCC-50,CMU 2018,No
+MCC-50,CMU 2018,No
+WAB-51,CMU 2017,No
+WAB-51,CMU 2018,No
+WAB-52,CMU 2017,No
+WAB-52,CMU 2018,No
+WAB-53,CMU 2017,No
+WAB-53,CMU 2018,No
+WAB-54,CMU 2017,No
+WAB-54,CMU 2018,No
+WAB-55,CMU 2017,No
+WAB-55,CMU 2018,No
+WAB-56,CMU 2017,No
+WAB-56,CMU 2018,No
+WAB-57,CMU 2017,No
+WAB-57,CMU 2018,No
+WAB-58,CMU 2017,No
+WAB-58,CMU 2018,No
+WAB-59,CMU 2017,No
+WAB-59,CMU 2018,No
+WAB-59,CMU 2018,No
+WAB-60,CMU 2017,No
+WAB-60,CMU 2018,No
+WAB-61,CMU 2017,No
+WAB-61,CMU 2018,No
+WAB-62,CMU 2017,No
+WAB-62,CMU 2018,No
+WAB-63,CMU 2017,No
+WAB-63,CMU 2018,No
+WAB-64,CMU 2017,No
+WAB-64,CMU 2018,No
+WAB-65,CMU 2017,No
+WAB-65,CMU 2018,No
+WAB-66,CMU 2017,No
+WAB-66,CMU 2018,No
+WAB-67,CMU 2017,No
+WAB-67,CMU 2018,No
+WAB-68,CMU 2017,No
+WAB-69,CMU 2017,No
+WAB-69,CMU 2018,No
+WAB-70,CMU 2017,No
+WAB-70,CMU 2018,No
+WAB-71,CMU 2017,No
+WAB-71,CMU 2018,No
+WAB-72,CMU 2017,No
+WAB-72,CMU 2018,No
+WAB-73,CMU 2017,No
+WAB-73,CMU 2018,No
+WAB-74,CMU 2017,No
+WAB-74,CMU 2018,No
+WAB-75,CMU 2017,No
+WAB-75,CMU 2018,No
+ADE-1,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-10,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-10T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-11,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-12T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-13,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-14,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-15,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-16,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-16T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-17,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-17T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-18,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-18T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-19,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-19T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-1T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-2,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-20,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-20T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-21,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-21T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-22,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-22T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-23,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-24T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-25,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-25T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-2T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-3,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-3T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-4,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-4T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-5,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-5T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-6T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-7,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-7T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-8,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-8T,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-9,CMU Ecosystem Monitoring Camera Program 2020,No
+ADE-9T,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-1,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-10,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-11,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-13,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-14,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-15,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-16,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-17,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-2,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-20,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-21,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-22,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-23,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-24,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-25,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-3,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-4,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-5,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-6,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-7,CMU Ecosystem Monitoring Camera Program 2020,No
+MRG-9,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-1,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-10,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-11,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-12,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-13,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-14,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-15,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-16,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-17,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-18,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-19,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-2,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-20,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-21,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-22,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-23,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-24,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-25,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-3,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-4,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-5,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-6,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-8,CMU Ecosystem Monitoring Camera Program 2020,No
+RIC-9,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-1,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-10,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-11,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-12,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-13,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-14,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-15,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-16,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-17,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-18,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-19,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-2,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-20,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-21,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-22,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-23,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-24,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-25,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-3,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-4,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-5,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-6,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-7,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-8,CMU Ecosystem Monitoring Camera Program 2019,No
+AUB-9,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-100,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-76,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-77,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-78,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-79,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-80,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-81,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-82,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-83,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-84,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-85,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-86,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-87,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-88,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-89,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-90,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-91,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-92,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-93,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-94,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-95,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-96,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-97,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-98,CMU Ecosystem Monitoring Camera Program 2019,No
+CAL-99,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-101,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-101T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-102,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-102T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-103,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-103T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-104,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-104T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-105,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-105T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-106,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-106T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-107,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-107T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-108,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-108T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-109,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-109T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-110,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-110T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-111,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-111T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-112,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-112T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-113,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-113T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-114,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-114T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-115,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-115T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-116,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-116T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-117,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-117T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-118,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-118T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-119,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-119T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-120,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-120T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-121,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-121T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-122,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-122T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-123,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-123T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-124,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-124T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-125,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-125T,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-126,CMU Ecosystem Monitoring Camera Program 2019,No
+CHR-126T,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-1,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-10,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-11,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-12,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-13,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-14,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-15,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-16,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-17,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-18,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-19,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-2,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-20,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-21,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-22,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-23,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-24,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-25,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-3,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-4,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-5,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-6,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-7,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-8,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-9,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-1,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-10,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-11,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-12,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-13,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-14,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-15,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-16,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-17,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-18,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-19,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-2,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-20,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-21,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-22,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-23,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-24,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-25,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-3,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-4,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-5,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-6,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-7,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-8,CMU Ecosystem Monitoring Camera Program 2019,No
+LID-9,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-126,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-127,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-128,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-129,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-130,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-131,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-132,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-133,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-134,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-135,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-136,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-137,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-138,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-139,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-140,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-141,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-142,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-143,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-144,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-145,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-146,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-147,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-148,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-149,CMU Ecosystem Monitoring Camera Program 2019,No
+LLB-150,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-51,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-52,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-53,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-54,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-55,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-57,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-58,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-59,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-60,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-61,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-62,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-63,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-64,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-65,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-66,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-67,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-68,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-69,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-70,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-71,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-72,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-73,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-74,CMU Ecosystem Monitoring Camera Program 2019,No
+LRN-75,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-26,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-27,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-28,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-29,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-30,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-31,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-32,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-33,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-34,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-35,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-36,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-37,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-38,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-39,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-40,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-41,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-42,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-43,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-44,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-45,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-46,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-47,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-48,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-49,CMU Ecosystem Monitoring Camera Program 2019,No
+MAC-50,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-26,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-27,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-28,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-29,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-30,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-31,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-32,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-33,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-34,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-35,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-36,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-37,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-38,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-39,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-40,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-41,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-42,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-43,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-44,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-45,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-46,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-47,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-48,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-49,CMU Ecosystem Monitoring Camera Program 2019,No
+MCC-50,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-51,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-52,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-53,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-54,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-55,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-56,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-57,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-58,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-59,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-60,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-61,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-62,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-63,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-64,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-65,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-66,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-67,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-68,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-69,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-70,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-71,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-72,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-73,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-74,CMU Ecosystem Monitoring Camera Program 2019,No
+WAB-75,CMU Ecosystem Monitoring Camera Program 2019,No
+FMM-6,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-149,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-7,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-134,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-140,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-143,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-3,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-1,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-13,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-5,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-2,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-23,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-145,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-136,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-127,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-148,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-4,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-12,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-14,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-4,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-144,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-141,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-129,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-131,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-135,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-150,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-147,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-142,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-8,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-19,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-130,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-132,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-133,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-137,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-9,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-138,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-107,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-15,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-115,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-146,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-11,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-104,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-126,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-103,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-18,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-121,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-120,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-25,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-106,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-101,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-17,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-21,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-139,CMU Ecosystem Monitoring Camera Program 2020,No
+LLB-128,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-105,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-112,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-109,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-116,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-124,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-113,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-122,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-118,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-111,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-108,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-117,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-114,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-102,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-12,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-24,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-119,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-110,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-9,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-123,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-10,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-16,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-20,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-72,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-65,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-62,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-27,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-39,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-67,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-34,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-75,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-48,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-28,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-74,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-36,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-37,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-71,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-29,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-70,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-30,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-42,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-43,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-35,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-40,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-66,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-38,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-49,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-63,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-47,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-46,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-45,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-61,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-58,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-44,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-55,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-60,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-54,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-53,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-52,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-51,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-59,CMU Ecosystem Monitoring Camera Program 2020,No
+FMM-22,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-57,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-68,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-69,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-31,CMU Ecosystem Monitoring Camera Program 2020,No
+LRN-64,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-6,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-5,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-8,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-7,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-25,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-23,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-22,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-21,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-20,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-19,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-17,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-14,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-13,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-10,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-11,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-1,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-18,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-126,CMU Ecosystem Monitoring Camera Program 2020,No
+CHR-125,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-15,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-9,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-8,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-7,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-6,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-5,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-4,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-3,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-25,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-24,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-23,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-22,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-21,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-20,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-2,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-19,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-18,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-17,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-16,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-15,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-14,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-13,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-12,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-11,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-10,CMU Ecosystem Monitoring Camera Program 2020,No
+AUB-1,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-16,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-2,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-24,CMU Ecosystem Monitoring Camera Program 2020,No
+LID-3,CMU Ecosystem Monitoring Camera Program 2020,No
+MCC-41,CMU Ecosystem Monitoring Camera Program 2020,No
+1022-NE,ABMI Ecosystem Health 2015,Yes
+1022-NW,ABMI Ecosystem Health 2015,No
+1022-SE,ABMI Ecosystem Health 2015,No
+1022-SW,ABMI Ecosystem Health 2015,Yes
+1023-NE,ABMI Ecosystem Health 2015,Yes
+1023-NW,ABMI Ecosystem Health 2015,No
+1023-SE,ABMI Ecosystem Health 2015,No
+1023-SW,ABMI Ecosystem Health 2015,No
+1024-NE,ABMI Ecosystem Health 2015,Yes
+1024-NW,ABMI Ecosystem Health 2015,No
+1024-SW,ABMI Ecosystem Health 2015,Yes
+1025-NE,ABMI Ecosystem Health 2017,Yes
+1025-NW,ABMI Ecosystem Health 2017,Yes
+1025-SE,ABMI Ecosystem Health 2017,No
+1025-SW,ABMI Ecosystem Health 2017,No
+1026-NE,ABMI Ecosystem Health 2017,Yes
+1026-NW,ABMI Ecosystem Health 2017,No
+1026-SE,ABMI Ecosystem Health 2017,No
+1026-SW,ABMI Ecosystem Health 2017,Yes
+1027-NE,ABMI Ecosystem Health 2017,Yes
+1027-NW,ABMI Ecosystem Health 2017,No
+1027-NW-b,ABMI Ecosystem Health 2017,No
+1027-SE,ABMI Ecosystem Health 2017,No
+1027-SW,ABMI Ecosystem Health 2017,Yes
+1028-NE,ABMI Ecosystem Health 2018,Yes
+1028-NW,ABMI Ecosystem Health 2018,No
+1028-SE,ABMI Ecosystem Health 2018,No
+1028-SW,ABMI Ecosystem Health 2018,Yes
+1056-NE,ABMI Ecosystem Health 2015,Yes
+1056-NW,ABMI Ecosystem Health 2015,No
+1056-SE,ABMI Ecosystem Health 2015,No
+1056-SW,ABMI Ecosystem Health 2015,Yes
+1057-NE,ABMI Ecosystem Health 2015,Yes
+1057-NW,ABMI Ecosystem Health 2015,No
+1057-SE,ABMI Ecosystem Health 2015,No
+1057-SW,ABMI Ecosystem Health 2015,Yes
+1058-NE,ABMI Ecosystem Health 2015,No
+1058-NW,ABMI Ecosystem Health 2015,Yes
+1058-SE,ABMI Ecosystem Health 2015,Yes
+1058-SW,ABMI Ecosystem Health 2015,No
+1059-NE,ABMI Ecosystem Health 2017,Yes
+1059-NW,ABMI Ecosystem Health 2017,No
+1059-SE,ABMI Ecosystem Health 2017,No
+1059-SW,ABMI Ecosystem Health 2017,Yes
+1060-NE,ABMI Ecosystem Health 2017,Yes
+1060-NW,ABMI Ecosystem Health 2017,No
+1060-SE,ABMI Ecosystem Health 2017,No
+1060-SW,ABMI Ecosystem Health 2017,Yes
+1061-NE,ABMI Ecosystem Health 2017,Yes
+1061-NW,ABMI Ecosystem Health 2017,No
+1061-SE,ABMI Ecosystem Health 2017,No
+1061-SW,ABMI Ecosystem Health 2017,Yes
+1062-NE,ABMI Ecosystem Health 2018,Yes
+1062-NW,ABMI Ecosystem Health 2018,No
+1062-SE,ABMI Ecosystem Health 2018,No
+1062-SW,ABMI Ecosystem Health 2018,Yes
+1086-NE,ABMI Ecosystem Health 2017,Yes
+1086-NW,ABMI Ecosystem Health 2017,No
+1086-SE,ABMI Ecosystem Health 2017,No
+1086-SW,ABMI Ecosystem Health 2017,Yes
+1088-NE,ABMI Ecosystem Health 2017,Yes
+1088-NW,ABMI Ecosystem Health 2017,No
+1088-SE,ABMI Ecosystem Health 2017,No
+1088-SW,ABMI Ecosystem Health 2017,Yes
+1119-NE,ABMI Ecosystem Health 2017,Yes
+1119-NW,ABMI Ecosystem Health 2017,No
+1119-SE,ABMI Ecosystem Health 2017,No
+1119-SW,ABMI Ecosystem Health 2017,Yes
+1120-NE,ABMI Ecosystem Health 2017,Yes
+1120-NW,ABMI Ecosystem Health 2017,No
+1120-SE,ABMI Ecosystem Health 2017,No
+1120-SW,ABMI Ecosystem Health 2017,Yes
+1121-NE,ABMI Ecosystem Health 2017,Yes
+1121-NW,ABMI Ecosystem Health 2017,No
+1121-SE,ABMI Ecosystem Health 2017,No
+1121-SW,ABMI Ecosystem Health 2017,Yes
+1150-NE,ABMI Ecosystem Health 2015,Yes
+1150-NW,ABMI Ecosystem Health 2015,Yes
+1150-SE,ABMI Ecosystem Health 2015,No
+1150-SW,ABMI Ecosystem Health 2015,No
+1151-NE,ABMI Ecosystem Health 2017,No
+1151-NW,ABMI Ecosystem Health 2017,Yes
+1151-SE,ABMI Ecosystem Health 2017,No
+1151-SW,ABMI Ecosystem Health 2017,NA
+1152-NE,ABMI Ecosystem Health 2017,No
+1152-NW,ABMI Ecosystem Health 2017,No
+1152-SE,ABMI Ecosystem Health 2017,Yes
+1152-SW,ABMI Ecosystem Health 2017,Yes
+1153-NE,ABMI Ecosystem Health 2017,Yes
+1153-NW,ABMI Ecosystem Health 2017,No
+1153-SE,ABMI Ecosystem Health 2017,No
+1153-SW,ABMI Ecosystem Health 2017,Yes
+1166-NE,ABMI Ecosystem Health 2018,Yes
+1166-NW,ABMI Ecosystem Health 2018,No
+1166-SE,ABMI Ecosystem Health 2018,No
+1166-SW,ABMI Ecosystem Health 2018,Yes
+1167-NE,ABMI Ecosystem Health 2018,Yes
+1167-NW,ABMI Ecosystem Health 2018,No
+1167-SE,ABMI Ecosystem Health 2018,No
+1167-SW,ABMI Ecosystem Health 2018,Yes
+1178-NE,ABMI Ecosystem Health 2017,Yes
+1178-NW,ABMI Ecosystem Health 2017,No
+1178-SE,ABMI Ecosystem Health 2017,No
+1178-SW,ABMI Ecosystem Health 2017,Yes
+1179-NE,ABMI Ecosystem Health 2017,No
+1179-NW,ABMI Ecosystem Health 2017,No
+1179-SE,ABMI Ecosystem Health 2017,Yes
+1179-SW,ABMI Ecosystem Health 2017,Yes
+1180-NE,ABMI Ecosystem Health 2017,Yes
+1180-NW,ABMI Ecosystem Health 2017,No
+1180-SE,ABMI Ecosystem Health 2017,NA
+1180-SW,ABMI Ecosystem Health 2017,Yes
+1181-NE,ABMI Ecosystem Health 2018,Yes
+1181-NW,ABMI Ecosystem Health 2018,No
+1181-SE,ABMI Ecosystem Health 2018,No
+1181-SW,ABMI Ecosystem Health 2018,Yes
+1182-NE,ABMI Ecosystem Health 2018,Yes
+1182-NW,ABMI Ecosystem Health 2018,No
+1182-SE,ABMI Ecosystem Health 2018,No
+1182-SW,ABMI Ecosystem Health 2018,Yes
+1183-NE,ABMI Ecosystem Health 2018,Yes
+1183-NW,ABMI Ecosystem Health 2018,No
+1183-SE,ABMI Ecosystem Health 2018,No
+1183-SW,ABMI Ecosystem Health 2018,Yes
+1190-NE,ABMI Ecosystem Health 2015,Yes
+1190-NW,ABMI Ecosystem Health 2015,No
+1190-SE,ABMI Ecosystem Health 2015,No
+1190-SW,ABMI Ecosystem Health 2015,Yes
+1191-NW,ABMI Ecosystem Health 2015,No
+1191-SE,ABMI Ecosystem Health 2015,No
+1191-SW,ABMI Ecosystem Health 2015,Yes
+1192B-NE,ABMI Ecosystem Health 2015,Yes
+1192B-NW,ABMI Ecosystem Health 2015,No
+1192B-SE,ABMI Ecosystem Health 2015,No
+1192B-SW,ABMI Ecosystem Health 2015,Yes
+1193-NE,ABMI Ecosystem Health 2017,Yes
+1193-NW,ABMI Ecosystem Health 2017,No
+1193-SE,ABMI Ecosystem Health 2017,No
+1193-SW,ABMI Ecosystem Health 2017,Yes
+1194-NE,ABMI Ecosystem Health 2017,Yes
+1194-NW,ABMI Ecosystem Health 2017,No
+1194-SE,ABMI Ecosystem Health 2017,No
+1194-SW,ABMI Ecosystem Health 2017,Yes
+1198-NE,ABMI Ecosystem Health 2018,Yes
+1198-NW,ABMI Ecosystem Health 2018,No
+1198-SE,ABMI Ecosystem Health 2018,No
+1198-SW,ABMI Ecosystem Health 2018,NA
+1199-NE,ABMI Ecosystem Health 2018,Yes
+1199-NW,ABMI Ecosystem Health 2018,No
+1199-SE,ABMI Ecosystem Health 2018,No
+1199-SW,ABMI Ecosystem Health 2018,Yes
+1200-NE,ABMI Ecosystem Health 2018,Yes
+1200-NW,ABMI Ecosystem Health 2018,No
+1200-SE,ABMI Ecosystem Health 2018,No
+1200-SW,ABMI Ecosystem Health 2018,Yes
+120-NE,ABMI Ecosystem Health 2016,NA
+120-NW,ABMI Ecosystem Health 2016,NA
+120-SE,ABMI Ecosystem Health 2016,NA
+120-SW,ABMI Ecosystem Health 2016,NA
+1210-NE,ABMI Ecosystem Health 2017,Yes
+1210-NW,ABMI Ecosystem Health 2017,No
+1210-SE,ABMI Ecosystem Health 2017,No
+1210-SW,ABMI Ecosystem Health 2017,Yes
+1211-NE,ABMI Ecosystem Health 2017,Yes
+1211-NW,ABMI Ecosystem Health 2017,No
+1211-SE,ABMI Ecosystem Health 2017,No
+1211-SW,ABMI Ecosystem Health 2017,Yes
+1212-NE,ABMI Ecosystem Health 2017,Yes
+1212-NW,ABMI Ecosystem Health 2017,No
+1212-SE,ABMI Ecosystem Health 2017,No
+1212-SW,ABMI Ecosystem Health 2017,Yes
+1213-NE,ABMI Ecosystem Health 2018,Yes
+1213-NW,ABMI Ecosystem Health 2018,No
+1213-SE,ABMI Ecosystem Health 2018,No
+1213-SW,ABMI Ecosystem Health 2018,Yes
+1214-NE,ABMI Ecosystem Health 2018,Yes
+1214-NW,ABMI Ecosystem Health 2018,No
+1214-SE,ABMI Ecosystem Health 2018,No
+1214-SW,ABMI Ecosystem Health 2018,Yes
+1215-NE,ABMI Ecosystem Health 2018,Yes
+1215-NW,ABMI Ecosystem Health 2018,No
+1215-SE,ABMI Ecosystem Health 2018,No
+1215-SW,ABMI Ecosystem Health 2018,No
+121-NE,ABMI Ecosystem Health 2016,Yes
+121-NW,ABMI Ecosystem Health 2016,No
+121-SE,ABMI Ecosystem Health 2016,No
+121-SW,ABMI Ecosystem Health 2016,Yes
+1222-NE,ABMI Ecosystem Health 2015,Yes
+1222-NW,ABMI Ecosystem Health 2015,No
+1222-SE,ABMI Ecosystem Health 2015,No
+1222-SW,ABMI Ecosystem Health 2015,Yes
+1223-NE,ABMI Ecosystem Health 2015,Yes
+1223-NW,ABMI Ecosystem Health 2015,No
+1223-SE,ABMI Ecosystem Health 2015,No
+1223-SW,ABMI Ecosystem Health 2015,Yes
+1224-NE,ABMI Ecosystem Health 2015,Yes
+1224-NW,ABMI Ecosystem Health 2015,No
+1224-SE,ABMI Ecosystem Health 2015,No
+1224-SW,ABMI Ecosystem Health 2015,Yes
+1225-NE,ABMI Ecosystem Health 2017,Yes
+1225-NW,ABMI Ecosystem Health 2017,No
+1225-SE,ABMI Ecosystem Health 2017,No
+1225-SW,ABMI Ecosystem Health 2017,Yes
+1226-NE,ABMI Ecosystem Health 2017,Yes
+1226-NW,ABMI Ecosystem Health 2017,No
+1226-SE,ABMI Ecosystem Health 2017,No
+1226-SW,ABMI Ecosystem Health 2017,Yes
+1228-NE,ABMI Ecosystem Health 2018,Yes
+1228-NW,ABMI Ecosystem Health 2018,No
+1228-SE,ABMI Ecosystem Health 2018,No
+1228-SW,ABMI Ecosystem Health 2018,Yes
+1229-NE,ABMI Ecosystem Health 2018,No
+1229-NW,ABMI Ecosystem Health 2018,No
+1229-SE,ABMI Ecosystem Health 2018,No
+1229-SW,ABMI Ecosystem Health 2018,Yes
+122-NE,ABMI Ecosystem Health 2016,Yes
+122-NW,ABMI Ecosystem Health 2016,No
+122-SE,ABMI Ecosystem Health 2016,No
+122-SW,ABMI Ecosystem Health 2016,Yes
+1230-NE,ABMI Ecosystem Health 2018,Yes
+1230-NW,ABMI Ecosystem Health 2018,No
+1230-SE,ABMI Ecosystem Health 2018,Yes
+1230-SW,ABMI Ecosystem Health 2018,Yes
+1240-NE,ABMI Ecosystem Health 2017,Yes
+1240-NW,ABMI Ecosystem Health 2017,No
+1240-SE,ABMI Ecosystem Health 2017,No
+1240-SW,ABMI Ecosystem Health 2017,Yes
+1241-NE,ABMI Ecosystem Health 2017,Yes
+1241-NW,ABMI Ecosystem Health 2017,No
+1241-SE,ABMI Ecosystem Health 2017,No
+1241-SW,ABMI Ecosystem Health 2017,Yes
+1242-NE,ABMI Ecosystem Health 2017,Yes
+1242-NW,ABMI Ecosystem Health 2017,No
+1242-SE,ABMI Ecosystem Health 2017,No
+1242-SE-b,ABMI Ecosystem Health 2017,No
+1242-SW,ABMI Ecosystem Health 2017,Yes
+1243-NE,ABMI Ecosystem Health 2018,Yes
+1243-NW,ABMI Ecosystem Health 2018,No
+1243-SE,ABMI Ecosystem Health 2018,No
+1243-SW,ABMI Ecosystem Health 2018,Yes
+1244-NE,ABMI Ecosystem Health 2018,Yes
+1244-NW,ABMI Ecosystem Health 2018,No
+1244-SE,ABMI Ecosystem Health 2018,No
+1244-SW,ABMI Ecosystem Health 2018,Yes
+1245-NE,ABMI Ecosystem Health 2018,Yes
+1245-NW,ABMI Ecosystem Health 2018,No
+1245-SE,ABMI Ecosystem Health 2018,No
+1245-SW,ABMI Ecosystem Health 2018,Yes
+1252-NE,ABMI Ecosystem Health 2015,Yes
+1252-NW,ABMI Ecosystem Health 2015,No
+1252-SE,ABMI Ecosystem Health 2015,No
+1252-SW,ABMI Ecosystem Health 2015,Yes
+1253-NE,ABMI Ecosystem Health 2015,Yes
+1253-NW,ABMI Ecosystem Health 2015,No
+1253-SE,ABMI Ecosystem Health 2015,No
+1253-SW,ABMI Ecosystem Health 2015,Yes
+1254-NE,ABMI Ecosystem Health 2015,Yes
+1254-NW,ABMI Ecosystem Health 2015,No
+1254-SW,ABMI Ecosystem Health 2015,Yes
+1255-NE,ABMI Ecosystem Health 2017,Yes
+1255-NW,ABMI Ecosystem Health 2017,No
+1255-SE,ABMI Ecosystem Health 2017,No
+1255-SW,ABMI Ecosystem Health 2017,Yes
+1256-NE,ABMI Ecosystem Health 2017,Yes
+1256-NW,ABMI Ecosystem Health 2017,No
+1256-SE,ABMI Ecosystem Health 2017,No
+1256-SW,ABMI Ecosystem Health 2017,Yes
+1263-NE,ABMI Ecosystem Health 2017,Yes
+1263-NW,ABMI Ecosystem Health 2017,No
+1263-SE,ABMI Ecosystem Health 2017,No
+1263-SW,ABMI Ecosystem Health 2017,Yes
+1264-NE,ABMI Ecosystem Health 2017,Yes
+1264-NW,ABMI Ecosystem Health 2017,No
+1264-SE,ABMI Ecosystem Health 2017,No
+1264-SW,ABMI Ecosystem Health 2017,Yes
+1265-NE,ABMI Ecosystem Health 2017,Yes
+1265-NW,ABMI Ecosystem Health 2017,No
+1265-SE,ABMI Ecosystem Health 2017,No
+1265-SW,ABMI Ecosystem Health 2017,Yes
+1266-NE,ABMI Ecosystem Health 2018,Yes
+1266-NW,ABMI Ecosystem Health 2018,No
+1266-SE,ABMI Ecosystem Health 2018,No
+1266-SW,ABMI Ecosystem Health 2018,Yes
+1267-NE,ABMI Ecosystem Health 2018,Yes
+1267-NW,ABMI Ecosystem Health 2018,No
+1267-SE,ABMI Ecosystem Health 2018,No
+1267-SW,ABMI Ecosystem Health 2018,Yes
+1268-NE,ABMI Ecosystem Health 2018,Yes
+1268-NW,ABMI Ecosystem Health 2018,No
+1268-SE,ABMI Ecosystem Health 2018,No
+1268-SW,ABMI Ecosystem Health 2018,Yes
+1275-NE,ABMI Ecosystem Health 2015,Yes
+1275-NW,ABMI Ecosystem Health 2015,No
+1275-SE,ABMI Ecosystem Health 2015,No
+1275-SW,ABMI Ecosystem Health 2015,Yes
+1276-NE,ABMI Ecosystem Health 2015,Yes
+1276-NW,ABMI Ecosystem Health 2015,No
+1276-NW-b,ABMI Ecosystem Health 2015,No
+1276-SE,ABMI Ecosystem Health 2015,Yes
+1276-SW,ABMI Ecosystem Health 2015,No
+1277-NE,ABMI Ecosystem Health 2015,No
+1277-NW,ABMI Ecosystem Health 2015,No
+1277-SE,ABMI Ecosystem Health 2015,Yes
+1277-SW,ABMI Ecosystem Health 2015,Yes
+1278-NE,ABMI Ecosystem Health 2017,Yes
+1278-NW,ABMI Ecosystem Health 2017,No
+1278-SE,ABMI Ecosystem Health 2017,No
+1278-SW,ABMI Ecosystem Health 2017,Yes
+1279-NE,ABMI Ecosystem Health 2017,Yes
+1279-NW,ABMI Ecosystem Health 2017,No
+1279-SE,ABMI Ecosystem Health 2017,No
+1279-SW,ABMI Ecosystem Health 2017,Yes
+1280-NE,ABMI Ecosystem Health 2017,Yes
+1280-NW,ABMI Ecosystem Health 2017,No
+1280-SE,ABMI Ecosystem Health 2017,No
+1280-SW,ABMI Ecosystem Health 2017,Yes
+1281-NE,ABMI Ecosystem Health 2018,Yes
+1281-SW,ABMI Ecosystem Health 2018,No
+1282-NE,ABMI Ecosystem Health 2018,Yes
+1282-SW,ABMI Ecosystem Health 2018,No
+1283-NE,ABMI Ecosystem Health 2018,Yes
+1283-SW,ABMI Ecosystem Health 2018,No
+1284-NE,ABMI Ecosystem Health 2016,Yes
+1284-NW,ABMI Ecosystem Health 2016,No
+1284-SE,ABMI Ecosystem Health 2016,No
+1284-SW,ABMI Ecosystem Health 2016,Yes
+1285-NE,ABMI Ecosystem Health 2016,Yes
+1285-NW,ABMI Ecosystem Health 2016,No
+1285-SE,ABMI Ecosystem Health 2016,No
+1285-SW,ABMI Ecosystem Health 2016,Yes
+1291-NE,ABMI Ecosystem Health 2017,NA
+1291-NW,ABMI Ecosystem Health 2017,No
+1291-SE,ABMI Ecosystem Health 2017,NA
+1291-SW,ABMI Ecosystem Health 2017,NA
+1292-NE,ABMI Ecosystem Health 2017,Yes
+1292-NW,ABMI Ecosystem Health 2017,No
+1292-SE,ABMI Ecosystem Health 2017,No
+1292-SW,ABMI Ecosystem Health 2017,Yes
+1293-NE,ABMI Ecosystem Health 2017,Yes
+1293-NW,ABMI Ecosystem Health 2017,No
+1293-SE,ABMI Ecosystem Health 2017,No
+1293-SW,ABMI Ecosystem Health 2017,Yes
+1294-NE,ABMI Ecosystem Health 2018,Yes
+1294-NW,ABMI Ecosystem Health 2018,No
+1294-SE,ABMI Ecosystem Health 2018,No
+1294-SW,ABMI Ecosystem Health 2018,Yes
+1295-NE,ABMI Ecosystem Health 2018,Yes
+1295-NW,ABMI Ecosystem Health 2018,No
+1295-SE,ABMI Ecosystem Health 2018,No
+1295-SW,ABMI Ecosystem Health 2018,Yes
+1296-NE,ABMI Ecosystem Health 2018,Yes
+1296-NW,ABMI Ecosystem Health 2018,No
+1296-SE,ABMI Ecosystem Health 2018,No
+1296-SW,ABMI Ecosystem Health 2018,Yes
+1303-NE,ABMI Ecosystem Health 2015,No
+1303-NW,ABMI Ecosystem Health 2015,No
+1303-SE,ABMI Ecosystem Health 2015,No
+1303-SW,ABMI Ecosystem Health 2015,No
+1304-NE,ABMI Ecosystem Health 2015,Yes
+1304-NW,ABMI Ecosystem Health 2015,No
+1304-SE,ABMI Ecosystem Health 2015,No
+1304-SW,ABMI Ecosystem Health 2015,Yes
+1305-NE,ABMI Ecosystem Health 2015,Yes
+1305-NE-b,ABMI Ecosystem Health 2015,Yes
+1305-NW,ABMI Ecosystem Health 2015,Yes
+1305-SE,ABMI Ecosystem Health 2015,No
+1305-SW,ABMI Ecosystem Health 2015,No
+1306-NE,ABMI Ecosystem Health 2017,No
+1306-NW,ABMI Ecosystem Health 2017,No
+1306-SE,ABMI Ecosystem Health 2017,Yes
+1306-SW,ABMI Ecosystem Health 2017,Yes
+1307-NE,ABMI Ecosystem Health 2017,Yes
+1307-NW,ABMI Ecosystem Health 2017,No
+1307-SE,ABMI Ecosystem Health 2017,No
+1307-SW,ABMI Ecosystem Health 2017,Yes
+1308-NE,ABMI Ecosystem Health 2017,Yes
+1308-NW,ABMI Ecosystem Health 2017,No
+1308-SE,ABMI Ecosystem Health 2017,No
+1308-SW,ABMI Ecosystem Health 2017,Yes
+1309-NE,ABMI Ecosystem Health 2018,Yes
+1309-SW,ABMI Ecosystem Health 2018,No
+1310-NE,ABMI Ecosystem Health 2018,Yes
+1310-SW,ABMI Ecosystem Health 2018,No
+1311-NE,ABMI Ecosystem Health 2018,Yes
+1311-SW,ABMI Ecosystem Health 2018,No
+1312-NE,ABMI Ecosystem Health 2016,Yes
+1312-NW,ABMI Ecosystem Health 2016,No
+1312-SE,ABMI Ecosystem Health 2016,No
+1312-SW,ABMI Ecosystem Health 2016,Yes
+1313-NE,ABMI Ecosystem Health 2016,Yes
+1313-NW,ABMI Ecosystem Health 2016,No
+1313-SE,ABMI Ecosystem Health 2016,Yes
+1313-SW,ABMI Ecosystem Health 2016,No
+1314-NE,ABMI Ecosystem Health 2016,Yes
+1314-NW,ABMI Ecosystem Health 2016,No
+1314-SE,ABMI Ecosystem Health 2016,No
+1314-SW,ABMI Ecosystem Health 2016,Yes
+1320-NE,ABMI Ecosystem Health 2018,Yes
+1320-NW,ABMI Ecosystem Health 2018,No
+1320-SE,ABMI Ecosystem Health 2018,No
+1320-SW,ABMI Ecosystem Health 2018,NA
+1321-NE,ABMI Ecosystem Health 2017,Yes
+1321-NW,ABMI Ecosystem Health 2017,No
+1321-SE,ABMI Ecosystem Health 2017,No
+1321-SW,ABMI Ecosystem Health 2017,Yes
+1322-NE,ABMI Ecosystem Health 2017,Yes
+1322-NW,ABMI Ecosystem Health 2017,No
+1322-SE,ABMI Ecosystem Health 2017,No
+1322-SW,ABMI Ecosystem Health 2017,Yes
+1323-NE,ABMI Ecosystem Health 2018,Yes
+1323-NW,ABMI Ecosystem Health 2018,No
+1323-SE,ABMI Ecosystem Health 2018,No
+1323-SW,ABMI Ecosystem Health 2018,Yes
+1324-NE,ABMI Ecosystem Health 2018,Yes
+1324-NW,ABMI Ecosystem Health 2018,No
+1324-SE,ABMI Ecosystem Health 2018,No
+1324-SW,ABMI Ecosystem Health 2018,Yes
+1325-NE,ABMI Ecosystem Health 2018,Yes
+1325-NW,ABMI Ecosystem Health 2018,No
+1325-SE,ABMI Ecosystem Health 2018,No
+1325-SW,ABMI Ecosystem Health 2018,Yes
+1332-NE,ABMI Ecosystem Health 2015,Yes
+1332-NW,ABMI Ecosystem Health 2015,No
+1332-SE,ABMI Ecosystem Health 2015,No
+1332-SW,ABMI Ecosystem Health 2015,Yes
+1333-NE,ABMI Ecosystem Health 2015,No
+1333-NW,ABMI Ecosystem Health 2015,No
+1333-SE,ABMI Ecosystem Health 2015,Yes
+1333-SW,ABMI Ecosystem Health 2015,Yes
+1334-NE,ABMI Ecosystem Health 2015,Yes
+1334-NW,ABMI Ecosystem Health 2015,No
+1334-SE,ABMI Ecosystem Health 2015,No
+1334-SW,ABMI Ecosystem Health 2015,Yes
+1335-NE,ABMI Ecosystem Health 2017,Yes
+1335-NW,ABMI Ecosystem Health 2017,No
+1335-SE,ABMI Ecosystem Health 2017,Yes
+1335-SW,ABMI Ecosystem Health 2017,Yes
+1336-NE,ABMI Ecosystem Health 2017,Yes
+1336-NW,ABMI Ecosystem Health 2017,No
+1336-SE,ABMI Ecosystem Health 2017,No
+1336-SW,ABMI Ecosystem Health 2017,Yes
+1337-NE,ABMI Ecosystem Health 2017,Yes
+1337-NW,ABMI Ecosystem Health 2017,No
+1337-SE,ABMI Ecosystem Health 2017,No
+1337-SW,ABMI Ecosystem Health 2017,Yes
+1338-NE,ABMI Ecosystem Health 2018,Yes
+1338-SW,ABMI Ecosystem Health 2018,No
+1339-NE,ABMI Ecosystem Health 2018,Yes
+1339-SW,ABMI Ecosystem Health 2018,No
+1340-NE,ABMI Ecosystem Health 2018,Yes
+1340-SW,ABMI Ecosystem Health 2018,No
+1341-NE,ABMI Ecosystem Health 2016,Yes
+1341-NW,ABMI Ecosystem Health 2016,No
+1341-SE,ABMI Ecosystem Health 2016,No
+1341-SW,ABMI Ecosystem Health 2016,Yes
+1342-NE,ABMI Ecosystem Health 2016,No
+1342-NW,ABMI Ecosystem Health 2016,No
+1342-SE,ABMI Ecosystem Health 2016,Yes
+1342-SW,ABMI Ecosystem Health 2016,Yes
+1343-NE,ABMI Ecosystem Health 2016,Yes
+1343-NW,ABMI Ecosystem Health 2016,No
+1343-SE,ABMI Ecosystem Health 2016,No
+1343-SW,ABMI Ecosystem Health 2016,Yes
+1346-NE,ABMI Ecosystem Health 2018,Yes
+1346-NW,ABMI Ecosystem Health 2018,No
+1346-SE,ABMI Ecosystem Health 2018,No
+1346-SW,ABMI Ecosystem Health 2018,Yes
+1356-NE,ABMI Ecosystem Health 2017,Yes
+1356-NW,ABMI Ecosystem Health 2017,No
+1356-SE,ABMI Ecosystem Health 2017,No
+1356-SW,ABMI Ecosystem Health 2017,Yes
+1357-NE,ABMI Ecosystem Health 2017,Yes
+1357-NW,ABMI Ecosystem Health 2017,No
+1357-SE,ABMI Ecosystem Health 2017,No
+1357-SW,ABMI Ecosystem Health 2017,Yes
+1358-NE,ABMI Ecosystem Health 2017,Yes
+1358-NW,ABMI Ecosystem Health 2017,No
+1358-SE,ABMI Ecosystem Health 2017,No
+1358-SW,ABMI Ecosystem Health 2017,Yes
+1360-NE,ABMI Ecosystem Health 2018,Yes
+1360-SW,ABMI Ecosystem Health 2018,No
+1361-NE,ABMI Ecosystem Health 2018,Yes
+1361-SW,ABMI Ecosystem Health 2018,No
+1362-NE,ABMI Ecosystem Health 2016,Yes
+1362-NW,ABMI Ecosystem Health 2016,No
+1362-SE,ABMI Ecosystem Health 2016,No
+1362-SW,ABMI Ecosystem Health 2016,Yes
+1363-NE,ABMI Ecosystem Health 2016,Yes
+1363-NW,ABMI Ecosystem Health 2016,No
+1363-SE,ABMI Ecosystem Health 2016,No
+1363-SW,ABMI Ecosystem Health 2016,Yes
+1364-NE,ABMI Ecosystem Health 2016,Yes
+1364-NW,ABMI Ecosystem Health 2016,No
+1364-SE,ABMI Ecosystem Health 2016,No
+1364-SW,ABMI Ecosystem Health 2016,Yes
+1368-NE,ABMI Ecosystem Health 2015,Yes
+1368-NW,ABMI Ecosystem Health 2015,No
+1368-SE,ABMI Ecosystem Health 2015,No
+1368-SW,ABMI Ecosystem Health 2015,Yes
+1369-NE,ABMI Ecosystem Health 2015,Yes
+1369-NW,ABMI Ecosystem Health 2015,No
+1369-SE,ABMI Ecosystem Health 2015,No
+1369-SW,ABMI Ecosystem Health 2015,Yes
+1381-NE,ABMI Ecosystem Health 2017,Yes
+1381-NW,ABMI Ecosystem Health 2017,No
+1381-SE,ABMI Ecosystem Health 2017,No
+1381-SW,ABMI Ecosystem Health 2017,Yes
+1382-NE,ABMI Ecosystem Health 2017,No
+1382-NW,ABMI Ecosystem Health 2017,No
+1382-SE,ABMI Ecosystem Health 2017,No
+1382-SW,ABMI Ecosystem Health 2017,No
+1383-NE,ABMI Ecosystem Health 2017,Yes
+1383-NW,ABMI Ecosystem Health 2017,No
+1383-SE,ABMI Ecosystem Health 2017,No
+1383-SW,ABMI Ecosystem Health 2017,Yes
+1384-NE,ABMI Ecosystem Health 2018,Yes
+1384-SW,ABMI Ecosystem Health 2018,No
+1385-NE,ABMI Ecosystem Health 2018,Yes
+1385-SW,ABMI Ecosystem Health 2018,No
+1387-NE,ABMI Ecosystem Health 2016,Yes
+1387-NW,ABMI Ecosystem Health 2016,No
+1387-SE,ABMI Ecosystem Health 2016,No
+1387-SW,ABMI Ecosystem Health 2016,Yes
+1388B-NE,ABMI Ecosystem Health 2016,Yes
+1388B-NW,ABMI Ecosystem Health 2016,No
+1388B-SE,ABMI Ecosystem Health 2016,No
+1388B-SW,ABMI Ecosystem Health 2016,Yes
+1389-NE,ABMI Ecosystem Health 2016,Yes
+1389-NW,ABMI Ecosystem Health 2016,No
+1389-SE,ABMI Ecosystem Health 2016,No
+1389-SW,ABMI Ecosystem Health 2016,Yes
+1393-NE,ABMI Ecosystem Health 2015,Yes
+1393-NW,ABMI Ecosystem Health 2015,No
+1393-SE,ABMI Ecosystem Health 2015,No
+1394-NE,ABMI Ecosystem Health 2015,Yes
+1394-NW,ABMI Ecosystem Health 2015,No
+1394-SE,ABMI Ecosystem Health 2015,No
+1394-SW,ABMI Ecosystem Health 2015,Yes
+1395-NE,ABMI Ecosystem Health 2015,Yes
+1395-NW,ABMI Ecosystem Health 2015,No
+1395-SE,ABMI Ecosystem Health 2015,No
+1395-SW,ABMI Ecosystem Health 2015,Yes
+13-NE,ABMI Ecosystem Health 2015,Yes
+13-NW,ABMI Ecosystem Health 2015,No
+13-SE,ABMI Ecosystem Health 2015,No
+13-SW,ABMI Ecosystem Health 2015,Yes
+1405B-NE,ABMI Ecosystem Health 2017,No
+1405B-NW,ABMI Ecosystem Health 2017,No
+1405B-SE,ABMI Ecosystem Health 2017,No
+1405B-SW,ABMI Ecosystem Health 2017,Yes
+1405-NE,ABMI Ecosystem Health 2017,No
+1405-NW,ABMI Ecosystem Health 2017,No
+1405-SE,ABMI Ecosystem Health 2017,No
+1405-SW,ABMI Ecosystem Health 2017,Yes
+1406-NE,ABMI Ecosystem Health 2017,NA
+1406-NW,ABMI Ecosystem Health 2017,No
+1406-SE,ABMI Ecosystem Health 2017,NA
+1406-SW,ABMI Ecosystem Health 2017,Yes
+1407-NE,ABMI Ecosystem Health 2017,No
+1407-NW,ABMI Ecosystem Health 2017,No
+1407-SE,ABMI Ecosystem Health 2017,No
+1407-SW,ABMI Ecosystem Health 2017,No
+1408-NE,ABMI Ecosystem Health 2018,Yes
+1408-SW,ABMI Ecosystem Health 2018,No
+1409-NE,ABMI Ecosystem Health 2018,Yes
+1409-SW,ABMI Ecosystem Health 2018,No
+1410-NE,ABMI Ecosystem Health 2018,Yes
+1410-SW,ABMI Ecosystem Health 2018,No
+1411-NE,ABMI Ecosystem Health 2016,Yes
+1411-NE-b,ABMI Ecosystem Health 2016,Yes
+1411-NW,ABMI Ecosystem Health 2016,No
+1411-NW-b,ABMI Ecosystem Health 2016,No
+1411-SE,ABMI Ecosystem Health 2016,No
+1411-SE-b,ABMI Ecosystem Health 2016,No
+1411-SW,ABMI Ecosystem Health 2016,Yes
+1411-SW-b,ABMI Ecosystem Health 2016,Yes
+1412-NE,ABMI Ecosystem Health 2016,Yes
+1412-NW,ABMI Ecosystem Health 2016,No
+1412-SE,ABMI Ecosystem Health 2016,No
+1412-SW,ABMI Ecosystem Health 2016,Yes
+1413-NE,ABMI Ecosystem Health 2016,Yes
+1413-NW,ABMI Ecosystem Health 2016,No
+1413-SE,ABMI Ecosystem Health 2016,No
+1413-SW,ABMI Ecosystem Health 2016,Yes
+1417-NE,ABMI Ecosystem Health 2015,Yes
+1417-NW,ABMI Ecosystem Health 2015,No
+1417-SE,ABMI Ecosystem Health 2015,No
+1417-SW,ABMI Ecosystem Health 2015,Yes
+1418-NE,ABMI Ecosystem Health 2015,Yes
+1418-NW,ABMI Ecosystem Health 2015,No
+1418-SE,ABMI Ecosystem Health 2015,No
+1418-SW,ABMI Ecosystem Health 2015,Yes
+1419-NE,ABMI Ecosystem Health 2015,Yes
+1419-NE-b,ABMI Ecosystem Health 2015,Yes
+1419-NW,ABMI Ecosystem Health 2015,No
+1419-NW-b,ABMI Ecosystem Health 2015,No
+1419-SE,ABMI Ecosystem Health 2015,No
+1419-SW,ABMI Ecosystem Health 2015,Yes
+1420-NE,ABMI Ecosystem Health 2017,Yes
+1420-NW,ABMI Ecosystem Health 2017,No
+1420-SE,ABMI Ecosystem Health 2017,No
+1420-SW,ABMI Ecosystem Health 2017,Yes
+1422-NE,ABMI Ecosystem Health 2018,NA
+1422-NW,ABMI Ecosystem Health 2018,No
+1422-SE,ABMI Ecosystem Health 2018,No
+1422-SW,ABMI Ecosystem Health 2018,Yes
+1423-NE,ABMI Ecosystem Health 2018,Yes
+1423-NW,ABMI Ecosystem Health 2018,NA
+1423-SE,ABMI Ecosystem Health 2018,No
+1423-SW,ABMI Ecosystem Health 2018,Yes
+1424-NE,ABMI Ecosystem Health 2017,Yes
+1424-NW,ABMI Ecosystem Health 2017,No
+1424-SE,ABMI Ecosystem Health 2017,No
+1424-SW,ABMI Ecosystem Health 2017,Yes
+1425-NE,ABMI Ecosystem Health 2017,Yes
+1425-NW,ABMI Ecosystem Health 2017,No
+1425-SE,ABMI Ecosystem Health 2017,No
+1425-SW,ABMI Ecosystem Health 2017,Yes
+1426-NE,ABMI Ecosystem Health 2017,Yes
+1426-NW,ABMI Ecosystem Health 2017,No
+1426-SE,ABMI Ecosystem Health 2017,No
+1426-SW,ABMI Ecosystem Health 2017,Yes
+1427-NE,ABMI Ecosystem Health 2017,Yes
+1427-NW,ABMI Ecosystem Health 2017,No
+1427-SE,ABMI Ecosystem Health 2017,No
+1427-SW,ABMI Ecosystem Health 2017,Yes
+1428-NE,ABMI Ecosystem Health 2016,No
+1428-NW,ABMI Ecosystem Health 2016,No
+1428-SE,ABMI Ecosystem Health 2016,Yes
+1428-SW,ABMI Ecosystem Health 2016,Yes
+1429-NE,ABMI Ecosystem Health 2016,Yes
+1429-NW,ABMI Ecosystem Health 2016,No
+1429-SE,ABMI Ecosystem Health 2016,No
+1429-SW,ABMI Ecosystem Health 2016,Yes
+1430-NE,ABMI Ecosystem Health 2016,Yes
+1430-NW,ABMI Ecosystem Health 2016,No
+1430-SE,ABMI Ecosystem Health 2016,Yes
+1430-SW,ABMI Ecosystem Health 2016,No
+1431-NE,ABMI Ecosystem Health 2018,Yes
+1431-SW,ABMI Ecosystem Health 2018,No
+1432-NE,ABMI Ecosystem Health 2018,Yes
+1432-SW,ABMI Ecosystem Health 2018,No
+1433-NE,ABMI Ecosystem Health 2018,Yes
+1433-SW,ABMI Ecosystem Health 2018,No
+1434-NE,ABMI Ecosystem Health 2015,Yes
+1434-NW,ABMI Ecosystem Health 2015,No
+1434-SE,ABMI Ecosystem Health 2015,No
+1434-SW,ABMI Ecosystem Health 2015,Yes
+1435-NE,ABMI Ecosystem Health 2015,Yes
+1435-NW,ABMI Ecosystem Health 2015,No
+1435-SE,ABMI Ecosystem Health 2015,No
+1435-SW,ABMI Ecosystem Health 2015,Yes
+1436-NE,ABMI Ecosystem Health 2015,Yes
+1436-NW,ABMI Ecosystem Health 2015,No
+1436-SE,ABMI Ecosystem Health 2015,No
+1436-SW,ABMI Ecosystem Health 2015,Yes
+1437-NE,ABMI Ecosystem Health 2017,Yes
+1437-NW,ABMI Ecosystem Health 2017,No
+1437-SE,ABMI Ecosystem Health 2017,No
+1437-SW,ABMI Ecosystem Health 2017,Yes
+1438-NE,ABMI Ecosystem Health 2017,Yes
+1438-NW,ABMI Ecosystem Health 2017,No
+1438-SE,ABMI Ecosystem Health 2017,No
+1438-SW,ABMI Ecosystem Health 2017,Yes
+1439-NE,ABMI Ecosystem Health 2017,Yes
+1439-NW,ABMI Ecosystem Health 2017,No
+1439-SE,ABMI Ecosystem Health 2017,NA
+1439-SW,ABMI Ecosystem Health 2017,NA
+1440-NE,ABMI Ecosystem Health 2018,Yes
+1440-SW,ABMI Ecosystem Health 2018,No
+1441-NE,ABMI Ecosystem Health 2018,Yes
+1441-SW,ABMI Ecosystem Health 2018,No
+1442-NE,ABMI Ecosystem Health 2018,Yes
+1442-SW,ABMI Ecosystem Health 2018,No
+1443-NE,ABMI Ecosystem Health 2016,Yes
+1443-NW,ABMI Ecosystem Health 2016,No
+1443-SE,ABMI Ecosystem Health 2016,No
+1443-SW,ABMI Ecosystem Health 2016,Yes
+1444-NE,ABMI Ecosystem Health 2018,Yes
+1444-NW,ABMI Ecosystem Health 2018,No
+1444-SE,ABMI Ecosystem Health 2018,No
+1444-SW,ABMI Ecosystem Health 2018,Yes
+1445-NE,ABMI Ecosystem Health 2018,Yes
+1445-NW,ABMI Ecosystem Health 2018,No
+1445-SE,ABMI Ecosystem Health 2018,NA
+1445-SW,ABMI Ecosystem Health 2018,Yes
+1446-NE,ABMI Ecosystem Health 2018,Yes
+1446-NW,ABMI Ecosystem Health 2018,No
+1446-SE,ABMI Ecosystem Health 2018,No
+1446-SW,ABMI Ecosystem Health 2018,Yes
+1447-NE,ABMI Ecosystem Health 2017,Yes
+1447-NW,ABMI Ecosystem Health 2017,No
+1447-SE,ABMI Ecosystem Health 2017,No
+1447-SW,ABMI Ecosystem Health 2017,NA
+1448-NE,ABMI Ecosystem Health 2017,Yes
+1448-NW,ABMI Ecosystem Health 2017,No
+1448-SE,ABMI Ecosystem Health 2017,No
+1448-SW,ABMI Ecosystem Health 2017,Yes
+1449-NE,ABMI Ecosystem Health 2018,Yes
+1449-NW,ABMI Ecosystem Health 2018,No
+1449-SE,ABMI Ecosystem Health 2018,Yes
+1449-SW,ABMI Ecosystem Health 2018,NA
+1450-NE,ABMI Ecosystem Health 2016,Yes
+1450-NW,ABMI Ecosystem Health 2016,No
+1450-SE,ABMI Ecosystem Health 2016,No
+1450-SW,ABMI Ecosystem Health 2016,Yes
+1451-NE,ABMI Ecosystem Health 2016,Yes
+1451-NW,ABMI Ecosystem Health 2016,Yes
+1451-SE,ABMI Ecosystem Health 2016,No
+1451-SW,ABMI Ecosystem Health 2016,No
+1452B-NE,ABMI Ecosystem Health 2016,Yes
+1452B-NW,ABMI Ecosystem Health 2016,Yes
+1452B-SE,ABMI Ecosystem Health 2016,No
+1452B-SW,ABMI Ecosystem Health 2016,No
+1453-NE,ABMI Ecosystem Health 2018,Yes
+1453-SW,ABMI Ecosystem Health 2018,No
+1454-NE,ABMI Ecosystem Health 2018,Yes
+1454-SW,ABMI Ecosystem Health 2018,No
+1456-NE,ABMI Ecosystem Health 2015,Yes
+1457-NE,ABMI Ecosystem Health 2015,Yes
+1457-NW,ABMI Ecosystem Health 2015,No
+1457-SE,ABMI Ecosystem Health 2015,No
+1457-SW,ABMI Ecosystem Health 2015,Yes
+1458-NE,ABMI Ecosystem Health 2015,Yes
+1458-NW,ABMI Ecosystem Health 2015,No
+1458-SE,ABMI Ecosystem Health 2015,No
+1458-SW,ABMI Ecosystem Health 2015,Yes
+1459-NE,ABMI Ecosystem Health 2017,Yes
+1459-NW,ABMI Ecosystem Health 2017,No
+1459-SE,ABMI Ecosystem Health 2017,No
+1459-SW,ABMI Ecosystem Health 2017,Yes
+1460-NE,ABMI Ecosystem Health 2017,Yes
+1460-NW,ABMI Ecosystem Health 2017,No
+1460-SE,ABMI Ecosystem Health 2017,No
+1460-SW,ABMI Ecosystem Health 2017,Yes
+1461-NE,ABMI Ecosystem Health 2017,Yes
+1461-NW,ABMI Ecosystem Health 2017,No
+1461-SE,ABMI Ecosystem Health 2017,No
+1461-SW,ABMI Ecosystem Health 2017,Yes
+1462-NE,ABMI Ecosystem Health 2018,Yes
+1462-SW,ABMI Ecosystem Health 2018,No
+1463-NE,ABMI Ecosystem Health 2018,Yes
+1463-SW,ABMI Ecosystem Health 2018,No
+1464-NE,ABMI Ecosystem Health 2018,Yes
+1464-SW,ABMI Ecosystem Health 2018,No
+1465-NE,ABMI Ecosystem Health 2016,No
+1465-NW,ABMI Ecosystem Health 2016,No
+1465-SE,ABMI Ecosystem Health 2016,No
+1465-SW,ABMI Ecosystem Health 2016,No
+1466-NE,ABMI Ecosystem Health 2017,No
+1466-NW,ABMI Ecosystem Health 2017,No
+1466-SE,ABMI Ecosystem Health 2017,No
+1466-SW,ABMI Ecosystem Health 2017,No
+1467-NE,ABMI Ecosystem Health 2017,No
+1467-NW,ABMI Ecosystem Health 2017,No
+1467-SE,ABMI Ecosystem Health 2017,No
+1467-SW,ABMI Ecosystem Health 2017,No
+1468-NE,ABMI Ecosystem Health 2018,Yes
+1468-NW,ABMI Ecosystem Health 2018,No
+1468-SE,ABMI Ecosystem Health 2018,No
+1468-SW,ABMI Ecosystem Health 2018,Yes
+1469-NE,ABMI Ecosystem Health 2018,Yes
+1469-NW,ABMI Ecosystem Health 2018,No
+1469-SE,ABMI Ecosystem Health 2018,No
+1469-SW,ABMI Ecosystem Health 2018,NA
+1470-NE,ABMI Ecosystem Health 2017,Yes
+1470-NW,ABMI Ecosystem Health 2017,No
+1470-SE,ABMI Ecosystem Health 2017,No
+1470-SW,ABMI Ecosystem Health 2017,Yes
+1471-NE,ABMI Ecosystem Health 2016,No
+1471-NW,ABMI Ecosystem Health 2016,Yes
+1471-SE,ABMI Ecosystem Health 2016,No
+1471-SW,ABMI Ecosystem Health 2016,No
+1472-NE,ABMI Ecosystem Health 2016,No
+1472-NW,ABMI Ecosystem Health 2016,NA
+1472-SE,ABMI Ecosystem Health 2016,No
+1472-SW,ABMI Ecosystem Health 2016,No
+1473-NE,ABMI Ecosystem Health 2016,No
+1473-NW,ABMI Ecosystem Health 2016,No
+1473-SE,ABMI Ecosystem Health 2016,No
+1473-SW,ABMI Ecosystem Health 2016,No
+1474-NE,ABMI Ecosystem Health 2018,Yes
+1474-SW,ABMI Ecosystem Health 2018,No
+1475-NE,ABMI Ecosystem Health 2018,Yes
+1475-SW,ABMI Ecosystem Health 2018,No
+1477-NE,ABMI Ecosystem Health 2015,Yes
+1477-NW,ABMI Ecosystem Health 2015,No
+1477-SE,ABMI Ecosystem Health 2015,No
+1477-SW,ABMI Ecosystem Health 2015,Yes
+1478-NE,ABMI Ecosystem Health 2015,Yes
+1478-NW,ABMI Ecosystem Health 2015,No
+1478-SE,ABMI Ecosystem Health 2015,No
+1478-SW,ABMI Ecosystem Health 2015,Yes
+1479-NE,ABMI Ecosystem Health 2015,Yes
+1479-NW,ABMI Ecosystem Health 2015,No
+1479-NW-b,ABMI Ecosystem Health 2015,No
+1479-SE,ABMI Ecosystem Health 2015,No
+1479-SW,ABMI Ecosystem Health 2015,Yes
+1480-NE,ABMI Ecosystem Health 2017,Yes
+1480-NW,ABMI Ecosystem Health 2017,No
+1480-SE,ABMI Ecosystem Health 2017,No
+1480-SW,ABMI Ecosystem Health 2017,Yes
+1481-NE,ABMI Ecosystem Health 2017,Yes
+1481-NW,ABMI Ecosystem Health 2017,No
+1481-SE,ABMI Ecosystem Health 2017,No
+1481-SW,ABMI Ecosystem Health 2017,Yes
+1482-NE,ABMI Ecosystem Health 2017,Yes
+1482-NW,ABMI Ecosystem Health 2017,No
+1482-SE,ABMI Ecosystem Health 2017,No
+1482-SW,ABMI Ecosystem Health 2017,Yes
+1486-NE,ABMI Ecosystem Health 2016,Yes
+1486-NW,ABMI Ecosystem Health 2016,No
+1486-SE,ABMI Ecosystem Health 2016,No
+1486-SW,ABMI Ecosystem Health 2016,Yes
+1491-NE,ABMI Ecosystem Health 2015,Yes
+1491-NW,ABMI Ecosystem Health 2015,No
+1491-SE,ABMI Ecosystem Health 2015,No
+1491-SW,ABMI Ecosystem Health 2015,Yes
+1492-NE,ABMI Ecosystem Health 2015,Yes
+1492-NW,ABMI Ecosystem Health 2015,Yes
+1492-SE,ABMI Ecosystem Health 2015,No
+1492-SW,ABMI Ecosystem Health 2015,No
+1493B-NE,ABMI Ecosystem Health 2015,Yes
+1493B-NW,ABMI Ecosystem Health 2015,No
+1493B-SE,ABMI Ecosystem Health 2015,No
+1493B-SW,ABMI Ecosystem Health 2015,No
+1494-NE,ABMI Ecosystem Health 2017,No
+1494-NW,ABMI Ecosystem Health 2017,No
+1494-SE,ABMI Ecosystem Health 2017,Yes
+1494-SW,ABMI Ecosystem Health 2017,Yes
+1495B-NE,ABMI Ecosystem Health 2017,Yes
+1495B-NW,ABMI Ecosystem Health 2017,No
+1495B-SE,ABMI Ecosystem Health 2017,No
+1495B-SW,ABMI Ecosystem Health 2017,Yes
+1495-NE,ABMI Ecosystem Health 2017,Yes
+1495-NW,ABMI Ecosystem Health 2017,No
+1495-SE,ABMI Ecosystem Health 2017,No
+1495-SW,ABMI Ecosystem Health 2017,Yes
+1496-NE,ABMI Ecosystem Health 2017,Yes
+1496-NW,ABMI Ecosystem Health 2017,Yes
+1496-SE,ABMI Ecosystem Health 2017,No
+1496-SW,ABMI Ecosystem Health 2017,No
+1497-NE,ABMI Ecosystem Health 2018,Yes
+1497-SW,ABMI Ecosystem Health 2018,No
+1498-NE,ABMI Ecosystem Health 2018,Yes
+1498-SW,ABMI Ecosystem Health 2018,No
+1499-NE,ABMI Ecosystem Health 2018,Yes
+1499-SW,ABMI Ecosystem Health 2018,No
+14-NE,ABMI Ecosystem Health 2015,Yes
+14-NW,ABMI Ecosystem Health 2015,No
+14-SE,ABMI Ecosystem Health 2015,No
+14-SW,ABMI Ecosystem Health 2015,Yes
+1500-NE,ABMI Ecosystem Health 2016,Yes
+1500-NW,ABMI Ecosystem Health 2016,No
+1500-SE,ABMI Ecosystem Health 2016,No
+1500-SW,ABMI Ecosystem Health 2016,Yes
+1501-NE,ABMI Ecosystem Health 2016,Yes
+1501-NW,ABMI Ecosystem Health 2016,NA
+1501-SE,ABMI Ecosystem Health 2016,No
+1501-SW,ABMI Ecosystem Health 2016,NA
+1502-NE,ABMI Ecosystem Health 2016,Yes
+1502-NW,ABMI Ecosystem Health 2016,No
+1502-SE,ABMI Ecosystem Health 2016,No
+1502-SW,ABMI Ecosystem Health 2016,Yes
+1506-NE,ABMI Ecosystem Health 2015,Yes
+1506-NW,ABMI Ecosystem Health 2015,No
+1506-SE,ABMI Ecosystem Health 2015,No
+1506-SW,ABMI Ecosystem Health 2015,Yes
+1510-NE,ABMI Ecosystem Health 2015,Yes
+1510-NW,ABMI Ecosystem Health 2015,No
+1510-SE,ABMI Ecosystem Health 2015,No
+1510-SW,ABMI Ecosystem Health 2015,Yes
+1511-NE,ABMI Ecosystem Health 2015,Yes
+1511-NW,ABMI Ecosystem Health 2015,No
+1511-SE,ABMI Ecosystem Health 2015,No
+1511-SW,ABMI Ecosystem Health 2015,Yes
+1512-NE,ABMI Ecosystem Health 2015,Yes
+1512-NW,ABMI Ecosystem Health 2015,No
+1512-SE,ABMI Ecosystem Health 2015,No
+1512-SW,ABMI Ecosystem Health 2015,Yes
+1513-NE,ABMI Ecosystem Health 2017,No
+1513-NW,ABMI Ecosystem Health 2017,No
+1513-NW-b,ABMI Ecosystem Health 2017,No
+1513-SE,ABMI Ecosystem Health 2017,Yes
+1513-SW,ABMI Ecosystem Health 2017,Yes
+1514-NE,ABMI Ecosystem Health 2017,Yes
+1514-NW,ABMI Ecosystem Health 2017,No
+1514-SE,ABMI Ecosystem Health 2017,No
+1514-SW,ABMI Ecosystem Health 2017,Yes
+1515-NE,ABMI Ecosystem Health 2017,Yes
+1515-NW,ABMI Ecosystem Health 2017,No
+1515-SE,ABMI Ecosystem Health 2017,No
+1515-SW,ABMI Ecosystem Health 2017,Yes
+1516-NE,ABMI Ecosystem Health 2018,Yes
+1516-SW,ABMI Ecosystem Health 2018,No
+1517-NE,ABMI Ecosystem Health 2018,Yes
+1517-SW,ABMI Ecosystem Health 2018,No
+1519-NE,ABMI Ecosystem Health 2016,Yes
+1519-NW,ABMI Ecosystem Health 2016,No
+1519-SE,ABMI Ecosystem Health 2016,No
+1519-SW,ABMI Ecosystem Health 2016,Yes
+1520-NE,ABMI Ecosystem Health 2016,No
+1520-NW,ABMI Ecosystem Health 2016,No
+1520-SE,ABMI Ecosystem Health 2016,Yes
+1520-SW,ABMI Ecosystem Health 2016,Yes
+1521-NE,ABMI Ecosystem Health 2016,Yes
+1521-NW,ABMI Ecosystem Health 2016,No
+1521-SE,ABMI Ecosystem Health 2016,Yes
+1521-SW,ABMI Ecosystem Health 2016,No
+1525B-NE,ABMI Ecosystem Health 2015,Yes
+1525B-NW,ABMI Ecosystem Health 2015,No
+1525B-SE,ABMI Ecosystem Health 2015,No
+1525B-SW,ABMI Ecosystem Health 2015,Yes
+1526-NE,ABMI Ecosystem Health 2015,Yes
+1526-NW,ABMI Ecosystem Health 2015,No
+1526-SE,ABMI Ecosystem Health 2015,No
+1526-SW,ABMI Ecosystem Health 2015,Yes
+1529-NE,ABMI Ecosystem Health 2015,Yes
+1529-NW,ABMI Ecosystem Health 2015,No
+1529-SE,ABMI Ecosystem Health 2015,No
+1529-SW,ABMI Ecosystem Health 2015,Yes
+1530-NE,ABMI Ecosystem Health 2015,Yes
+1530-NW,ABMI Ecosystem Health 2015,No
+1530-SE,ABMI Ecosystem Health 2015,No
+1530-SW,ABMI Ecosystem Health 2015,Yes
+1531-NE,ABMI Ecosystem Health 2015,No
+1531-NW,ABMI Ecosystem Health 2015,No
+1531-SE,ABMI Ecosystem Health 2015,Yes
+1531-SW,ABMI Ecosystem Health 2015,Yes
+1532-NE,ABMI Ecosystem Health 2017,Yes
+1532-NW,ABMI Ecosystem Health 2017,Yes
+1532-SE,ABMI Ecosystem Health 2017,No
+1532-SW,ABMI Ecosystem Health 2017,No
+1533-NE,ABMI Ecosystem Health 2017,No
+1533-NW,ABMI Ecosystem Health 2017,Yes
+1533-SE,ABMI Ecosystem Health 2017,No
+1533-SW,ABMI Ecosystem Health 2017,Yes
+1534-NE,ABMI Ecosystem Health 2017,Yes
+1534-NW,ABMI Ecosystem Health 2017,Yes
+1534-SE,ABMI Ecosystem Health 2017,No
+1534-SW,ABMI Ecosystem Health 2017,No
+1535-NE,ABMI Ecosystem Health 2018,Yes
+1535-SW,ABMI Ecosystem Health 2018,No
+1536-NE,ABMI Ecosystem Health 2018,Yes
+1536-SW,ABMI Ecosystem Health 2018,No
+1537-NE,ABMI Ecosystem Health 2018,Yes
+1537-SW,ABMI Ecosystem Health 2018,No
+1538-NE,ABMI Ecosystem Health 2016,Yes
+1538-NW,ABMI Ecosystem Health 2016,No
+1538-SE,ABMI Ecosystem Health 2016,No
+1538-SW,ABMI Ecosystem Health 2016,Yes
+1539-NE,ABMI Ecosystem Health 2016,Yes
+1539-NW,ABMI Ecosystem Health 2016,No
+1539-SE,ABMI Ecosystem Health 2016,No
+1539-SW,ABMI Ecosystem Health 2016,Yes
+1540-NE,ABMI Ecosystem Health 2016,Yes
+1540-NW,ABMI Ecosystem Health 2016,No
+1540-SE,ABMI Ecosystem Health 2016,No
+1540-SW,ABMI Ecosystem Health 2016,Yes
+1544-NE,ABMI Ecosystem Health 2015,Yes
+1544-NW,ABMI Ecosystem Health 2015,No
+1544-SE,ABMI Ecosystem Health 2015,No
+1544-SW,ABMI Ecosystem Health 2015,Yes
+1545-NE,ABMI Ecosystem Health 2015,Yes
+1545-NW,ABMI Ecosystem Health 2015,No
+1545-SE,ABMI Ecosystem Health 2015,No
+1545-SW,ABMI Ecosystem Health 2015,Yes
+1546-NE,ABMI Ecosystem Health 2017,Yes
+1546-NW,ABMI Ecosystem Health 2017,No
+1546-SE,ABMI Ecosystem Health 2017,No
+1546-SW,ABMI Ecosystem Health 2017,Yes
+1547-NE,ABMI Ecosystem Health 2018,NA
+1547-NW,ABMI Ecosystem Health 2018,No
+1547-SE,ABMI Ecosystem Health 2018,NA
+1547-SW,ABMI Ecosystem Health 2018,Yes
+154-NE,ABMI Ecosystem Health 2017,Yes
+154-NW,ABMI Ecosystem Health 2017,No
+154-SE,ABMI Ecosystem Health 2017,No
+154-SW,ABMI Ecosystem Health 2017,Yes
+1550-NE,ABMI Ecosystem Health 2016,Yes
+1550-NW,ABMI Ecosystem Health 2016,No
+1550-SE,ABMI Ecosystem Health 2016,No
+1550-SW,ABMI Ecosystem Health 2016,Yes
+1551-NE,ABMI Ecosystem Health 2016,Yes
+1551-NW,ABMI Ecosystem Health 2016,No
+1551-SE,ABMI Ecosystem Health 2016,No
+1551-SW,ABMI Ecosystem Health 2016,Yes
+1552-NE,ABMI Ecosystem Health 2016,Yes
+1552-NW,ABMI Ecosystem Health 2016,No
+1552-SE,ABMI Ecosystem Health 2016,No
+1552-SW,ABMI Ecosystem Health 2016,Yes
+1556-NE,ABMI Ecosystem Health 2015,Yes
+1556-NW,ABMI Ecosystem Health 2015,No
+1556-SE,ABMI Ecosystem Health 2015,No
+1556-SW,ABMI Ecosystem Health 2015,Yes
+1557-NE,ABMI Ecosystem Health 2015,Yes
+1557-NW,ABMI Ecosystem Health 2015,No
+1557-SE,ABMI Ecosystem Health 2015,No
+1557-SW,ABMI Ecosystem Health 2015,Yes
+1558-NE,ABMI Ecosystem Health 2015,Yes
+1558-NW,ABMI Ecosystem Health 2015,No
+1558-SE,ABMI Ecosystem Health 2015,No
+1558-SW,ABMI Ecosystem Health 2015,Yes
+1559-NE,ABMI Ecosystem Health 2017,Yes
+1559-NW,ABMI Ecosystem Health 2017,No
+1559-SE,ABMI Ecosystem Health 2017,No
+1559-SW,ABMI Ecosystem Health 2017,Yes
+1560-NE,ABMI Ecosystem Health 2017,Yes
+1560-NW,ABMI Ecosystem Health 2017,No
+1560-SE,ABMI Ecosystem Health 2017,No
+1560-SW,ABMI Ecosystem Health 2017,Yes
+1562-NE,ABMI Ecosystem Health 2018,Yes
+1562-SW,ABMI Ecosystem Health 2018,No
+1564-NE,ABMI Ecosystem Health 2018,Yes
+1564-NW,ABMI Ecosystem Health 2018,No
+1564-SE,ABMI Ecosystem Health 2018,No
+1564-SW,ABMI Ecosystem Health 2018,Yes
+1565-NE,ABMI Ecosystem Health 2018,Yes
+1565-NW,ABMI Ecosystem Health 2018,No
+1565-SE,ABMI Ecosystem Health 2018,No
+1565-SW,ABMI Ecosystem Health 2018,Yes
+1566-NE,ABMI Ecosystem Health 2018,Yes
+1566-NW,ABMI Ecosystem Health 2018,No
+1566-SE,ABMI Ecosystem Health 2018,No
+1566-SW,ABMI Ecosystem Health 2018,Yes
+1567-NE,ABMI Ecosystem Health 2016,Yes
+1567-NW,ABMI Ecosystem Health 2016,No
+1567-SE,ABMI Ecosystem Health 2016,No
+1567-SW,ABMI Ecosystem Health 2016,Yes
+1568-NE,ABMI Ecosystem Health 2016,No
+1568-NW,ABMI Ecosystem Health 2016,No
+1568-SE,ABMI Ecosystem Health 2016,Yes
+1568-SW,ABMI Ecosystem Health 2016,Yes
+1569-NE,ABMI Ecosystem Health 2016,Yes
+1569-NW,ABMI Ecosystem Health 2016,No
+1569-SE,ABMI Ecosystem Health 2016,No
+1569-SW,ABMI Ecosystem Health 2016,Yes
+1573-NE,ABMI Ecosystem Health 2015,Yes
+1573-NW,ABMI Ecosystem Health 2015,No
+1573-SE,ABMI Ecosystem Health 2015,Yes
+1573-SW,ABMI Ecosystem Health 2015,No
+1574-NE,ABMI Ecosystem Health 2015,Yes
+1574-NW,ABMI Ecosystem Health 2015,No
+1574-SE,ABMI Ecosystem Health 2015,No
+1574-SW,ABMI Ecosystem Health 2015,Yes
+1575-NE,ABMI Ecosystem Health 2015,Yes
+1575-NW,ABMI Ecosystem Health 2015,No
+1575-SE,ABMI Ecosystem Health 2015,No
+1575-SW,ABMI Ecosystem Health 2015,Yes
+1576-NE,ABMI Ecosystem Health 2017,Yes
+1576-NW,ABMI Ecosystem Health 2017,No
+1576-SE,ABMI Ecosystem Health 2017,No
+1576-SW,ABMI Ecosystem Health 2017,Yes
+1577B-NE,ABMI Ecosystem Health 2017,Yes
+1577B-NW,ABMI Ecosystem Health 2017,No
+1577B-SE,ABMI Ecosystem Health 2017,No
+1577B-SW,ABMI Ecosystem Health 2017,Yes
+1577-NE,ABMI Ecosystem Health 2017,Yes
+1577-NW,ABMI Ecosystem Health 2017,No
+1577-SE,ABMI Ecosystem Health 2017,No
+1577-SW,ABMI Ecosystem Health 2017,Yes
+1578-NE,ABMI Ecosystem Health 2017,Yes
+1578-NW,ABMI Ecosystem Health 2017,No
+1578-SE,ABMI Ecosystem Health 2017,No
+1578-SW,ABMI Ecosystem Health 2017,Yes
+1579-NE,ABMI Ecosystem Health 2017,Yes
+1579-NE,ABMI Ecosystem Health 2018,Yes
+1579-NW,ABMI Ecosystem Health 2017,No
+1579-SE,ABMI Ecosystem Health 2017,No
+1579-SW,ABMI Ecosystem Health 2017,Yes
+1579-SW,ABMI Ecosystem Health 2018,Yes
+1580-NE,ABMI Ecosystem Health 2018,Yes
+1580-SW,ABMI Ecosystem Health 2018,No
+1581-NE,ABMI Ecosystem Health 2018,Yes
+1581-NW,ABMI Ecosystem Health 2018,No
+1581-SE,ABMI Ecosystem Health 2018,No
+1581-SW,ABMI Ecosystem Health 2018,Yes
+1584-NE,ABMI Ecosystem Health 2016,Yes
+1584-NW,ABMI Ecosystem Health 2016,No
+1584-SE,ABMI Ecosystem Health 2016,No
+1584-SW,ABMI Ecosystem Health 2016,Yes
+1585-NE,ABMI Ecosystem Health 2016,Yes
+1585-NW,ABMI Ecosystem Health 2016,No
+1585-SE,ABMI Ecosystem Health 2016,No
+1585-SW,ABMI Ecosystem Health 2016,Yes
+1586-NE,ABMI Ecosystem Health 2016,Yes
+1586-NW,ABMI Ecosystem Health 2016,No
+1586-SE,ABMI Ecosystem Health 2016,Yes
+1586-SW,ABMI Ecosystem Health 2016,No
+1590-NE,ABMI Ecosystem Health 2015,Yes
+1590-NW,ABMI Ecosystem Health 2015,No
+1590-SE,ABMI Ecosystem Health 2015,No
+1590-SW,ABMI Ecosystem Health 2015,Yes
+1591-NE,ABMI Ecosystem Health 2015,Yes
+1591-NW,ABMI Ecosystem Health 2015,No
+1591-SE,ABMI Ecosystem Health 2015,No
+1591-SW,ABMI Ecosystem Health 2015,Yes
+1592-NE,ABMI Ecosystem Health 2015,No
+1592-NW,ABMI Ecosystem Health 2015,No
+1592-SW,ABMI Ecosystem Health 2015,Yes
+1593-NE,ABMI Ecosystem Health 2017,Yes
+1593-NW,ABMI Ecosystem Health 2017,No
+1593-SE,ABMI Ecosystem Health 2017,No
+1593-SW,ABMI Ecosystem Health 2017,Yes
+1594-NE,ABMI Ecosystem Health 2017,Yes
+1594-NW,ABMI Ecosystem Health 2017,No
+1594-SE,ABMI Ecosystem Health 2017,No
+1594-SW,ABMI Ecosystem Health 2017,Yes
+1595-NE,ABMI Ecosystem Health 2016,Yes
+1595-NW,ABMI Ecosystem Health 2016,No
+1595-SE,ABMI Ecosystem Health 2016,No
+1595-SW,ABMI Ecosystem Health 2016,Yes
+1596-NE,ABMI Ecosystem Health 2018,Yes
+1596-NW,ABMI Ecosystem Health 2018,No
+1596-SE,ABMI Ecosystem Health 2018,No
+1596-SW,ABMI Ecosystem Health 2018,Yes
+1597-NE,ABMI Ecosystem Health 2017,Yes
+1597-NE,ABMI Ecosystem Health 2018,Yes
+1597-NW,ABMI Ecosystem Health 2017,No
+1597-SE,ABMI Ecosystem Health 2017,No
+1597-SW,ABMI Ecosystem Health 2017,Yes
+1597-SW,ABMI Ecosystem Health 2018,Yes
+1598-NE,ABMI Ecosystem Health 2018,Yes
+1598-NW,ABMI Ecosystem Health 2018,No
+1598-SE,ABMI Ecosystem Health 2018,No
+1598-SW,ABMI Ecosystem Health 2018,Yes
+15-NE,ABMI Ecosystem Health 2015,Yes
+15-NW,ABMI Ecosystem Health 2015,No
+15-SE,ABMI Ecosystem Health 2015,No
+15-SW,ABMI Ecosystem Health 2015,Yes
+1601-NE,ABMI Ecosystem Health 2015,Yes
+1601-NW,ABMI Ecosystem Health 2015,No
+1601-SE,ABMI Ecosystem Health 2015,No
+1601-SW,ABMI Ecosystem Health 2015,Yes
+1602-NE,ABMI Ecosystem Health 2015,Yes
+1602-NW,ABMI Ecosystem Health 2015,No
+1602-SE,ABMI Ecosystem Health 2015,No
+1602-SW,ABMI Ecosystem Health 2015,Yes
+1603-NE,ABMI Ecosystem Health 2015,No
+1603-NW,ABMI Ecosystem Health 2015,No
+1603-SE,ABMI Ecosystem Health 2015,No
+1603-SW,ABMI Ecosystem Health 2015,Yes
+1604-NE,ABMI Ecosystem Health 2017,Yes
+1604-NW,ABMI Ecosystem Health 2017,No
+1604-SE,ABMI Ecosystem Health 2017,No
+1604-SW,ABMI Ecosystem Health 2017,Yes
+1605-NE,ABMI Ecosystem Health 2017,Yes
+1605-NW,ABMI Ecosystem Health 2017,No
+1605-SE,ABMI Ecosystem Health 2017,No
+1605-SW,ABMI Ecosystem Health 2017,Yes
+1606-NE,ABMI Ecosystem Health 2017,No
+1606-NW,ABMI Ecosystem Health 2017,No
+1606-SE,ABMI Ecosystem Health 2017,Yes
+1606-SW,ABMI Ecosystem Health 2017,Yes
+1607-NE,ABMI Ecosystem Health 2018,Yes
+1607-SW,ABMI Ecosystem Health 2018,No
+1608-NE,ABMI Ecosystem Health 2018,Yes
+1608-SW,ABMI Ecosystem Health 2018,No
+1609-NE,ABMI Ecosystem Health 2018,NA
+1609-SW,ABMI Ecosystem Health 2018,No
+1610-NE,ABMI Ecosystem Health 2016,Yes
+1610-NW,ABMI Ecosystem Health 2016,No
+1610-SE,ABMI Ecosystem Health 2016,Yes
+1610-SW,ABMI Ecosystem Health 2016,No
+1611-NE,ABMI Ecosystem Health 2016,Yes
+1611-NW,ABMI Ecosystem Health 2016,No
+1611-SE,ABMI Ecosystem Health 2016,No
+1611-SW,ABMI Ecosystem Health 2016,Yes
+1612B-NE,ABMI Ecosystem Health 2016,Yes
+1612B-NW,ABMI Ecosystem Health 2016,No
+1612B-SE,ABMI Ecosystem Health 2016,No
+1612B-SW,ABMI Ecosystem Health 2016,Yes
+1618-NE,ABMI Ecosystem Health 2015,Yes
+1618-NW,ABMI Ecosystem Health 2015,No
+1618-SE,ABMI Ecosystem Health 2015,No
+1618-SW,ABMI Ecosystem Health 2015,Yes
+1620-NE,ABMI Ecosystem Health 2015,Yes
+1620-NW,ABMI Ecosystem Health 2015,No
+1620-SE,ABMI Ecosystem Health 2015,No
+1620-SW,ABMI Ecosystem Health 2015,Yes
+1621-NE,ABMI Ecosystem Health 2017,Yes
+1621-NW,ABMI Ecosystem Health 2017,No
+1621-SE,ABMI Ecosystem Health 2017,No
+1621-SW,ABMI Ecosystem Health 2017,Yes
+1622-NE,ABMI Ecosystem Health 2017,Yes
+1622-NW,ABMI Ecosystem Health 2017,No
+1622-SE,ABMI Ecosystem Health 2017,No
+1622-SW,ABMI Ecosystem Health 2017,Yes
+1623-NE,ABMI Ecosystem Health 2017,Yes
+1623-NW,ABMI Ecosystem Health 2017,No
+1623-SE,ABMI Ecosystem Health 2017,No
+1623-SW,ABMI Ecosystem Health 2017,Yes
+1624-NE,ABMI Ecosystem Health 2018,Yes
+1624-SW,ABMI Ecosystem Health 2018,No
+1625-NE,ABMI Ecosystem Health 2018,Yes
+1625-SW,ABMI Ecosystem Health 2018,No
+1626-NE,ABMI Ecosystem Health 2018,Yes
+1626-SW,ABMI Ecosystem Health 2018,No
+1627B-NE,ABMI Ecosystem Health 2016,Yes
+1627B-NW,ABMI Ecosystem Health 2016,No
+1627B-SE,ABMI Ecosystem Health 2016,No
+1627B-SW,ABMI Ecosystem Health 2016,Yes
+1628-NE,ABMI Ecosystem Health 2016,Yes
+1628-NW,ABMI Ecosystem Health 2016,No
+1628-SE,ABMI Ecosystem Health 2016,No
+1628-SW,ABMI Ecosystem Health 2016,Yes
+1629-NE,ABMI Ecosystem Health 2016,Yes
+1629-NW,ABMI Ecosystem Health 2016,No
+1629-SE,ABMI Ecosystem Health 2016,No
+1629-SW,ABMI Ecosystem Health 2016,Yes
+1635-NE,ABMI Ecosystem Health 2015,No
+1635-NW,ABMI Ecosystem Health 2015,Yes
+1635-SE,ABMI Ecosystem Health 2015,No
+1635-SW,ABMI Ecosystem Health 2015,Yes
+1636-NE,ABMI Ecosystem Health 2015,No
+1636-NW,ABMI Ecosystem Health 2015,No
+1636-SE,ABMI Ecosystem Health 2015,No
+1636-SW,ABMI Ecosystem Health 2015,Yes
+1637-NE,ABMI Ecosystem Health 2015,Yes
+1637-NW,ABMI Ecosystem Health 2015,No
+1637-SE,ABMI Ecosystem Health 2015,No
+1637-SW,ABMI Ecosystem Health 2015,Yes
+1638-NE,ABMI Ecosystem Health 2017,Yes
+1638-NW,ABMI Ecosystem Health 2017,No
+1638-SE,ABMI Ecosystem Health 2017,No
+1638-SW,ABMI Ecosystem Health 2017,NA
+1639-NE,ABMI Ecosystem Health 2017,Yes
+1639-NW,ABMI Ecosystem Health 2017,No
+1639-SE,ABMI Ecosystem Health 2017,No
+1639-SW,ABMI Ecosystem Health 2017,Yes
+1640-NE,ABMI Ecosystem Health 2017,Yes
+1640-NW,ABMI Ecosystem Health 2017,No
+1640-SE,ABMI Ecosystem Health 2017,No
+1640-SW,ABMI Ecosystem Health 2017,Yes
+1641-NE,ABMI Ecosystem Health 2018,Yes
+1641-SW,ABMI Ecosystem Health 2018,NA
+1642-NE,ABMI Ecosystem Health 2018,Yes
+1642-SW,ABMI Ecosystem Health 2018,No
+1643-NE,ABMI Ecosystem Health 2018,Yes
+1643-SW,ABMI Ecosystem Health 2018,No
+1644-NE,ABMI Ecosystem Health 2016,Yes
+1644-NW,ABMI Ecosystem Health 2016,No
+1644-SE,ABMI Ecosystem Health 2016,No
+1644-SW,ABMI Ecosystem Health 2016,Yes
+1645-NE,ABMI Ecosystem Health 2016,Yes
+1645-NW,ABMI Ecosystem Health 2016,No
+1645-SE,ABMI Ecosystem Health 2016,No
+1645-SW,ABMI Ecosystem Health 2016,Yes
+1647-NE,ABMI Ecosystem Health 2017,Yes
+1647-NW,ABMI Ecosystem Health 2017,No
+1647-SE,ABMI Ecosystem Health 2017,No
+1647-SW,ABMI Ecosystem Health 2017,Yes
+1648-NE,ABMI Ecosystem Health 2018,Yes
+1648-NW,ABMI Ecosystem Health 2018,No
+1648-SE,ABMI Ecosystem Health 2018,No
+1648-SW,ABMI Ecosystem Health 2018,NA
+1649-NE,ABMI Ecosystem Health 2018,Yes
+1649-NW,ABMI Ecosystem Health 2018,No
+1649-SE,ABMI Ecosystem Health 2018,No
+1649-SW,ABMI Ecosystem Health 2018,Yes
+1650-NE,ABMI Ecosystem Health 2018,Yes
+1650-NW,ABMI Ecosystem Health 2018,No
+1650-SE,ABMI Ecosystem Health 2018,No
+1650-SW,ABMI Ecosystem Health 2018,Yes
+1651-NE,ABMI Ecosystem Health 2016,Yes
+1651-NW,ABMI Ecosystem Health 2016,No
+1651-SE,ABMI Ecosystem Health 2016,No
+1651-SW,ABMI Ecosystem Health 2016,Yes
+1652-NE,ABMI Ecosystem Health 2016,Yes
+1652-NW,ABMI Ecosystem Health 2016,No
+1652-SE,ABMI Ecosystem Health 2016,No
+1652-SW,ABMI Ecosystem Health 2016,Yes
+1653-NE,ABMI Ecosystem Health 2016,Yes
+1653-NW,ABMI Ecosystem Health 2016,No
+1653-SE,ABMI Ecosystem Health 2016,No
+1653-SW,ABMI Ecosystem Health 2016,Yes
+1656-NE,ABMI Ecosystem Health 2018,NA
+1656-NW,ABMI Ecosystem Health 2018,NA
+1656-SE,ABMI Ecosystem Health 2018,No
+1656-SW,ABMI Ecosystem Health 2018,Yes
+16-NE,ABMI Ecosystem Health 2017,Yes
+16-NW,ABMI Ecosystem Health 2017,No
+16-SE,ABMI Ecosystem Health 2017,No
+16-SW,ABMI Ecosystem Health 2017,Yes
+17-NE,ABMI Ecosystem Health 2017,Yes
+17-NW,ABMI Ecosystem Health 2017,No
+17-SE,ABMI Ecosystem Health 2017,No
+17-SW,ABMI Ecosystem Health 2017,Yes
+181-NE,ABMI Ecosystem Health 2017,Yes
+181-NW,ABMI Ecosystem Health 2017,No
+181-SE,ABMI Ecosystem Health 2017,No
+181-SW,ABMI Ecosystem Health 2017,Yes
+182-NE,ABMI Ecosystem Health 2017,Yes
+182-NW,ABMI Ecosystem Health 2017,No
+182-SE,ABMI Ecosystem Health 2017,No
+182-SW,ABMI Ecosystem Health 2017,Yes
+183-NE,ABMI Ecosystem Health 2017,Yes
+183-NW,ABMI Ecosystem Health 2017,No
+183-SE,ABMI Ecosystem Health 2017,No
+183-SW,ABMI Ecosystem Health 2017,Yes
+187-NE,ABMI Ecosystem Health 2018,No
+187-NW,ABMI Ecosystem Health 2018,No
+187-SE,ABMI Ecosystem Health 2018,No
+187-SW,ABMI Ecosystem Health 2018,No
+18-NE,ABMI Ecosystem Health 2017,Yes
+18-NW,ABMI Ecosystem Health 2017,No
+18-SE,ABMI Ecosystem Health 2017,No
+18-SW,ABMI Ecosystem Health 2017,Yes
+19-NE,ABMI Ecosystem Health 2018,No
+19-SW,ABMI Ecosystem Health 2018,Yes
+1-NE,ABMI Ecosystem Health 2015,Yes
+1-NW,ABMI Ecosystem Health 2015,No
+1-SE,ABMI Ecosystem Health 2015,No
+1-SW,ABMI Ecosystem Health 2015,Yes
+210-NE,ABMI Ecosystem Health 2017,Yes
+210-NW,ABMI Ecosystem Health 2017,No
+210-SE,ABMI Ecosystem Health 2017,No
+210-SW,ABMI Ecosystem Health 2017,Yes
+211-NE,ABMI Ecosystem Health 2017,Yes
+211-NW,ABMI Ecosystem Health 2017,No
+211-SE,ABMI Ecosystem Health 2017,No
+211-SW,ABMI Ecosystem Health 2017,Yes
+212-NE,ABMI Ecosystem Health 2017,Yes
+212-NW,ABMI Ecosystem Health 2017,No
+212-SE,ABMI Ecosystem Health 2017,No
+212-SW,ABMI Ecosystem Health 2017,Yes
+213-NE,ABMI Ecosystem Health 2018,No
+213-SW,ABMI Ecosystem Health 2018,Yes
+234-NE,ABMI Ecosystem Health 2016,No
+234-NW,ABMI Ecosystem Health 2016,No
+234-SE,ABMI Ecosystem Health 2015,No
+234-SE,ABMI Ecosystem Health 2016,No
+234-SW,ABMI Ecosystem Health 2016,Yes
+235-NE,ABMI Ecosystem Health 2015,Yes
+235-NE,ABMI Ecosystem Health 2016,Yes
+235-NW,ABMI Ecosystem Health 2015,No
+235-NW,ABMI Ecosystem Health 2016,No
+235-SE,ABMI Ecosystem Health 2015,No
+235-SE,ABMI Ecosystem Health 2016,No
+235-SW,ABMI Ecosystem Health 2015,Yes
+235-SW,ABMI Ecosystem Health 2016,Yes
+236-NE,ABMI Ecosystem Health 2015,Yes
+236-NE,ABMI Ecosystem Health 2016,Yes
+236-NW,ABMI Ecosystem Health 2015,No
+236-NW,ABMI Ecosystem Health 2016,No
+236-SE,ABMI Ecosystem Health 2015,No
+236-SE,ABMI Ecosystem Health 2016,No
+236-SW,ABMI Ecosystem Health 2015,Yes
+236-SW,ABMI Ecosystem Health 2016,Yes
+238-NE,ABMI Ecosystem Health 2018,No
+238-SW,ABMI Ecosystem Health 2018,Yes
+239-NE,ABMI Ecosystem Health 2018,No
+239-SW,ABMI Ecosystem Health 2018,Yes
+240-NE,ABMI Ecosystem Health 2016,Yes
+240-NW,ABMI Ecosystem Health 2016,No
+240-SE,ABMI Ecosystem Health 2016,No
+240-SW,ABMI Ecosystem Health 2016,Yes
+241-NE,ABMI Ecosystem Health 2016,Yes
+241-NW,ABMI Ecosystem Health 2016,No
+241-SE,ABMI Ecosystem Health 2016,No
+241-SW,ABMI Ecosystem Health 2016,Yes
+242-NE,ABMI Ecosystem Health 2016,Yes
+242-NW,ABMI Ecosystem Health 2016,No
+242-SE,ABMI Ecosystem Health 2016,No
+242-SW,ABMI Ecosystem Health 2016,Yes
+264-NE,ABMI Ecosystem Health 2015,Yes
+264-NE,ABMI Ecosystem Health 2016,Yes
+264-NW,ABMI Ecosystem Health 2015,No
+264-NW,ABMI Ecosystem Health 2016,No
+264-SE,ABMI Ecosystem Health 2015,No
+264-SE,ABMI Ecosystem Health 2016,No
+264-SW,ABMI Ecosystem Health 2015,Yes
+264-SW,ABMI Ecosystem Health 2016,Yes
+265-NE,ABMI Ecosystem Health 2015,Yes
+265-NE,ABMI Ecosystem Health 2016,Yes
+265-NW,ABMI Ecosystem Health 2015,No
+265-NW,ABMI Ecosystem Health 2016,No
+265-SE,ABMI Ecosystem Health 2015,No
+265-SE,ABMI Ecosystem Health 2016,No
+265-SW,ABMI Ecosystem Health 2015,Yes
+265-SW,ABMI Ecosystem Health 2016,Yes
+266-NE,ABMI Ecosystem Health 2015,Yes
+266-NE,ABMI Ecosystem Health 2016,Yes
+266-NW,ABMI Ecosystem Health 2015,No
+266-NW,ABMI Ecosystem Health 2016,No
+266-SE,ABMI Ecosystem Health 2015,No
+266-SE,ABMI Ecosystem Health 2016,No
+266-SW,ABMI Ecosystem Health 2015,Yes
+266-SW,ABMI Ecosystem Health 2016,Yes
+267-NE,ABMI Ecosystem Health 2018,No
+267-SW,ABMI Ecosystem Health 2018,Yes
+268-NE,ABMI Ecosystem Health 2018,No
+268-SW,ABMI Ecosystem Health 2018,Yes
+269-NE,ABMI Ecosystem Health 2018,No
+269-SW,ABMI Ecosystem Health 2018,Yes
+270-NE,ABMI Ecosystem Health 2016,Yes
+270-NW,ABMI Ecosystem Health 2016,No
+270-SE,ABMI Ecosystem Health 2016,No
+270-SW,ABMI Ecosystem Health 2016,Yes
+271-NE,ABMI Ecosystem Health 2016,Yes
+271-NW,ABMI Ecosystem Health 2016,No
+271-SE,ABMI Ecosystem Health 2016,No
+271-SW,ABMI Ecosystem Health 2016,Yes
+272-NE,ABMI Ecosystem Health 2016,Yes
+272-NW,ABMI Ecosystem Health 2016,No
+272-SE,ABMI Ecosystem Health 2016,No
+272-SW,ABMI Ecosystem Health 2016,Yes
+277-NE,ABMI Ecosystem Health 2018,No
+277-NW,ABMI Ecosystem Health 2018,No
+277-SE,ABMI Ecosystem Health 2018,No
+277-SW,ABMI Ecosystem Health 2018,No
+294-NE,ABMI Ecosystem Health 2015,Yes
+294-NE,ABMI Ecosystem Health 2016,Yes
+294-NW,ABMI Ecosystem Health 2015,No
+294-NW,ABMI Ecosystem Health 2016,No
+294-SE,ABMI Ecosystem Health 2015,No
+294-SE,ABMI Ecosystem Health 2016,No
+294-SW,ABMI Ecosystem Health 2015,Yes
+294-SW,ABMI Ecosystem Health 2016,Yes
+295-NE,ABMI Ecosystem Health 2015,Yes
+295-NE,ABMI Ecosystem Health 2016,Yes
+295-NW,ABMI Ecosystem Health 2015,No
+295-NW,ABMI Ecosystem Health 2016,No
+295-SE,ABMI Ecosystem Health 2015,No
+295-SE,ABMI Ecosystem Health 2016,No
+295-SW,ABMI Ecosystem Health 2015,Yes
+295-SW,ABMI Ecosystem Health 2016,Yes
+296-NE,ABMI Ecosystem Health 2015,Yes
+296-NE,ABMI Ecosystem Health 2016,Yes
+296-NW,ABMI Ecosystem Health 2015,No
+296-NW,ABMI Ecosystem Health 2016,No
+296-SE,ABMI Ecosystem Health 2015,No
+296-SE,ABMI Ecosystem Health 2016,No
+296-SW,ABMI Ecosystem Health 2015,Yes
+296-SW,ABMI Ecosystem Health 2016,Yes
+297-NE,ABMI Ecosystem Health 2018,No
+297-SW,ABMI Ecosystem Health 2018,Yes
+298-NE,ABMI Ecosystem Health 2018,No
+298-SW,ABMI Ecosystem Health 2018,Yes
+299-NE,ABMI Ecosystem Health 2018,No
+299-SW,ABMI Ecosystem Health 2018,Yes
+2-NE,ABMI Ecosystem Health 2015,Yes
+2-NW,ABMI Ecosystem Health 2015,No
+2-SE,ABMI Ecosystem Health 2015,No
+2-SW,ABMI Ecosystem Health 2015,Yes
+300-NE,ABMI Ecosystem Health 2016,Yes
+300-NW,ABMI Ecosystem Health 2016,No
+300-SE,ABMI Ecosystem Health 2016,No
+300-SW,ABMI Ecosystem Health 2016,Yes
+301-NE,ABMI Ecosystem Health 2016,Yes
+301-NW,ABMI Ecosystem Health 2016,No
+301-SE,ABMI Ecosystem Health 2016,No
+301-SW,ABMI Ecosystem Health 2016,Yes
+302-NE,ABMI Ecosystem Health 2016,Yes
+302-NW,ABMI Ecosystem Health 2016,No
+302-SE,ABMI Ecosystem Health 2016,No
+302-SW,ABMI Ecosystem Health 2016,Yes
+317-NE,ABMI Ecosystem Health 2017,Yes
+317-NW,ABMI Ecosystem Health 2017,No
+317-SE,ABMI Ecosystem Health 2017,No
+317-SW,ABMI Ecosystem Health 2017,Yes
+318-NE,ABMI Ecosystem Health 2017,Yes
+318-NW,ABMI Ecosystem Health 2017,No
+318-SE,ABMI Ecosystem Health 2017,No
+318-SW,ABMI Ecosystem Health 2017,Yes
+319-NE,ABMI Ecosystem Health 2017,Yes
+319-NW,ABMI Ecosystem Health 2017,No
+319-SE,ABMI Ecosystem Health 2017,No
+319-SW,ABMI Ecosystem Health 2017,Yes
+320-NE,ABMI Ecosystem Health 2018,Yes
+320-NW,ABMI Ecosystem Health 2018,No
+320-SE,ABMI Ecosystem Health 2018,No
+320-SW,ABMI Ecosystem Health 2018,Yes
+321-NE,ABMI Ecosystem Health 2018,Yes
+321-NW,ABMI Ecosystem Health 2018,No
+321-SE,ABMI Ecosystem Health 2018,No
+321-SW,ABMI Ecosystem Health 2018,Yes
+322-NE,ABMI Ecosystem Health 2018,Yes
+322-NW,ABMI Ecosystem Health 2018,No
+322-SE,ABMI Ecosystem Health 2018,No
+322-SW,ABMI Ecosystem Health 2018,Yes
+323-NE,ABMI Ecosystem Health 2016,Yes
+323-NW,ABMI Ecosystem Health 2016,No
+323-SE,ABMI Ecosystem Health 2016,No
+323-SW,ABMI Ecosystem Health 2016,Yes
+324-NE,ABMI Ecosystem Health 2016,Yes
+324-NW,ABMI Ecosystem Health 2016,No
+324-SE,ABMI Ecosystem Health 2016,No
+324-SW,ABMI Ecosystem Health 2016,Yes
+325-NE,ABMI Ecosystem Health 2016,Yes
+325-NW,ABMI Ecosystem Health 2016,No
+325-SE,ABMI Ecosystem Health 2016,No
+325-SW,ABMI Ecosystem Health 2016,Yes
+329-NE,ABMI Ecosystem Health 2015,Yes
+329-NW,ABMI Ecosystem Health 2015,No
+329-SE,ABMI Ecosystem Health 2015,No
+329-SW,ABMI Ecosystem Health 2015,Yes
+32-NE,ABMI Ecosystem Health 2015,No
+330-NE,ABMI Ecosystem Health 2015,Yes
+330-NW,ABMI Ecosystem Health 2015,No
+330-SE,ABMI Ecosystem Health 2015,No
+330-SW,ABMI Ecosystem Health 2015,Yes
+331-NE,ABMI Ecosystem Health 2015,Yes
+331-NW,ABMI Ecosystem Health 2015,No
+331-SE,ABMI Ecosystem Health 2015,No
+331-SW,ABMI Ecosystem Health 2015,Yes
+332-NE,ABMI Ecosystem Health 2017,Yes
+332-NW,ABMI Ecosystem Health 2017,No
+332-SE,ABMI Ecosystem Health 2017,No
+332-SW,ABMI Ecosystem Health 2017,Yes
+33-NE,ABMI Ecosystem Health 2015,Yes
+33-NW,ABMI Ecosystem Health 2015,No
+33-SE,ABMI Ecosystem Health 2015,No
+33-SW,ABMI Ecosystem Health 2015,Yes
+346-NE,ABMI Ecosystem Health 2017,Yes
+346-NW,ABMI Ecosystem Health 2017,No
+346-SE,ABMI Ecosystem Health 2017,No
+346-SW,ABMI Ecosystem Health 2017,NA
+347-NE,ABMI Ecosystem Health 2017,Yes
+347-NW,ABMI Ecosystem Health 2017,No
+347-SE,ABMI Ecosystem Health 2017,No
+347-SW,ABMI Ecosystem Health 2017,Yes
+348-NE,ABMI Ecosystem Health 2017,Yes
+348-NW,ABMI Ecosystem Health 2017,No
+348-SE,ABMI Ecosystem Health 2017,No
+348-SW,ABMI Ecosystem Health 2017,Yes
+349-NE,ABMI Ecosystem Health 2018,Yes
+349-NW,ABMI Ecosystem Health 2018,No
+349-SE,ABMI Ecosystem Health 2018,No
+349-SW,ABMI Ecosystem Health 2018,Yes
+34-NE,ABMI Ecosystem Health 2015,Yes
+34-NW,ABMI Ecosystem Health 2015,No
+34-SE,ABMI Ecosystem Health 2015,No
+34-SW,ABMI Ecosystem Health 2015,Yes
+350-NE,ABMI Ecosystem Health 2018,Yes
+350-NW,ABMI Ecosystem Health 2018,No
+350-SE,ABMI Ecosystem Health 2018,No
+350-SW,ABMI Ecosystem Health 2018,Yes
+351-NE,ABMI Ecosystem Health 2018,Yes
+351-NW,ABMI Ecosystem Health 2018,No
+351-SE,ABMI Ecosystem Health 2018,No
+351-SW,ABMI Ecosystem Health 2018,Yes
+352-NE,ABMI Ecosystem Health 2016,Yes
+352-NW,ABMI Ecosystem Health 2016,No
+352-SE,ABMI Ecosystem Health 2016,No
+352-SW,ABMI Ecosystem Health 2016,Yes
+353-NE,ABMI Ecosystem Health 2016,Yes
+353-NW,ABMI Ecosystem Health 2016,No
+353-SE,ABMI Ecosystem Health 2016,No
+353-SW,ABMI Ecosystem Health 2016,Yes
+354-NE,ABMI Ecosystem Health 2016,Yes
+354-NW,ABMI Ecosystem Health 2016,No
+354-SE,ABMI Ecosystem Health 2016,No
+354-SW,ABMI Ecosystem Health 2016,Yes
+358-NE,ABMI Ecosystem Health 2015,Yes
+358-NW,ABMI Ecosystem Health 2015,No
+358-SE,ABMI Ecosystem Health 2015,No
+358-SW,ABMI Ecosystem Health 2015,Yes
+359-NE,ABMI Ecosystem Health 2015,Yes
+359-NW,ABMI Ecosystem Health 2015,No
+359-SE,ABMI Ecosystem Health 2015,No
+359-SW,ABMI Ecosystem Health 2015,Yes
+35-NE,ABMI Ecosystem Health 2017,Yes
+35-NW,ABMI Ecosystem Health 2017,No
+35-SE,ABMI Ecosystem Health 2017,No
+35-SW,ABMI Ecosystem Health 2017,Yes
+360-NE,ABMI Ecosystem Health 2015,Yes
+360-NW,ABMI Ecosystem Health 2015,No
+360-SE,ABMI Ecosystem Health 2015,No
+360-SW,ABMI Ecosystem Health 2015,Yes
+361-NE,ABMI Ecosystem Health 2017,Yes
+361-NW,ABMI Ecosystem Health 2017,No
+361-SE,ABMI Ecosystem Health 2017,No
+361-SW,ABMI Ecosystem Health 2017,Yes
+362-NE,ABMI Ecosystem Health 2017,Yes
+362-NW,ABMI Ecosystem Health 2017,No
+362-SE,ABMI Ecosystem Health 2017,No
+362-SW,ABMI Ecosystem Health 2017,Yes
+36-NE,ABMI Ecosystem Health 2017,Yes
+36-NW,ABMI Ecosystem Health 2017,No
+36-SE,ABMI Ecosystem Health 2017,No
+36-SW,ABMI Ecosystem Health 2017,Yes
+376-NE,ABMI Ecosystem Health 2017,Yes
+376-NW,ABMI Ecosystem Health 2017,No
+376-SE,ABMI Ecosystem Health 2017,No
+376-SW,ABMI Ecosystem Health 2017,Yes
+377-NE,ABMI Ecosystem Health 2017,Yes
+377-NW,ABMI Ecosystem Health 2017,No
+377-SE,ABMI Ecosystem Health 2017,No
+377-SW,ABMI Ecosystem Health 2017,Yes
+378-NE,ABMI Ecosystem Health 2017,Yes
+378-NW,ABMI Ecosystem Health 2017,No
+378-SE,ABMI Ecosystem Health 2017,No
+378-SW,ABMI Ecosystem Health 2017,Yes
+379-NE,ABMI Ecosystem Health 2018,Yes
+379-NW,ABMI Ecosystem Health 2018,No
+379-SE,ABMI Ecosystem Health 2018,No
+379-SW,ABMI Ecosystem Health 2018,Yes
+37-NE,ABMI Ecosystem Health 2017,Yes
+37-NW,ABMI Ecosystem Health 2017,No
+37-SE,ABMI Ecosystem Health 2017,No
+37-SW,ABMI Ecosystem Health 2017,Yes
+380-NE,ABMI Ecosystem Health 2018,Yes
+380-NW,ABMI Ecosystem Health 2018,No
+380-SE,ABMI Ecosystem Health 2018,No
+380-SW,ABMI Ecosystem Health 2018,Yes
+381-NE,ABMI Ecosystem Health 2018,Yes
+381-NW,ABMI Ecosystem Health 2018,No
+381-SE,ABMI Ecosystem Health 2018,No
+381-SW,ABMI Ecosystem Health 2018,Yes
+382-NE,ABMI Ecosystem Health 2016,Yes
+382-NW,ABMI Ecosystem Health 2016,No
+382-SE,ABMI Ecosystem Health 2016,No
+382-SW,ABMI Ecosystem Health 2016,Yes
+383-NE,ABMI Ecosystem Health 2016,Yes
+383-NW,ABMI Ecosystem Health 2016,No
+383-SE,ABMI Ecosystem Health 2016,No
+383-SW,ABMI Ecosystem Health 2016,Yes
+384-NE,ABMI Ecosystem Health 2016,Yes
+384-NW,ABMI Ecosystem Health 2016,No
+384-SE,ABMI Ecosystem Health 2016,No
+384-SW,ABMI Ecosystem Health 2016,Yes
+388-NE,ABMI Ecosystem Health 2015,Yes
+388-NW,ABMI Ecosystem Health 2015,No
+388-SE,ABMI Ecosystem Health 2015,No
+388-SW,ABMI Ecosystem Health 2015,Yes
+389-NE,ABMI Ecosystem Health 2015,Yes
+389-NW,ABMI Ecosystem Health 2015,No
+389-SE,ABMI Ecosystem Health 2015,No
+389-SW,ABMI Ecosystem Health 2015,Yes
+38-NE,ABMI Ecosystem Health 2018,No
+38-SW,ABMI Ecosystem Health 2018,Yes
+390-NE,ABMI Ecosystem Health 2015,Yes
+390-NW,ABMI Ecosystem Health 2015,No
+390-SE,ABMI Ecosystem Health 2015,No
+390-SW,ABMI Ecosystem Health 2015,Yes
+391-NE,ABMI Ecosystem Health 2017,Yes
+391-NW,ABMI Ecosystem Health 2017,No
+391-SE,ABMI Ecosystem Health 2017,No
+391-SW,ABMI Ecosystem Health 2017,Yes
+392-NE,ABMI Ecosystem Health 2017,Yes
+392-NW,ABMI Ecosystem Health 2017,No
+392-SE,ABMI Ecosystem Health 2017,No
+392-SW,ABMI Ecosystem Health 2017,Yes
+39-NE,ABMI Ecosystem Health 2018,No
+39-SW,ABMI Ecosystem Health 2018,Yes
+3-NE,ABMI Ecosystem Health 2015,Yes
+3-NW,ABMI Ecosystem Health 2015,No
+3-SE,ABMI Ecosystem Health 2015,No
+3-SW,ABMI Ecosystem Health 2015,Yes
+403-NE,ABMI Ecosystem Health 2018,Yes
+403-NW,ABMI Ecosystem Health 2018,No
+403-SE,ABMI Ecosystem Health 2018,No
+403-SW,ABMI Ecosystem Health 2018,Yes
+404-NE,ABMI Ecosystem Health 2018,Yes
+404-NW,ABMI Ecosystem Health 2018,No
+404-SE,ABMI Ecosystem Health 2018,No
+404-SW,ABMI Ecosystem Health 2018,Yes
+405-NE,ABMI Ecosystem Health 2018,Yes
+405-NW,ABMI Ecosystem Health 2018,No
+405-SE,ABMI Ecosystem Health 2018,No
+405-SW,ABMI Ecosystem Health 2018,Yes
+412-NE,ABMI Ecosystem Health 2015,Yes
+412-NW,ABMI Ecosystem Health 2015,No
+412-SE,ABMI Ecosystem Health 2015,No
+412-SW,ABMI Ecosystem Health 2015,Yes
+413-NE,ABMI Ecosystem Health 2015,Yes
+413-NW,ABMI Ecosystem Health 2015,No
+413-SE,ABMI Ecosystem Health 2015,No
+413-SW,ABMI Ecosystem Health 2015,Yes
+414-NE,ABMI Ecosystem Health 2015,Yes
+414-NW,ABMI Ecosystem Health 2015,No
+414-SE,ABMI Ecosystem Health 2015,No
+414-SW,ABMI Ecosystem Health 2015,Yes
+415-NE,ABMI Ecosystem Health 2017,Yes
+415-NW,ABMI Ecosystem Health 2017,No
+415-SE,ABMI Ecosystem Health 2017,No
+415-SW,ABMI Ecosystem Health 2017,Yes
+416-NE,ABMI Ecosystem Health 2017,Yes
+416-NW,ABMI Ecosystem Health 2017,No
+416-SE,ABMI Ecosystem Health 2017,No
+416-SW,ABMI Ecosystem Health 2017,Yes
+417-NE,ABMI Ecosystem Health 2017,Yes
+417-NW,ABMI Ecosystem Health 2017,No
+417-SE,ABMI Ecosystem Health 2017,No
+417-SW,ABMI Ecosystem Health 2017,Yes
+418-NE,ABMI Ecosystem Health 2018,Yes
+418-SW,ABMI Ecosystem Health 2018,No
+419-NE,ABMI Ecosystem Health 2018,Yes
+419-SW,ABMI Ecosystem Health 2018,No
+420-NE,ABMI Ecosystem Health 2018,Yes
+420-SW,ABMI Ecosystem Health 2018,No
+421-NE,ABMI Ecosystem Health 2016,Yes
+421-NW,ABMI Ecosystem Health 2016,No
+421-SE,ABMI Ecosystem Health 2016,No
+421-SW,ABMI Ecosystem Health 2016,Yes
+422-NE,ABMI Ecosystem Health 2016,Yes
+422-NW,ABMI Ecosystem Health 2016,No
+422-SE,ABMI Ecosystem Health 2016,No
+422-SW,ABMI Ecosystem Health 2016,Yes
+433-NE,ABMI Ecosystem Health 2018,Yes
+433-NW,ABMI Ecosystem Health 2018,No
+433-SE,ABMI Ecosystem Health 2018,No
+433-SW,ABMI Ecosystem Health 2018,Yes
+434-NE,ABMI Ecosystem Health 2018,Yes
+434-NW,ABMI Ecosystem Health 2018,No
+434-SE,ABMI Ecosystem Health 2018,No
+434-SW,ABMI Ecosystem Health 2018,Yes
+435-NE,ABMI Ecosystem Health 2018,Yes
+435-NW,ABMI Ecosystem Health 2018,No
+435-SE,ABMI Ecosystem Health 2018,No
+435-SW,ABMI Ecosystem Health 2018,Yes
+442-NE,ABMI Ecosystem Health 2015,Yes
+442-NW,ABMI Ecosystem Health 2015,No
+442-SE,ABMI Ecosystem Health 2015,No
+442-SW,ABMI Ecosystem Health 2015,Yes
+443-NE,ABMI Ecosystem Health 2015,Yes
+443-NW,ABMI Ecosystem Health 2015,No
+443-SE,ABMI Ecosystem Health 2015,No
+443-SW,ABMI Ecosystem Health 2015,Yes
+444-NE,ABMI Ecosystem Health 2015,Yes
+444-NW,ABMI Ecosystem Health 2015,No
+444-SE,ABMI Ecosystem Health 2015,No
+444-SW,ABMI Ecosystem Health 2015,Yes
+445-NE,ABMI Ecosystem Health 2017,Yes
+445-NW,ABMI Ecosystem Health 2017,No
+445-SE,ABMI Ecosystem Health 2017,No
+445-SW,ABMI Ecosystem Health 2017,Yes
+446-NE,ABMI Ecosystem Health 2017,Yes
+446-NW,ABMI Ecosystem Health 2017,No
+446-SE,ABMI Ecosystem Health 2017,No
+446-SW,ABMI Ecosystem Health 2017,Yes
+447-NE,ABMI Ecosystem Health 2017,Yes
+447-NW,ABMI Ecosystem Health 2017,No
+447-SE,ABMI Ecosystem Health 2017,No
+447-SW,ABMI Ecosystem Health 2017,Yes
+448-NE,ABMI Ecosystem Health 2018,No
+448-SW,ABMI Ecosystem Health 2018,No
+449-NE,ABMI Ecosystem Health 2018,Yes
+449-SW,ABMI Ecosystem Health 2018,No
+450-NE,ABMI Ecosystem Health 2018,Yes
+450-SW,ABMI Ecosystem Health 2018,No
+451-NE,ABMI Ecosystem Health 2016,Yes
+451-NW,ABMI Ecosystem Health 2016,No
+451-SE,ABMI Ecosystem Health 2016,No
+451-SE,ABMI Ecosystem Health 2017,No
+451-SW,ABMI Ecosystem Health 2016,Yes
+452-NE,ABMI Ecosystem Health 2016,Yes
+452-NE,ABMI Ecosystem Health 2017,Yes
+452-NW,ABMI Ecosystem Health 2016,No
+452-SE,ABMI Ecosystem Health 2016,No
+452-SW,ABMI Ecosystem Health 2016,Yes
+463-NE,ABMI Ecosystem Health 2018,Yes
+463-NW,ABMI Ecosystem Health 2018,No
+463-SE,ABMI Ecosystem Health 2018,No
+463-SW,ABMI Ecosystem Health 2018,Yes
+464-NE,ABMI Ecosystem Health 2018,Yes
+464-NW,ABMI Ecosystem Health 2018,No
+464-SE,ABMI Ecosystem Health 2018,No
+464-SW,ABMI Ecosystem Health 2018,Yes
+465-NE,ABMI Ecosystem Health 2018,Yes
+465-NW,ABMI Ecosystem Health 2018,No
+465-SE,ABMI Ecosystem Health 2018,No
+465-SW,ABMI Ecosystem Health 2018,Yes
+472-NE,ABMI Ecosystem Health 2015,Yes
+472-NW,ABMI Ecosystem Health 2015,No
+472-SE,ABMI Ecosystem Health 2015,No
+472-SW,ABMI Ecosystem Health 2015,Yes
+473-NE,ABMI Ecosystem Health 2015,Yes
+473-NW,ABMI Ecosystem Health 2015,No
+473-SE,ABMI Ecosystem Health 2015,No
+473-SW,ABMI Ecosystem Health 2015,Yes
+474-NE,ABMI Ecosystem Health 2015,Yes
+474-NW,ABMI Ecosystem Health 2015,No
+474-SE,ABMI Ecosystem Health 2015,No
+474-SW,ABMI Ecosystem Health 2015,Yes
+475-NE,ABMI Ecosystem Health 2017,Yes
+475-NW,ABMI Ecosystem Health 2017,No
+475-SE,ABMI Ecosystem Health 2017,No
+475-SW,ABMI Ecosystem Health 2017,Yes
+476-NE,ABMI Ecosystem Health 2017,Yes
+476-NW,ABMI Ecosystem Health 2017,No
+476-SE,ABMI Ecosystem Health 2017,No
+476-SW,ABMI Ecosystem Health 2017,Yes
+477-NE,ABMI Ecosystem Health 2017,Yes
+477-NW,ABMI Ecosystem Health 2017,No
+477-SE,ABMI Ecosystem Health 2017,No
+477-SW,ABMI Ecosystem Health 2017,Yes
+478-NE,ABMI Ecosystem Health 2018,Yes
+478-SW,ABMI Ecosystem Health 2018,No
+479-NE,ABMI Ecosystem Health 2018,Yes
+479-SW,ABMI Ecosystem Health 2018,No
+480-NE,ABMI Ecosystem Health 2018,Yes
+480-SW,ABMI Ecosystem Health 2018,No
+481-NE,ABMI Ecosystem Health 2016,Yes
+481-NW,ABMI Ecosystem Health 2016,No
+481-NW,ABMI Ecosystem Health 2017,No
+481-SE,ABMI Ecosystem Health 2016,No
+481-SE,ABMI Ecosystem Health 2017,No
+481-SW,ABMI Ecosystem Health 2016,Yes
+481-SW,ABMI Ecosystem Health 2017,Yes
+482-NE,ABMI Ecosystem Health 2016,Yes
+482-NW,ABMI Ecosystem Health 2016,No
+482-SE,ABMI Ecosystem Health 2016,No
+482-SW,ABMI Ecosystem Health 2016,Yes
+482-SW,ABMI Ecosystem Health 2017,Yes
+483-NE,ABMI Ecosystem Health 2016,Yes
+483-NE,ABMI Ecosystem Health 2017,Yes
+483-NW,ABMI Ecosystem Health 2016,No
+483-SE,ABMI Ecosystem Health 2016,No
+483-SW,ABMI Ecosystem Health 2016,Yes
+497-NE,ABMI Ecosystem Health 2016,Yes
+497-NW,ABMI Ecosystem Health 2016,No
+497-SE,ABMI Ecosystem Health 2016,No
+497-SW,ABMI Ecosystem Health 2016,Yes
+498-NE,ABMI Ecosystem Health 2016,Yes
+498-NW,ABMI Ecosystem Health 2016,No
+498-SE,ABMI Ecosystem Health 2016,No
+498-SW,ABMI Ecosystem Health 2016,Yes
+499-NE,ABMI Ecosystem Health 2016,Yes
+499-NW,ABMI Ecosystem Health 2016,No
+499-SE,ABMI Ecosystem Health 2016,No
+499-SW,ABMI Ecosystem Health 2016,Yes
+4-NE,ABMI Ecosystem Health 2017,Yes
+4-NW,ABMI Ecosystem Health 2017,No
+4-SE,ABMI Ecosystem Health 2017,No
+4-SW,ABMI Ecosystem Health 2017,Yes
+503-NE,ABMI Ecosystem Health 2018,Yes
+503-NW,ABMI Ecosystem Health 2018,No
+503-SE,ABMI Ecosystem Health 2018,No
+503-SW,ABMI Ecosystem Health 2018,Yes
+504-NE,ABMI Ecosystem Health 2018,Yes
+504-NW,ABMI Ecosystem Health 2018,No
+504-SE,ABMI Ecosystem Health 2018,No
+504-SW,ABMI Ecosystem Health 2018,Yes
+505-NE,ABMI Ecosystem Health 2018,Yes
+505-NW,ABMI Ecosystem Health 2018,No
+505-SE,ABMI Ecosystem Health 2018,No
+505-SW,ABMI Ecosystem Health 2018,Yes
+506-NE,ABMI Ecosystem Health 2016,Yes
+506-NW,ABMI Ecosystem Health 2016,No
+506-SE,ABMI Ecosystem Health 2016,No
+506-SW,ABMI Ecosystem Health 2016,Yes
+507-NE,ABMI Ecosystem Health 2016,Yes
+507-NW,ABMI Ecosystem Health 2016,No
+507-SE,ABMI Ecosystem Health 2016,No
+507-SW,ABMI Ecosystem Health 2016,Yes
+508-NE,ABMI Ecosystem Health 2016,Yes
+508-NW,ABMI Ecosystem Health 2016,No
+508-SE,ABMI Ecosystem Health 2016,No
+508-SW,ABMI Ecosystem Health 2016,Yes
+509-NE,ABMI Ecosystem Health 2014,Yes
+509-NW,ABMI Ecosystem Health 2014,No
+509-SE,ABMI Ecosystem Health 2014,No
+509-SW,ABMI Ecosystem Health 2014,Yes
+512-NE,ABMI Ecosystem Health 2015,Yes
+512-NW,ABMI Ecosystem Health 2015,No
+512-SE,ABMI Ecosystem Health 2015,No
+512-SW,ABMI Ecosystem Health 2015,Yes
+514-NE,ABMI Ecosystem Health 2015,Yes
+514-NW,ABMI Ecosystem Health 2015,No
+514-SE,ABMI Ecosystem Health 2015,No
+514-SW,ABMI Ecosystem Health 2015,Yes
+528-NE,ABMI Ecosystem Health 2016,Yes
+528-NW,ABMI Ecosystem Health 2016,No
+528-SE,ABMI Ecosystem Health 2016,No
+528-SW,ABMI Ecosystem Health 2016,Yes
+529-NE,ABMI Ecosystem Health 2016,Yes
+529-NW,ABMI Ecosystem Health 2016,No
+529-SE,ABMI Ecosystem Health 2016,No
+529-SW,ABMI Ecosystem Health 2016,Yes
+530-NE,ABMI Ecosystem Health 2016,Yes
+530-NW,ABMI Ecosystem Health 2016,No
+530-SE,ABMI Ecosystem Health 2016,No
+530-SW,ABMI Ecosystem Health 2016,Yes
+534-NE,ABMI Ecosystem Health 2018,Yes
+534-NW,ABMI Ecosystem Health 2018,No
+534-SE,ABMI Ecosystem Health 2018,No
+534-SW,ABMI Ecosystem Health 2018,Yes
+535-NE,ABMI Ecosystem Health 2018,Yes
+535-NW,ABMI Ecosystem Health 2018,No
+535-SE,ABMI Ecosystem Health 2018,No
+535-SW,ABMI Ecosystem Health 2018,Yes
+536-NE,ABMI Ecosystem Health 2018,Yes
+536-NW,ABMI Ecosystem Health 2018,No
+536-SE,ABMI Ecosystem Health 2018,No
+536-SW,ABMI Ecosystem Health 2018,Yes
+537-NE,ABMI Ecosystem Health 2016,Yes
+537-NW,ABMI Ecosystem Health 2016,No
+537-SE,ABMI Ecosystem Health 2016,No
+537-SW,ABMI Ecosystem Health 2016,Yes
+538-NE,ABMI Ecosystem Health 2016,Yes
+538-NW,ABMI Ecosystem Health 2016,No
+538-SE,ABMI Ecosystem Health 2016,No
+538-SW,ABMI Ecosystem Health 2016,Yes
+538-SW,ABMI Ecosystem Health 2017,Yes
+539-NE,ABMI Ecosystem Health 2016,Yes
+539-NW,ABMI Ecosystem Health 2016,No
+539-SE,ABMI Ecosystem Health 2016,Yes
+539-SW,ABMI Ecosystem Health 2016,Yes
+540-NE,ABMI Ecosystem Health 2014,Yes
+540-NW,ABMI Ecosystem Health 2014,No
+540-SE,ABMI Ecosystem Health 2014,No
+540-SW,ABMI Ecosystem Health 2014,Yes
+541-NE,ABMI Ecosystem Health 2014,Yes
+541-NW,ABMI Ecosystem Health 2014,No
+541-SE,ABMI Ecosystem Health 2014,No
+541-SW,ABMI Ecosystem Health 2014,Yes
+543-NE,ABMI Ecosystem Health 2015,Yes
+543-NW,ABMI Ecosystem Health 2015,No
+543-SE,ABMI Ecosystem Health 2015,No
+543-SW,ABMI Ecosystem Health 2015,Yes
+544-NE,ABMI Ecosystem Health 2015,Yes
+544-NW,ABMI Ecosystem Health 2015,No
+544-SE,ABMI Ecosystem Health 2015,Yes
+544-SW,ABMI Ecosystem Health 2015,No
+545-NW,ABMI Ecosystem Health 2015,No
+545-SW,ABMI Ecosystem Health 2015,Yes
+555-NE,ABMI Ecosystem Health 2017,Yes
+555-NW,ABMI Ecosystem Health 2017,No
+555-SE,ABMI Ecosystem Health 2017,No
+555-SW,ABMI Ecosystem Health 2017,Yes
+559-NE,ABMI Ecosystem Health 2016,Yes
+559-NW,ABMI Ecosystem Health 2016,No
+559-SE,ABMI Ecosystem Health 2016,No
+559-SW,ABMI Ecosystem Health 2016,Yes
+560-NE,ABMI Ecosystem Health 2016,Yes
+560-NW,ABMI Ecosystem Health 2016,No
+560-SE,ABMI Ecosystem Health 2016,No
+560-SW,ABMI Ecosystem Health 2016,Yes
+561-NE,ABMI Ecosystem Health 2016,Yes
+561-NW,ABMI Ecosystem Health 2016,No
+561-SE,ABMI Ecosystem Health 2016,No
+561-SW,ABMI Ecosystem Health 2016,Yes
+565-NE,ABMI Ecosystem Health 2018,Yes
+565-NW,ABMI Ecosystem Health 2018,No
+565-SE,ABMI Ecosystem Health 2018,No
+565-SW,ABMI Ecosystem Health 2018,Yes
+566-NE,ABMI Ecosystem Health 2018,Yes
+566-NW,ABMI Ecosystem Health 2018,No
+566-SE,ABMI Ecosystem Health 2018,No
+566-SW,ABMI Ecosystem Health 2018,Yes
+567-NE,ABMI Ecosystem Health 2018,Yes
+567-NW,ABMI Ecosystem Health 2018,No
+567-SE,ABMI Ecosystem Health 2018,No
+567-SW,ABMI Ecosystem Health 2018,Yes
+568-NE,ABMI Ecosystem Health 2016,Yes
+568-NW,ABMI Ecosystem Health 2016,No
+568-SE,ABMI Ecosystem Health 2016,No
+568-SW,ABMI Ecosystem Health 2016,Yes
+569-NE,ABMI Ecosystem Health 2016,Yes
+569-NW,ABMI Ecosystem Health 2016,No
+569-SE,ABMI Ecosystem Health 2016,No
+569-SE,ABMI Ecosystem Health 2017,No
+569-SW,ABMI Ecosystem Health 2016,Yes
+570-NE,ABMI Ecosystem Health 2016,Yes
+570-NW,ABMI Ecosystem Health 2016,No
+570-SE,ABMI Ecosystem Health 2016,No
+570-SW,ABMI Ecosystem Health 2016,Yes
+572-NE,ABMI Ecosystem Health 2014,Yes
+572-NW,ABMI Ecosystem Health 2014,No
+572-SE,ABMI Ecosystem Health 2014,No
+572-SW,ABMI Ecosystem Health 2014,Yes
+574-NE,ABMI Ecosystem Health 2015,No
+574-NW,ABMI Ecosystem Health 2015,No
+574-SE,ABMI Ecosystem Health 2015,No
+574-SW,ABMI Ecosystem Health 2015,No
+575-NE,ABMI Ecosystem Health 2015,Yes
+575-NW,ABMI Ecosystem Health 2015,No
+575-SE,ABMI Ecosystem Health 2015,No
+575-SW,ABMI Ecosystem Health 2015,Yes
+576-NE,ABMI Ecosystem Health 2015,Yes
+576-NW,ABMI Ecosystem Health 2015,No
+576-SE,ABMI Ecosystem Health 2015,No
+576-SW,ABMI Ecosystem Health 2015,Yes
+584-NE,ABMI Ecosystem Health 2016,Yes
+584-NW,ABMI Ecosystem Health 2016,No
+584-SE,ABMI Ecosystem Health 2016,No
+584-SW,ABMI Ecosystem Health 2016,Yes
+585-NE,ABMI Ecosystem Health 2016,Yes
+585-NW,ABMI Ecosystem Health 2016,No
+585-SE,ABMI Ecosystem Health 2016,No
+585-SW,ABMI Ecosystem Health 2016,Yes
+586-NE,ABMI Ecosystem Health 2016,Yes
+586-NW,ABMI Ecosystem Health 2016,No
+586-SE,ABMI Ecosystem Health 2016,No
+586-SW,ABMI Ecosystem Health 2016,Yes
+587-NE,ABMI Ecosystem Health 2017,Yes
+587-NW,ABMI Ecosystem Health 2017,No
+587-SE,ABMI Ecosystem Health 2017,No
+587-SW,ABMI Ecosystem Health 2017,Yes
+588-NE,ABMI Ecosystem Health 2017,Yes
+588-NE,ABMI Ecosystem Health 2013,No
+588-NW,ABMI Ecosystem Health 2017,No
+588-NW,ABMI Ecosystem Health 2013,No
+588-SE,ABMI Ecosystem Health 2017,No
+588-SE,ABMI Ecosystem Health 2013,No
+588-SW,ABMI Ecosystem Health 2017,Yes
+588-SW,ABMI Ecosystem Health 2013,No
+589-NE,ABMI Ecosystem Health 2017,Yes
+589-NW,ABMI Ecosystem Health 2017,No
+589-SE,ABMI Ecosystem Health 2017,No
+589-SW,ABMI Ecosystem Health 2017,Yes
+590-NE,ABMI Ecosystem Health 2018,Yes
+590-NW,ABMI Ecosystem Health 2018,No
+590-SE,ABMI Ecosystem Health 2018,No
+590-SW,ABMI Ecosystem Health 2018,Yes
+592-NE,ABMI Ecosystem Health 2018,Yes
+592-NW,ABMI Ecosystem Health 2018,No
+592-SE,ABMI Ecosystem Health 2018,No
+592-SW,ABMI Ecosystem Health 2018,Yes
+593-NE,ABMI Ecosystem Health 2016,Yes
+593-NW,ABMI Ecosystem Health 2016,No
+593-SE,ABMI Ecosystem Health 2016,No
+593-SW,ABMI Ecosystem Health 2016,Yes
+594-NE,ABMI Ecosystem Health 2016,Yes
+594-NW,ABMI Ecosystem Health 2016,No
+594-SE,ABMI Ecosystem Health 2016,No
+594-SW,ABMI Ecosystem Health 2016,Yes
+595-NE,ABMI Ecosystem Health 2016,Yes
+595-NW,ABMI Ecosystem Health 2016,No
+595-SE,ABMI Ecosystem Health 2016,No
+595-SW,ABMI Ecosystem Health 2016,Yes
+599-NE,ABMI Ecosystem Health 2015,Yes
+599-NW,ABMI Ecosystem Health 2015,No
+599-SE,ABMI Ecosystem Health 2015,No
+599-SW,ABMI Ecosystem Health 2015,Yes
+5-NE,ABMI Ecosystem Health 2017,Yes
+5-NW,ABMI Ecosystem Health 2017,No
+5-SE,ABMI Ecosystem Health 2017,No
+5-SW,ABMI Ecosystem Health 2017,Yes
+600-NE,ABMI Ecosystem Health 2015,Yes
+600-NW,ABMI Ecosystem Health 2015,No
+600-SE,ABMI Ecosystem Health 2015,No
+600-SW,ABMI Ecosystem Health 2015,Yes
+601-NE,ABMI Ecosystem Health 2015,Yes
+601-NW,ABMI Ecosystem Health 2015,No
+601-SE,ABMI Ecosystem Health 2015,No
+601-SW,ABMI Ecosystem Health 2015,Yes
+602-NE,ABMI Ecosystem Health 2017,Yes
+602-NW,ABMI Ecosystem Health 2017,No
+602-SE,ABMI Ecosystem Health 2017,No
+602-SW,ABMI Ecosystem Health 2017,Yes
+603-NE,ABMI Ecosystem Health 2017,Yes
+603-NW,ABMI Ecosystem Health 2017,No
+603-SE,ABMI Ecosystem Health 2017,No
+603-SW,ABMI Ecosystem Health 2017,Yes
+604-NE,ABMI Ecosystem Health 2017,Yes
+604-NW,ABMI Ecosystem Health 2017,No
+604-SE,ABMI Ecosystem Health 2017,No
+604-SW,ABMI Ecosystem Health 2017,Yes
+605-NE,ABMI Ecosystem Health 2018,Yes
+605-SW,ABMI Ecosystem Health 2018,No
+606-NE,ABMI Ecosystem Health 2018,Yes
+606-SW,ABMI Ecosystem Health 2018,No
+607-NE,ABMI Ecosystem Health 2018,Yes
+607-SW,ABMI Ecosystem Health 2018,No
+608-NE,ABMI Ecosystem Health 2016,Yes
+608-NW,ABMI Ecosystem Health 2016,No
+608-SE,ABMI Ecosystem Health 2016,No
+608-SW,ABMI Ecosystem Health 2016,Yes
+616-NE,ABMI Ecosystem Health 2016,Yes
+616-NW,ABMI Ecosystem Health 2016,No
+616-SE,ABMI Ecosystem Health 2016,No
+616-SW,ABMI Ecosystem Health 2016,Yes
+617-NE,ABMI Ecosystem Health 2016,Yes
+617-NW,ABMI Ecosystem Health 2016,No
+617-SE,ABMI Ecosystem Health 2016,No
+617-SW,ABMI Ecosystem Health 2016,Yes
+618-NE,ABMI Ecosystem Health 2016,Yes
+618-NW,ABMI Ecosystem Health 2016,No
+618-SE,ABMI Ecosystem Health 2016,No
+618-SW,ABMI Ecosystem Health 2016,Yes
+619-NE,ABMI Ecosystem Health 2017,Yes
+619-NW,ABMI Ecosystem Health 2017,No
+619-SE,ABMI Ecosystem Health 2017,No
+619-SW,ABMI Ecosystem Health 2017,Yes
+620-NE,ABMI Ecosystem Health 2017,Yes
+620-NW,ABMI Ecosystem Health 2017,No
+620-SE,ABMI Ecosystem Health 2017,No
+620-SW,ABMI Ecosystem Health 2017,Yes
+621-NE,ABMI Ecosystem Health 2017,Yes
+621-NE,ABMI Ecosystem Health 2013,No
+621-NW,ABMI Ecosystem Health 2017,No
+621-NW,ABMI Ecosystem Health 2013,No
+621-SE,ABMI Ecosystem Health 2017,No
+621-SE,ABMI Ecosystem Health 2013,No
+621-SW,ABMI Ecosystem Health 2017,Yes
+621-SW,ABMI Ecosystem Health 2013,No
+622-NE,ABMI Ecosystem Health 2018,Yes
+622-NW,ABMI Ecosystem Health 2018,No
+622-SE,ABMI Ecosystem Health 2018,No
+622-SW,ABMI Ecosystem Health 2018,Yes
+623-NE,ABMI Ecosystem Health 2018,Yes
+623-NW,ABMI Ecosystem Health 2018,No
+623-SE,ABMI Ecosystem Health 2018,No
+623-SW,ABMI Ecosystem Health 2018,Yes
+624-NE,ABMI Ecosystem Health 2018,No
+624-NW,ABMI Ecosystem Health 2018,No
+624-SE,ABMI Ecosystem Health 2018,No
+624-SW,ABMI Ecosystem Health 2018,Yes
+625-NE,ABMI Ecosystem Health 2016,Yes
+625-NW,ABMI Ecosystem Health 2016,No
+625-SE,ABMI Ecosystem Health 2016,No
+625-SW,ABMI Ecosystem Health 2016,Yes
+626-NE,ABMI Ecosystem Health 2016,Yes
+626-NW,ABMI Ecosystem Health 2016,No
+626-SE,ABMI Ecosystem Health 2016,No
+626-SW,ABMI Ecosystem Health 2016,Yes
+627-NE,ABMI Ecosystem Health 2016,Yes
+627-NW,ABMI Ecosystem Health 2016,No
+627-SE,ABMI Ecosystem Health 2016,No
+627-SW,ABMI Ecosystem Health 2016,Yes
+631-NE,ABMI Ecosystem Health 2015,Yes
+631-NW,ABMI Ecosystem Health 2015,No
+631-SE,ABMI Ecosystem Health 2015,No
+631-SW,ABMI Ecosystem Health 2015,Yes
+632-NW,ABMI Ecosystem Health 2015,No
+632-SE,ABMI Ecosystem Health 2015,No
+632-SW,ABMI Ecosystem Health 2015,Yes
+633-NE,ABMI Ecosystem Health 2015,Yes
+633-NW,ABMI Ecosystem Health 2015,No
+633-SE,ABMI Ecosystem Health 2015,No
+633-SW,ABMI Ecosystem Health 2015,Yes
+634-NE,ABMI Ecosystem Health 2017,Yes
+634-NW,ABMI Ecosystem Health 2017,No
+634-SE,ABMI Ecosystem Health 2017,No
+634-SW,ABMI Ecosystem Health 2017,Yes
+635-NE,ABMI Ecosystem Health 2017,Yes
+635-NW,ABMI Ecosystem Health 2017,No
+635-SE,ABMI Ecosystem Health 2017,No
+635-SW,ABMI Ecosystem Health 2017,Yes
+636-NE,ABMI Ecosystem Health 2017,Yes
+636-NW,ABMI Ecosystem Health 2017,No
+636-SE,ABMI Ecosystem Health 2017,No
+636-SW,ABMI Ecosystem Health 2017,Yes
+637-NE,ABMI Ecosystem Health 2018,Yes
+637-SW,ABMI Ecosystem Health 2018,No
+638-NE,ABMI Ecosystem Health 2018,Yes
+638-SW,ABMI Ecosystem Health 2018,No
+639-NE,ABMI Ecosystem Health 2018,Yes
+639-SW,ABMI Ecosystem Health 2018,No
+63-NE,ABMI Ecosystem Health 2016,Yes
+63-NW,ABMI Ecosystem Health 2016,No
+63-SE,ABMI Ecosystem Health 2016,No
+63-SW,ABMI Ecosystem Health 2016,Yes
+640-NE,ABMI Ecosystem Health 2016,Yes
+640-NW,ABMI Ecosystem Health 2016,No
+640-SE,ABMI Ecosystem Health 2016,No
+640-SW,ABMI Ecosystem Health 2016,Yes
+648-NE,ABMI Ecosystem Health 2016,No
+648-NW,ABMI Ecosystem Health 2016,Yes
+648-SE,ABMI Ecosystem Health 2016,No
+648-SW,ABMI Ecosystem Health 2016,NA
+649-NE,ABMI Ecosystem Health 2016,Yes
+649-NW,ABMI Ecosystem Health 2016,No
+649-SE,ABMI Ecosystem Health 2016,No
+649-SW,ABMI Ecosystem Health 2016,Yes
+64-NE,ABMI Ecosystem Health 2016,Yes
+64-NW,ABMI Ecosystem Health 2016,No
+64-SE,ABMI Ecosystem Health 2016,No
+64-SW,ABMI Ecosystem Health 2016,Yes
+650-NE,ABMI Ecosystem Health 2016,No
+650-NW,ABMI Ecosystem Health 2016,No
+650-SE,ABMI Ecosystem Health 2016,Yes
+650-SW,ABMI Ecosystem Health 2016,NA
+651-NE,ABMI Ecosystem Health 2017,Yes
+651-NW,ABMI Ecosystem Health 2017,No
+651-SE,ABMI Ecosystem Health 2017,No
+651-SW,ABMI Ecosystem Health 2017,Yes
+652-NE,ABMI Ecosystem Health 2017,Yes
+652-NW,ABMI Ecosystem Health 2017,No
+652-SE,ABMI Ecosystem Health 2017,No
+652-SW,ABMI Ecosystem Health 2017,Yes
+653-NE,ABMI Ecosystem Health 2017,Yes
+653-NW,ABMI Ecosystem Health 2017,No
+653-NW,ABMI Ecosystem Health 2013,No
+653-SE,ABMI Ecosystem Health 2017,No
+653-SE,ABMI Ecosystem Health 2013,No
+653-SW,ABMI Ecosystem Health 2017,Yes
+653-SW,ABMI Ecosystem Health 2013,No
+657-NE,ABMI Ecosystem Health 2016,Yes
+657-NW,ABMI Ecosystem Health 2016,No
+657-SE,ABMI Ecosystem Health 2016,No
+657-SW,ABMI Ecosystem Health 2016,Yes
+658-NE,ABMI Ecosystem Health 2016,Yes
+658-NW,ABMI Ecosystem Health 2016,No
+658-SE,ABMI Ecosystem Health 2016,No
+658-SW,ABMI Ecosystem Health 2016,Yes
+659-NE,ABMI Ecosystem Health 2016,Yes
+659-NW,ABMI Ecosystem Health 2016,No
+659-SE,ABMI Ecosystem Health 2016,No
+659-SW,ABMI Ecosystem Health 2016,Yes
+65-NE,ABMI Ecosystem Health 2016,Yes
+65-NW,ABMI Ecosystem Health 2016,No
+65-SE,ABMI Ecosystem Health 2016,No
+65-SW,ABMI Ecosystem Health 2016,Yes
+663-NE,ABMI Ecosystem Health 2015,Yes
+663-NW,ABMI Ecosystem Health 2015,No
+663-SE,ABMI Ecosystem Health 2015,No
+663-SW,ABMI Ecosystem Health 2015,Yes
+664-NE,ABMI Ecosystem Health 2015,Yes
+664-NW,ABMI Ecosystem Health 2015,No
+664-SE,ABMI Ecosystem Health 2015,No
+664-SW,ABMI Ecosystem Health 2015,Yes
+665-NE,ABMI Ecosystem Health 2015,Yes
+665-NW,ABMI Ecosystem Health 2015,No
+665-SE,ABMI Ecosystem Health 2015,No
+665-SW,ABMI Ecosystem Health 2015,Yes
+666-NE,ABMI Ecosystem Health 2017,Yes
+666-NW,ABMI Ecosystem Health 2017,No
+666-SE,ABMI Ecosystem Health 2017,No
+666-SW,ABMI Ecosystem Health 2017,Yes
+667-NE,ABMI Ecosystem Health 2017,Yes
+667-NW,ABMI Ecosystem Health 2017,No
+667-SE,ABMI Ecosystem Health 2017,No
+667-SW,ABMI Ecosystem Health 2017,Yes
+668-NE,ABMI Ecosystem Health 2017,Yes
+668-NW,ABMI Ecosystem Health 2017,No
+668-SE,ABMI Ecosystem Health 2017,No
+668-SW,ABMI Ecosystem Health 2017,Yes
+669-NE,ABMI Ecosystem Health 2018,Yes
+669-SW,ABMI Ecosystem Health 2018,No
+670-NE,ABMI Ecosystem Health 2018,Yes
+670-SW,ABMI Ecosystem Health 2018,No
+671-NE,ABMI Ecosystem Health 2018,Yes
+671-SW,ABMI Ecosystem Health 2018,No
+672-NE,ABMI Ecosystem Health 2016,Yes
+672-NW,ABMI Ecosystem Health 2016,No
+672-SE,ABMI Ecosystem Health 2016,No
+672-SW,ABMI Ecosystem Health 2016,Yes
+679-NE,ABMI Ecosystem Health 2018,Yes
+679-SW,ABMI Ecosystem Health 2018,No
+680-NE,ABMI Ecosystem Health 2018,Yes
+680-SW,ABMI Ecosystem Health 2018,No
+681-NE,ABMI Ecosystem Health 2018,No
+681-SW,ABMI Ecosystem Health 2018,Yes
+691-NE,ABMI Ecosystem Health 2017,Yes
+691-NW,ABMI Ecosystem Health 2017,No
+691-SE,ABMI Ecosystem Health 2017,No
+691-SW,ABMI Ecosystem Health 2017,Yes
+692-NE,ABMI Ecosystem Health 2017,Yes
+692-NW,ABMI Ecosystem Health 2017,No
+692-SE,ABMI Ecosystem Health 2017,No
+692-SW,ABMI Ecosystem Health 2017,Yes
+693-NE,ABMI Ecosystem Health 2017,Yes
+693-NW,ABMI Ecosystem Health 2017,No
+693-SE,ABMI Ecosystem Health 2017,No
+693-SW,ABMI Ecosystem Health 2017,Yes
+694-NE,ABMI Ecosystem Health 2018,Yes
+694-SW,ABMI Ecosystem Health 2018,No
+695-NE,ABMI Ecosystem Health 2018,Yes
+695-SW,ABMI Ecosystem Health 2018,No
+696-NE,ABMI Ecosystem Health 2018,Yes
+696-SW,ABMI Ecosystem Health 2018,No
+697-NE,ABMI Ecosystem Health 2016,Yes
+697-NW,ABMI Ecosystem Health 2016,No
+697-SE,ABMI Ecosystem Health 2016,No
+697-SW,ABMI Ecosystem Health 2016,Yes
+698-NE,ABMI Ecosystem Health 2016,Yes
+698-NW,ABMI Ecosystem Health 2016,No
+698-SE,ABMI Ecosystem Health 2016,No
+698-SW,ABMI Ecosystem Health 2016,Yes
+699-NE,ABMI Ecosystem Health 2016,Yes
+699-NW,ABMI Ecosystem Health 2016,No
+699-SE,ABMI Ecosystem Health 2016,No
+699-SW,ABMI Ecosystem Health 2016,Yes
+6-NE,ABMI Ecosystem Health 2017,Yes
+6-NW,ABMI Ecosystem Health 2017,No
+6-SE,ABMI Ecosystem Health 2017,No
+6-SW,ABMI Ecosystem Health 2017,Yes
+710-NE,ABMI Ecosystem Health 2018,Yes
+710-SW,ABMI Ecosystem Health 2018,No
+711-NE,ABMI Ecosystem Health 2018,Yes
+711-SW,ABMI Ecosystem Health 2018,No
+712-NE,ABMI Ecosystem Health 2018,Yes
+712-SW,ABMI Ecosystem Health 2018,No
+714-NE,ABMI Ecosystem Health 2013,No
+714-NW,ABMI Ecosystem Health 2013,No
+714-SE,ABMI Ecosystem Health 2013,No
+714-SW,ABMI Ecosystem Health 2013,No
+722-NE,ABMI Ecosystem Health 2017,Yes
+722-NW,ABMI Ecosystem Health 2017,No
+722-SE,ABMI Ecosystem Health 2017,No
+722-SW,ABMI Ecosystem Health 2017,Yes
+723-NE,ABMI Ecosystem Health 2017,Yes
+723-NW,ABMI Ecosystem Health 2017,No
+723-SE,ABMI Ecosystem Health 2017,No
+723-SW,ABMI Ecosystem Health 2017,Yes
+724-NE,ABMI Ecosystem Health 2017,Yes
+724-NW,ABMI Ecosystem Health 2017,No
+724-SE,ABMI Ecosystem Health 2017,No
+724-SW,ABMI Ecosystem Health 2017,Yes
+725-NE,ABMI Ecosystem Health 2018,Yes
+725-SW,ABMI Ecosystem Health 2018,NA
+726-NE,ABMI Ecosystem Health 2018,Yes
+726-SW,ABMI Ecosystem Health 2018,NA
+727-NE,ABMI Ecosystem Health 2018,Yes
+727-SW,ABMI Ecosystem Health 2018,No
+728-NE,ABMI Ecosystem Health 2016,Yes
+728-NW,ABMI Ecosystem Health 2016,No
+728-SE,ABMI Ecosystem Health 2016,No
+728-SW,ABMI Ecosystem Health 2016,Yes
+729-NE,ABMI Ecosystem Health 2016,Yes
+729-NW,ABMI Ecosystem Health 2016,No
+729-SE,ABMI Ecosystem Health 2016,No
+729-SW,ABMI Ecosystem Health 2016,Yes
+730-NE,ABMI Ecosystem Health 2016,Yes
+730-NW,ABMI Ecosystem Health 2016,No
+730-SE,ABMI Ecosystem Health 2016,No
+730-SW,ABMI Ecosystem Health 2016,Yes
+741-NE,ABMI Ecosystem Health 2018,Yes
+741-SW,ABMI Ecosystem Health 2018,No
+742-NE,ABMI Ecosystem Health 2018,Yes
+742-SW,ABMI Ecosystem Health 2018,No
+743-NE,ABMI Ecosystem Health 2018,Yes
+743-SW,ABMI Ecosystem Health 2018,No
+753-NE,ABMI Ecosystem Health 2017,Yes
+753-NW,ABMI Ecosystem Health 2017,No
+753-SE,ABMI Ecosystem Health 2017,No
+753-SW,ABMI Ecosystem Health 2017,Yes
+754-NE,ABMI Ecosystem Health 2017,Yes
+754-NW,ABMI Ecosystem Health 2017,No
+754-SE,ABMI Ecosystem Health 2017,No
+754-SW,ABMI Ecosystem Health 2017,Yes
+755-NE,ABMI Ecosystem Health 2017,Yes
+755-NW,ABMI Ecosystem Health 2017,No
+755-SE,ABMI Ecosystem Health 2017,No
+755-SW,ABMI Ecosystem Health 2017,Yes
+756-NE,ABMI Ecosystem Health 2018,Yes
+756-SW,ABMI Ecosystem Health 2018,No
+757-NE,ABMI Ecosystem Health 2018,Yes
+757-SW,ABMI Ecosystem Health 2018,No
+758-NE,ABMI Ecosystem Health 2018,Yes
+758-SW,ABMI Ecosystem Health 2018,No
+759-NE,ABMI Ecosystem Health 2016,Yes
+759-NW,ABMI Ecosystem Health 2016,No
+759-SE,ABMI Ecosystem Health 2016,No
+759-SW,ABMI Ecosystem Health 2016,Yes
+760-NE,ABMI Ecosystem Health 2016,Yes
+760-NW,ABMI Ecosystem Health 2016,No
+760-SE,ABMI Ecosystem Health 2016,No
+760-SW,ABMI Ecosystem Health 2016,Yes
+761-NE,ABMI Ecosystem Health 2016,Yes
+761-NW,ABMI Ecosystem Health 2016,No
+761-SE,ABMI Ecosystem Health 2016,No
+761-SW,ABMI Ecosystem Health 2016,Yes
+767-NE,ABMI Ecosystem Health 2018,Yes
+767-NW,ABMI Ecosystem Health 2018,No
+767-SE,ABMI Ecosystem Health 2018,No
+767-SW,ABMI Ecosystem Health 2018,Yes
+768-NE,ABMI Ecosystem Health 2018,Yes
+768-NW,ABMI Ecosystem Health 2018,No
+768-SE,ABMI Ecosystem Health 2018,No
+768-SW,ABMI Ecosystem Health 2018,Yes
+769-NE,ABMI Ecosystem Health 2018,Yes
+769-NW,ABMI Ecosystem Health 2018,No
+769-SE,ABMI Ecosystem Health 2018,No
+769-SW,ABMI Ecosystem Health 2018,Yes
+782-NE,ABMI Ecosystem Health 2018,Yes
+782-NW,ABMI Ecosystem Health 2018,No
+782-SE,ABMI Ecosystem Health 2018,No
+782-SW,ABMI Ecosystem Health 2018,Yes
+791-NE,ABMI Ecosystem Health 2015,Yes
+791-NW,ABMI Ecosystem Health 2015,No
+791-SE,ABMI Ecosystem Health 2015,No
+791-SW,ABMI Ecosystem Health 2015,Yes
+792-NE,ABMI Ecosystem Health 2015,Yes
+792-NW,ABMI Ecosystem Health 2015,No
+792-SE,ABMI Ecosystem Health 2015,No
+792-SW,ABMI Ecosystem Health 2015,Yes
+793-NE,ABMI Ecosystem Health 2015,Yes
+793-NW,ABMI Ecosystem Health 2015,No
+793-SE,ABMI Ecosystem Health 2015,No
+793-SW,ABMI Ecosystem Health 2015,Yes
+794-NE,ABMI Ecosystem Health 2015,Yes
+794-NW,ABMI Ecosystem Health 2015,No
+794-SE,ABMI Ecosystem Health 2015,No
+794-SW,ABMI Ecosystem Health 2015,Yes
+799-NE,ABMI Ecosystem Health 2018,Yes
+799-NW,ABMI Ecosystem Health 2018,No
+799-SE,ABMI Ecosystem Health 2018,No
+799-SW,ABMI Ecosystem Health 2018,Yes
+7-NE,ABMI Ecosystem Health 2018,No
+7-SW,ABMI Ecosystem Health 2018,Yes
+800-NE,ABMI Ecosystem Health 2018,Yes
+800-NW,ABMI Ecosystem Health 2018,No
+800-SE,ABMI Ecosystem Health 2018,No
+800-SW,ABMI Ecosystem Health 2018,No
+801-NE,ABMI Ecosystem Health 2018,Yes
+801-NW,ABMI Ecosystem Health 2018,No
+801-SE,ABMI Ecosystem Health 2018,No
+801-SW,ABMI Ecosystem Health 2018,Yes
+816-NE,ABMI Ecosystem Health 2018,Yes
+816-NW,ABMI Ecosystem Health 2018,No
+816-SE,ABMI Ecosystem Health 2018,No
+816-SW,ABMI Ecosystem Health 2018,Yes
+823-NE,ABMI Ecosystem Health 2015,Yes
+823-NW,ABMI Ecosystem Health 2015,No
+823-SE,ABMI Ecosystem Health 2015,No
+823-SW,ABMI Ecosystem Health 2015,Yes
+824-SE,ABMI Ecosystem Health 2015,No
+824-SW,ABMI Ecosystem Health 2015,Yes
+825-NE,ABMI Ecosystem Health 2015,Yes
+825-NW,ABMI Ecosystem Health 2015,No
+825-SE,ABMI Ecosystem Health 2015,No
+825-SW,ABMI Ecosystem Health 2015,Yes
+826-NE,ABMI Ecosystem Health 2017,Yes
+826-NW,ABMI Ecosystem Health 2017,No
+826-SE,ABMI Ecosystem Health 2017,No
+826-SW,ABMI Ecosystem Health 2017,Yes
+827-NE,ABMI Ecosystem Health 2017,Yes
+827-NW,ABMI Ecosystem Health 2017,No
+827-SE,ABMI Ecosystem Health 2017,No
+827-SW,ABMI Ecosystem Health 2017,Yes
+828-NE,ABMI Ecosystem Health 2017,Yes
+828-NW,ABMI Ecosystem Health 2017,No
+828-SE,ABMI Ecosystem Health 2017,No
+828-SW,ABMI Ecosystem Health 2017,Yes
+829-NE,ABMI Ecosystem Health 2018,Yes
+829-SW,ABMI Ecosystem Health 2018,No
+830-NE,ABMI Ecosystem Health 2018,Yes
+830-SW,ABMI Ecosystem Health 2018,NA
+831-NE,ABMI Ecosystem Health 2018,Yes
+831-NW,ABMI Ecosystem Health 2018,NA
+831-SE,ABMI Ecosystem Health 2018,No
+831-SW,ABMI Ecosystem Health 2018,Yes
+832-NE,ABMI Ecosystem Health 2018,Yes
+832-NW,ABMI Ecosystem Health 2018,No
+832-SE,ABMI Ecosystem Health 2018,No
+832-SW,ABMI Ecosystem Health 2018,Yes
+833-NE,ABMI Ecosystem Health 2018,Yes
+833-NW,ABMI Ecosystem Health 2018,No
+833-SE,ABMI Ecosystem Health 2018,No
+833-SW,ABMI Ecosystem Health 2018,Yes
+842-NW,ABMI Ecosystem Health 2013,No
+842-SE,ABMI Ecosystem Health 2013,No
+842-SW,ABMI Ecosystem Health 2013,No
+848-NE,ABMI Ecosystem Health 2018,Yes
+848-NW,ABMI Ecosystem Health 2018,No
+848-SE,ABMI Ecosystem Health 2018,No
+848-SW,ABMI Ecosystem Health 2018,Yes
+855-NE,ABMI Ecosystem Health 2015,Yes
+855-NW,ABMI Ecosystem Health 2015,No
+855-SE,ABMI Ecosystem Health 2015,No
+855-SW,ABMI Ecosystem Health 2015,Yes
+856-NE,ABMI Ecosystem Health 2015,Yes
+856-NW,ABMI Ecosystem Health 2015,No
+856-SE,ABMI Ecosystem Health 2015,No
+856-SW,ABMI Ecosystem Health 2015,No
+857-NE,ABMI Ecosystem Health 2015,Yes
+857-NW,ABMI Ecosystem Health 2015,No
+857-SE,ABMI Ecosystem Health 2015,No
+857-SW,ABMI Ecosystem Health 2015,Yes
+858-NE,ABMI Ecosystem Health 2017,Yes
+858-NW,ABMI Ecosystem Health 2017,No
+858-SE,ABMI Ecosystem Health 2017,No
+858-SW,ABMI Ecosystem Health 2017,Yes
+859-NE,ABMI Ecosystem Health 2017,Yes
+859-NW,ABMI Ecosystem Health 2017,No
+859-SE,ABMI Ecosystem Health 2017,No
+859-SW,ABMI Ecosystem Health 2017,Yes
+860-NE,ABMI Ecosystem Health 2017,Yes
+860-NW,ABMI Ecosystem Health 2017,No
+860-SE,ABMI Ecosystem Health 2017,No
+860-SW,ABMI Ecosystem Health 2017,Yes
+861-NE,ABMI Ecosystem Health 2018,No
+861-SW,ABMI Ecosystem Health 2018,Yes
+862-NE,ABMI Ecosystem Health 2018,No
+862-SW,ABMI Ecosystem Health 2018,Yes
+887-NE,ABMI Ecosystem Health 2018,Yes
+887-SW,ABMI Ecosystem Health 2018,No
+888-NE,ABMI Ecosystem Health 2018,Yes
+888-SW,ABMI Ecosystem Health 2018,No
+889-NE,ABMI Ecosystem Health 2018,Yes
+889-SW,ABMI Ecosystem Health 2018,No
+890-NE,ABMI Ecosystem Health 2016,Yes
+890-NW,ABMI Ecosystem Health 2016,No
+890-NW-b,ABMI Ecosystem Health 2016,No
+890-SE,ABMI Ecosystem Health 2016,No
+890-SW,ABMI Ecosystem Health 2016,Yes
+891B-NE,ABMI Ecosystem Health 2016,Yes
+891B-NW,ABMI Ecosystem Health 2016,No
+891B-SE,ABMI Ecosystem Health 2016,No
+891B-SW,ABMI Ecosystem Health 2016,No
+892-NE,ABMI Ecosystem Health 2016,Yes
+892-NW,ABMI Ecosystem Health 2016,No
+892-SE,ABMI Ecosystem Health 2016,No
+892-SW,ABMI Ecosystem Health 2016,Yes
+8-NE,ABMI Ecosystem Health 2018,No
+8-SW,ABMI Ecosystem Health 2018,Yes
+905B-NE,ABMI Ecosystem Health 2018,Yes
+905B-NW,ABMI Ecosystem Health 2018,No
+905B-SE,ABMI Ecosystem Health 2018,No
+905B-SW,ABMI Ecosystem Health 2018,Yes
+91-NE,ABMI Ecosystem Health 2016,Yes
+91-NW,ABMI Ecosystem Health 2016,No
+91-SE,ABMI Ecosystem Health 2016,No
+91-SW,ABMI Ecosystem Health 2016,Yes
+920-NE,ABMI Ecosystem Health 2018,Yes
+920-SW,ABMI Ecosystem Health 2018,No
+921-NE,ABMI Ecosystem Health 2014,Yes
+921-NE,ABMI Ecosystem Health 2018,Yes
+921-NW,ABMI Ecosystem Health 2014,No
+921-SE,ABMI Ecosystem Health 2014,No
+921-SW,ABMI Ecosystem Health 2014,Yes
+921-SW,ABMI Ecosystem Health 2018,No
+922-NE,ABMI Ecosystem Health 2018,Yes
+922-SW,ABMI Ecosystem Health 2018,No
+923-NE,ABMI Ecosystem Health 2016,Yes
+923-NW,ABMI Ecosystem Health 2016,No
+923-SE,ABMI Ecosystem Health 2016,No
+923-SW,ABMI Ecosystem Health 2016,Yes
+924-NE,ABMI Ecosystem Health 2016,No
+924-NW,ABMI Ecosystem Health 2016,No
+924-SE,ABMI Ecosystem Health 2016,Yes
+924-SW,ABMI Ecosystem Health 2016,Yes
+925-NE,ABMI Ecosystem Health 2016,Yes
+925-NW,ABMI Ecosystem Health 2016,No
+925-SE,ABMI Ecosystem Health 2016,No
+925-SW,ABMI Ecosystem Health 2016,Yes
+928-NE,ABMI Ecosystem Health 2014,Yes
+928-NW,ABMI Ecosystem Health 2014,No
+928-SE,ABMI Ecosystem Health 2014,No
+928-SW,ABMI Ecosystem Health 2014,Yes
+92-NE,ABMI Ecosystem Health 2016,Yes
+92-NW,ABMI Ecosystem Health 2016,No
+92-SE,ABMI Ecosystem Health 2016,No
+92-SW,ABMI Ecosystem Health 2016,Yes
+939-NE,ABMI Ecosystem Health 2018,Yes
+939-NW,ABMI Ecosystem Health 2018,No
+939-SE,ABMI Ecosystem Health 2018,No
+939-SW,ABMI Ecosystem Health 2018,Yes
+93-NE,ABMI Ecosystem Health 2016,Yes
+93-NW,ABMI Ecosystem Health 2016,No
+93-SE,ABMI Ecosystem Health 2016,No
+93-SW,ABMI Ecosystem Health 2016,Yes
+940-NE,ABMI Ecosystem Health 2018,Yes
+940-NW,ABMI Ecosystem Health 2018,No
+940-SE,ABMI Ecosystem Health 2018,No
+940-SW,ABMI Ecosystem Health 2018,Yes
+953-NE,ABMI Ecosystem Health 2018,Yes
+953-SW,ABMI Ecosystem Health 2018,No
+954-NE,ABMI Ecosystem Health 2018,Yes
+954-SW,ABMI Ecosystem Health 2018,No
+955-NE,ABMI Ecosystem Health 2018,Yes
+955-SW,ABMI Ecosystem Health 2018,No
+956-NE,ABMI Ecosystem Health 2016,Yes
+956-NW,ABMI Ecosystem Health 2016,No
+956-SE,ABMI Ecosystem Health 2016,No
+956-SW,ABMI Ecosystem Health 2016,Yes
+957-NE,ABMI Ecosystem Health 2016,Yes
+957-NW,ABMI Ecosystem Health 2016,No
+957-SE,ABMI Ecosystem Health 2016,No
+957-SW,ABMI Ecosystem Health 2016,Yes
+958-NE,ABMI Ecosystem Health 2016,Yes
+958-NW,ABMI Ecosystem Health 2016,No
+958-SE,ABMI Ecosystem Health 2016,No
+958-SW,ABMI Ecosystem Health 2016,Yes
+989-NE,ABMI Ecosystem Health 2015,Yes
+989-NE-b,ABMI Ecosystem Health 2015,Yes
+989-NW,ABMI Ecosystem Health 2015,No
+989-SE,ABMI Ecosystem Health 2015,No
+989-SE-b,ABMI Ecosystem Health 2015,No
+989-SW,ABMI Ecosystem Health 2015,Yes
+990-NE,ABMI Ecosystem Health 2015,Yes
+990-NE-b,ABMI Ecosystem Health 2015,Yes
+990-NW,ABMI Ecosystem Health 2015,No
+990-SW,ABMI Ecosystem Health 2015,Yes
+991-NE,ABMI Ecosystem Health 2015,Yes
+991-NW,ABMI Ecosystem Health 2015,No
+991-SE,ABMI Ecosystem Health 2015,No
+991-SW,ABMI Ecosystem Health 2015,Yes
+992-NE,ABMI Ecosystem Health 2017,Yes
+992-NW,ABMI Ecosystem Health 2017,No
+992-SE,ABMI Ecosystem Health 2017,No
+992-SW,ABMI Ecosystem Health 2017,Yes
+993-NE,ABMI Ecosystem Health 2017,Yes
+993-NW,ABMI Ecosystem Health 2017,No
+993-SE,ABMI Ecosystem Health 2017,No
+993-SW,ABMI Ecosystem Health 2017,Yes
+994-NE,ABMI Ecosystem Health 2017,Yes
+994-NW,ABMI Ecosystem Health 2017,No
+994-SE,ABMI Ecosystem Health 2017,No
+994-SW,ABMI Ecosystem Health 2017,Yes
+W1281-CCL,ABMI Ecosystem Health 2018,No
+W1282-CCL,ABMI Ecosystem Health 2018,No
+W1283-CCL,ABMI Ecosystem Health 2018,No
+W1309-CCL,ABMI Ecosystem Health 2018,No
+W1310-CCL,ABMI Ecosystem Health 2018,No
+W1311-CCL,ABMI Ecosystem Health 2018,No
+W1338-CCL,ABMI Ecosystem Health 2018,No
+W1339-CCL,ABMI Ecosystem Health 2018,No
+W1340-CCL,ABMI Ecosystem Health 2018,No
+W1360-CCL,ABMI Ecosystem Health 2018,No
+W1361-CCL,ABMI Ecosystem Health 2018,No
+W1384-CCL,ABMI Ecosystem Health 2018,No
+W1385-CCL,ABMI Ecosystem Health 2018,No
+W1408-CCL,ABMI Ecosystem Health 2018,No
+W1410-CCL,ABMI Ecosystem Health 2018,No
+W1431-CL,ABMI Ecosystem Health 2018,No
+W1432-CCL,ABMI Ecosystem Health 2018,No
+W1433-CCL,ABMI Ecosystem Health 2018,No
+W1440-CL,ABMI Ecosystem Health 2018,No
+W1441-CCL,ABMI Ecosystem Health 2018,No
+W1442-CCL,ABMI Ecosystem Health 2018,No
+W1453-CCL,ABMI Ecosystem Health 2018,No
+W1454-CCL,ABMI Ecosystem Health 2018,NA
+W1455-CL,ABMI Ecosystem Health 2018,No
+W1462-CL,ABMI Ecosystem Health 2018,No
+W1463-CCL,ABMI Ecosystem Health 2018,No
+W1464-CL,ABMI Ecosystem Health 2018,No
+W1474-CCL,ABMI Ecosystem Health 2018,No
+W1486B-1,ABMI Ecosystem Health 2016,NA
+W1497-CL,ABMI Ecosystem Health 2018,No
+W1498-CCL,ABMI Ecosystem Health 2018,No
+W1499-CCL,ABMI Ecosystem Health 2018,No
+W1516-CCL,ABMI Ecosystem Health 2018,No
+W1517-CL,ABMI Ecosystem Health 2018,No
+W1519-1,ABMI Ecosystem Health 2016,NA
+W1535-CCL,ABMI Ecosystem Health 2018,No
+W1536-CCL,ABMI Ecosystem Health 2018,No
+W1537-CCL,ABMI Ecosystem Health 2018,No
+W1538-1,ABMI Ecosystem Health 2016,NA
+W1551-1,ABMI Ecosystem Health 2016,NA
+W1562-CL,ABMI Ecosystem Health 2018,No
+W1579-CL,ABMI Ecosystem Health 2018,No
+W1580-CL,ABMI Ecosystem Health 2018,No
+W1597-CCL,ABMI Ecosystem Health 2018,No
+W1607-CL,ABMI Ecosystem Health 2018,No
+W1608-CL,ABMI Ecosystem Health 2018,No
+W1609-CL,ABMI Ecosystem Health 2018,No
+W1624-CCL,ABMI Ecosystem Health 2018,No
+W1625-CCL,ABMI Ecosystem Health 2018,No
+W1626-CCL,ABMI Ecosystem Health 2018,No
+W1628B-1,ABMI Ecosystem Health 2016,NA
+W1641-CCL,ABMI Ecosystem Health 2018,No
+W1642-CL,ABMI Ecosystem Health 2018,No
+W1643-CCL,ABMI Ecosystem Health 2018,No
+W1645B-1,ABMI Ecosystem Health 2016,NA
+W19-CCL,ABMI Ecosystem Health 2018,No
+W20-CL,ABMI Ecosystem Health 2018,No
+W213-CL,ABMI Ecosystem Health 2018,No
+W237-CCL,ABMI Ecosystem Health 2018,No
+W238-CL,ABMI Ecosystem Health 2018,No
+W239-CCL,ABMI Ecosystem Health 2018,No
+W267-CCL,ABMI Ecosystem Health 2018,No
+W268-CL,ABMI Ecosystem Health 2018,No
+W269-CL,ABMI Ecosystem Health 2018,No
+W297-CL,ABMI Ecosystem Health 2018,No
+W298-CCL,ABMI Ecosystem Health 2018,No
+W299-CCL,ABMI Ecosystem Health 2018,No
+W38-CCL,ABMI Ecosystem Health 2018,No
+W39-CL,ABMI Ecosystem Health 2018,No
+W418-CL,ABMI Ecosystem Health 2018,No
+W419-CL,ABMI Ecosystem Health 2018,No
+W420-CL,ABMI Ecosystem Health 2018,No
+W449-CL,ABMI Ecosystem Health 2018,No
+W450-CL,ABMI Ecosystem Health 2018,No
+W478-CCL,ABMI Ecosystem Health 2018,No
+W479-CL,ABMI Ecosystem Health 2018,No
+W480-CL,ABMI Ecosystem Health 2018,NA
+W605-CL,ABMI Ecosystem Health 2018,No
+W606-CCL,ABMI Ecosystem Health 2018,No
+W607-CCL,ABMI Ecosystem Health 2018,No
+W637-CCL,ABMI Ecosystem Health 2018,No
+W638-CL,ABMI Ecosystem Health 2018,No
+W639-CL,ABMI Ecosystem Health 2018,No
+W669-CCL,ABMI Ecosystem Health 2018,No
+W670-CCL,ABMI Ecosystem Health 2018,No
+W671-CCL,ABMI Ecosystem Health 2018,No
+W679-CCL,ABMI Ecosystem Health 2018,No
+W680-CL,ABMI Ecosystem Health 2018,No
+W681-CCL,ABMI Ecosystem Health 2018,No
+W694-CL,ABMI Ecosystem Health 2018,No
+W695-CL,ABMI Ecosystem Health 2018,No
+W696-CL,ABMI Ecosystem Health 2018,No
+W710-CCL,ABMI Ecosystem Health 2018,No
+W711-CCL,ABMI Ecosystem Health 2018,No
+W712-CCL,ABMI Ecosystem Health 2018,No
+W725-CCL,ABMI Ecosystem Health 2018,No
+W726-CCL,ABMI Ecosystem Health 2018,No
+W727-CL,ABMI Ecosystem Health 2018,No
+W741-CCL,ABMI Ecosystem Health 2018,No
+W742-CL,ABMI Ecosystem Health 2018,No
+W743-CCL,ABMI Ecosystem Health 2018,No
+W756-CCL,ABMI Ecosystem Health 2018,No
+W757-CCL,ABMI Ecosystem Health 2018,No
+W758-CL,ABMI Ecosystem Health 2018,No
+W7-CCL,ABMI Ecosystem Health 2018,No
+W829-CCL,ABMI Ecosystem Health 2018,No
+W830-CCL,ABMI Ecosystem Health 2018,NA
+W861-CCL,ABMI Ecosystem Health 2018,No
+W862-CL,ABMI Ecosystem Health 2018,No
+W887-CCL,ABMI Ecosystem Health 2018,No
+W888-CCL,ABMI Ecosystem Health 2018,No
+W889-CCL,ABMI Ecosystem Health 2018,No
+W8-CCL,ABMI Ecosystem Health 2018,No
+W920-CCL,ABMI Ecosystem Health 2018,No
+W921-CCL,ABMI Ecosystem Health 2018,No
+W922-CCL,ABMI Ecosystem Health 2018,No
+W953-CCL,ABMI Ecosystem Health 2018,No
+W954-CL,ABMI Ecosystem Health 2018,No
+W955-CCL,ABMI Ecosystem Health 2018,No
+OG-AAC-1054-41,ABMI Ecosystem Health 2017,No
+OG-AAC-1054-42,ABMI Ecosystem Health 2017,No
+OG-AAC-1054-43,ABMI Ecosystem Health 2017,No
+OG-AAC-1054-44,ABMI Ecosystem Health 2017,No
+OG-AAC-1055-41,ABMI Ecosystem Health 2017,No
+OG-AAC-1055-42,ABMI Ecosystem Health 2017,No
+OG-AAC-1085-41,ABMI Ecosystem Health 2017,No
+OG-AAC-1087-41,ABMI Ecosystem Health 2017,No
+OG-AAC-1116-41,ABMI Ecosystem Health 2017,No
+OG-AAC-1116-42,ABMI Ecosystem Health 2017,No
+OG-AAC-1116-43,ABMI Ecosystem Health 2017,No
+OG-AAC-1157-41,ABMI Ecosystem Health 2017,No
+OG-AAC-1157-42,ABMI Ecosystem Health 2017,No
+OG-AAC-1157-43,ABMI Ecosystem Health 2017,No
+OG-AAC-1157-44,ABMI Ecosystem Health 2017,No
+OG-AAC-1180-41,ABMI Ecosystem Health 2017,No
+OG-AAC-1180-41-1-b,ABMI Ecosystem Health 2017,No
+OG-AAC-1180-41-b,ABMI Ecosystem Health 2017,No
+OG-AAC-1190-41,ABMI Ecosystem Health 2017,No
+OG-AAC-1190-42,ABMI Ecosystem Health 2017,No
+OG-AAC-1190-43,ABMI Ecosystem Health 2017,No
+OG-AAC-1191-41,ABMI Ecosystem Health 2017,No
+OG-AAC-1191-42,ABMI Ecosystem Health 2017,No
+OG-AAC-359-41,ABMI Ecosystem Health 2017,No
+OG-AAC-359-42,ABMI Ecosystem Health 2017,No
+OG-AAC-389-41,ABMI Ecosystem Health 2017,No
+OG-AAC-389-42,ABMI Ecosystem Health 2017,No
+OG-AAC-540-41,ABMI Ecosystem Health 2017,No
+OG-AAC-540-42,ABMI Ecosystem Health 2017,No
+OG-AAC-540-43,ABMI Ecosystem Health 2017,No
+OG-AAC-540-44,ABMI Ecosystem Health 2017,No
+OG-AAC-540-45,ABMI Ecosystem Health 2017,No
+OG-AAC-555-41,ABMI Ecosystem Health 2017,No
+OG-AAC-555-42,ABMI Ecosystem Health 2017,No
+OG-AAC-555-43,ABMI Ecosystem Health 2017,No
+OG-AAC-636-41,ABMI Ecosystem Health 2017,No
+OG-AAC-636-42,ABMI Ecosystem Health 2017,No
+OG-AAC-636-43,ABMI Ecosystem Health 2017,No
+OG-AAC-636-44,ABMI Ecosystem Health 2017,No
+OG-AAC-636-45,ABMI Ecosystem Health 2017,No
+OG-AAC-636-46,ABMI Ecosystem Health 2017,No
+OG-AAC-637-41,ABMI Ecosystem Health 2017,No
+OG-AAC-637-43,ABMI Ecosystem Health 2017,No
+OG-AAC-637-44,ABMI Ecosystem Health 2017,No
+OG-AAC-637-45,ABMI Ecosystem Health 2017,No
+OG-AAC-637-46,ABMI Ecosystem Health 2017,No
+OG-AAC-637-47,ABMI Ecosystem Health 2017,No
+OG-AAC-637-48,ABMI Ecosystem Health 2017,No
+OG-AAC-638-43,ABMI Ecosystem Health 2017,No
+OG-AAC-639-41,ABMI Ecosystem Health 2017,No
+OG-AAC-639-42,ABMI Ecosystem Health 2017,No
+OG-AAC-639-43,ABMI Ecosystem Health 2017,No
+OG-AAC-639-44,ABMI Ecosystem Health 2017,No
+OG-AAC-670-41,ABMI Ecosystem Health 2017,No
+OG-AAC-670-42,ABMI Ecosystem Health 2017,No
+OG-AAC-670-43,ABMI Ecosystem Health 2017,No
+OG-AAC-670-44,ABMI Ecosystem Health 2017,No
+OG-AAC-670-45,ABMI Ecosystem Health 2017,No
+OG-AAC-671-41,ABMI Ecosystem Health 2017,No
+OG-AAC-671-42,ABMI Ecosystem Health 2017,No
+OG-AAC-671-43,ABMI Ecosystem Health 2017,No
+OG-AAC-671-44,ABMI Ecosystem Health 2017,No
+OG-AAC-722-41,ABMI Ecosystem Health 2017,No
+OG-AAC-723-41,ABMI Ecosystem Health 2017,No
+OG-AAC-723-42,ABMI Ecosystem Health 2017,No
+OG-AAC-754-41,ABMI Ecosystem Health 2017,No
+OG-AAC-754-42,ABMI Ecosystem Health 2017,No
+OG-AAC-754-43,ABMI Ecosystem Health 2017,No
+OG-AAC-754-44,ABMI Ecosystem Health 2017,No
+OG-AAC-754-45,ABMI Ecosystem Health 2017,No
+OG-AAC-754-46,ABMI Ecosystem Health 2017,No
+OG-AAC-761-41,ABMI Ecosystem Health 2017,No
+OG-AAC-793-41,ABMI Ecosystem Health 2017,No
+OG-AAC-793-42,ABMI Ecosystem Health 2017,No
+OG-AAC-793-43,ABMI Ecosystem Health 2017,No
+OG-AAC-793-44,ABMI Ecosystem Health 2017,No
+OG-AAC-793-45,ABMI Ecosystem Health 2017,No
+OG-AAC-793-46,ABMI Ecosystem Health 2017,No
+OG-AAC-830-41,ABMI Ecosystem Health 2017,No
+OG-AAC-830-42,ABMI Ecosystem Health 2017,No
+OG-AAC-830-43,ABMI Ecosystem Health 2017,No
+OG-ABMI-1059-21,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1059-22,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1059-23,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1060-41-NE,ABMI Ecosystem Health 2017,No
+OG-ABMI-1060-41-NW,ABMI Ecosystem Health 2017,No
+OG-ABMI-1060-41-SE,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-1060-41-SW,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-1091-21,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1119-21,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1188-41-NE,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-1188-41-NW,ABMI Ecosystem Health 2017,No
+OG-ABMI-1188-41-SE,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-1188-41-SW,ABMI Ecosystem Health 2017,No
+OG-ABMI-1193-21,ABMI Ecosystem Health 2015,No
+OG-ABMI-1249-21,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1249-22,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1249-23,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1333-21,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1334-21,ABMI Ecosystem Health 2015,No
+OG-ABMI-1334-22,ABMI Ecosystem Health 2015,No
+OG-ABMI-1360-21,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1389-21,ABMI Ecosystem Health 2015,No
+OG-ABMI-1389-22,ABMI Ecosystem Health 2015,No
+OG-ABMI-1412-21,ABMI Ecosystem Health 2015,No
+OG-ABMI-1412-22,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1413-21,ABMI Ecosystem Health 2015,No
+OG-ABMI-1462-21,ABMI Ecosystem Health 2015,No
+OG-ABMI-1462-22,ABMI Ecosystem Health 2015,No
+OG-ABMI-1464-21,ABMI Ecosystem Health 2015,No
+OG-ABMI-1464-22,ABMI Ecosystem Health 2015,No
+OG-ABMI-1481-21,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1481-22,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1482-21,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1482-22,ABMI Ecosystem Health 2015,No
+OG-ABMI-1567-21,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1567-22,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1567-23,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1567-24,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1634-21,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1634-22,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1634-23,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1641-21,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1642-21,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-1642-22,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-406-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-406-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-406-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-436-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-436-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-436-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-436-54,ABMI Ecosystem Health 2018,No
+OG-ABMI-438-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-438-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-438-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-439-57,ABMI Ecosystem Health 2018,No
+OG-ABMI-439-58,ABMI Ecosystem Health 2018,No
+OG-ABMI-468-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-468-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-468-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-469-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-470-56,ABMI Ecosystem Health 2018,No
+OG-ABMI-477-21-1,ABMI Ecosystem Health 2015,No
+OG-ABMI-477-21-2,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-477-21-4,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-493-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-498-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-499-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-499-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-499-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-499-54,ABMI Ecosystem Health 2018,No
+OG-ABMI-500-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-500-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-500-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-500-54,ABMI Ecosystem Health 2018,No
+OG-ABMI-500-55,ABMI Ecosystem Health 2018,No
+OG-ABMI-500-56,ABMI Ecosystem Health 2018,No
+OG-ABMI-500-57,ABMI Ecosystem Health 2018,No
+OG-ABMI-500-58,ABMI Ecosystem Health 2018,No
+OG-ABMI-500-59,ABMI Ecosystem Health 2018,No
+OG-ABMI-510-21-1,ABMI Ecosystem Health 2015,No
+OG-ABMI-510-21-2,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-510-21-3,ABMI Ecosystem Health 2015,No
+OG-ABMI-510-21-4,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-510-41-1,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-510-41-2,ABMI Ecosystem Health 2017,No
+OG-ABMI-510-41-3,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-510-41-4,ABMI Ecosystem Health 2017,No
+OG-ABMI-521-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-529-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-531-41-1,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-531-41-2,ABMI Ecosystem Health 2017,No
+OG-ABMI-531-41-3,ABMI Ecosystem Health 2017,NA
+OG-ABMI-531-41-4,ABMI Ecosystem Health 2017,No
+OG-ABMI-531-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-531-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-531-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-531-54,ABMI Ecosystem Health 2018,No
+OG-ABMI-555-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-555-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-555-55,ABMI Ecosystem Health 2018,No
+OG-ABMI-555-56,ABMI Ecosystem Health 2018,No
+OG-ABMI-559-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-559-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-560-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-560-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-560-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-560-54,ABMI Ecosystem Health 2018,No
+OG-ABMI-561-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-561-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-561-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-571-21-1,ABMI Ecosystem Health 2015,No
+OG-ABMI-571-21-2,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-571-21-3,ABMI Ecosystem Health 2015,No
+OG-ABMI-571-21-4,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-574-21-1,ABMI Ecosystem Health 2015,No
+OG-ABMI-574-21-2,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-574-21-3,ABMI Ecosystem Health 2015,No
+OG-ABMI-574-21-4,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-583-21-1,ABMI Ecosystem Health 2015,No
+OG-ABMI-583-21-2,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-583-21-3,ABMI Ecosystem Health 2015,No
+OG-ABMI-583-21-4,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-586-41-NE,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-586-41-NW,ABMI Ecosystem Health 2017,No
+OG-ABMI-586-41-SE,ABMI Ecosystem Health 2017,No
+OG-ABMI-586-41-SW,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-602-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-602-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-602-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-616-54,ABMI Ecosystem Health 2018,No
+OG-ABMI-617-41-1,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-617-41-2,ABMI Ecosystem Health 2017,No
+OG-ABMI-617-41-3,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-617-41-4,ABMI Ecosystem Health 2017,No
+OG-ABMI-623-21-1,ABMI Ecosystem Health 2015,No
+OG-ABMI-623-21-2,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-623-21-3,ABMI Ecosystem Health 2015,No
+OG-ABMI-623-21-4,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-626-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-626-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-626-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-629-21-1,ABMI Ecosystem Health 2015,No
+OG-ABMI-629-21-2,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-629-21-3,ABMI Ecosystem Health 2015,No
+OG-ABMI-629-21-4,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-630-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-630-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-630-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-633-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-633-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-634-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-634-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-637-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-637-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-638-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-651-21-1,ABMI Ecosystem Health 2015,No
+OG-ABMI-651-21-2,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-651-21-3,ABMI Ecosystem Health 2015,No
+OG-ABMI-651-21-4,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-651-41-1,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-651-41-2,ABMI Ecosystem Health 2017,No
+OG-ABMI-651-41-3,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-651-41-4,ABMI Ecosystem Health 2017,No
+OG-ABMI-658-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-658-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-658-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-661-41-1,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-661-41-2,ABMI Ecosystem Health 2017,No
+OG-ABMI-661-41-3,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-661-41-3-b,ABMI Ecosystem Health 2017,No
+OG-ABMI-661-41-4,ABMI Ecosystem Health 2017,No
+OG-ABMI-668-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-668-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-669-41-1,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-669-41-2,ABMI Ecosystem Health 2017,No
+OG-ABMI-669-41-3,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-669-41-4,ABMI Ecosystem Health 2017,No
+OG-ABMI-669-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-669-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-669-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-669-54,ABMI Ecosystem Health 2018,No
+OG-ABMI-684-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-684-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-692-41-NE,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-692-41-NW,ABMI Ecosystem Health 2017,No
+OG-ABMI-692-41-SE,ABMI Ecosystem Health 2017,No
+OG-ABMI-692-41-SW,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-693-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-693-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-693-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-696-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-696-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-696-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-697-41-1,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-697-41-2,ABMI Ecosystem Health 2017,No
+OG-ABMI-697-41-3,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-697-41-4,ABMI Ecosystem Health 2017,No
+OG-ABMI-697-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-697-54,ABMI Ecosystem Health 2018,No
+OG-ABMI-697-56,ABMI Ecosystem Health 2018,No
+OG-ABMI-697-57,ABMI Ecosystem Health 2018,No
+OG-ABMI-701-41-1,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-701-41-2,ABMI Ecosystem Health 2017,No
+OG-ABMI-701-41-3,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-701-41-4,ABMI Ecosystem Health 2017,No
+OG-ABMI-702-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-702-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-702-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-721-21-1,ABMI Ecosystem Health 2015,No
+OG-ABMI-721-21-2,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-721-21-3,ABMI Ecosystem Health 2015,No
+OG-ABMI-721-21-4,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-722-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-722-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-723-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-723-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-723-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-724-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-724-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-724-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-744-21-1,ABMI Ecosystem Health 2015,No
+OG-ABMI-744-21-2,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-744-21-3,ABMI Ecosystem Health 2015,No
+OG-ABMI-744-21-4,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-753-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-755-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-755-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-755-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-760-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-760-53,ABMI Ecosystem Health 2018,No
+OG-ABMI-761-56,ABMI Ecosystem Health 2018,No
+OG-ABMI-825-21-1,ABMI Ecosystem Health 2015,No
+OG-ABMI-825-21-2,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-825-21-3,ABMI Ecosystem Health 2015,No
+OG-ABMI-825-21-4,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-825-41-1,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-825-41-2,ABMI Ecosystem Health 2017,No
+OG-ABMI-825-41-3,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-825-41-4,ABMI Ecosystem Health 2017,No
+OG-ABMI-825-42-1,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-825-42-2,ABMI Ecosystem Health 2017,No
+OG-ABMI-825-42-3,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-825-42-4,ABMI Ecosystem Health 2017,No
+OG-ABMI-825-51,ABMI Ecosystem Health 2018,No
+OG-ABMI-825-52,ABMI Ecosystem Health 2018,No
+OG-ABMI-890-41-1,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-890-41-2,ABMI Ecosystem Health 2017,No
+OG-ABMI-890-41-3,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-890-41-4,ABMI Ecosystem Health 2017,No
+OG-ABMI-926-41-1,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-926-41-2,ABMI Ecosystem Health 2017,No
+OG-ABMI-926-41-3,ABMI Ecosystem Health 2017,Yes
+OG-ABMI-926-41-4,ABMI Ecosystem Health 2017,No
+OG-ABMI-927-21-1,ABMI Ecosystem Health 2015,No
+OG-ABMI-927-21-2,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-927-21-3,ABMI Ecosystem Health 2015,No
+OG-ABMI-927-21-4,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-990-21,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-990-22,ABMI Ecosystem Health 2015,Yes
+OG-ABMI-990-23,ABMI Ecosystem Health 2015,No
+OG-ABMI-993-21,ABMI Ecosystem Health 2015,Yes
+OG-CITSCI-1052-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1053-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1054-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1055-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1056-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1157-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1192-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1211-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1241-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1275-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1301-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1301-32,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1302-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1330-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1330-32,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1331-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1331-32,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1333-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1419-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1600-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-1600-32,ABMI Ecosystem Health 2016,No
+OG-CITSCI-921-31,ABMI Ecosystem Health 2016,No
+OG-CITSCI-990-31,ABMI Ecosystem Health 2016,No
+OG-EI-1004-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-1004-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-277-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-277-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-311-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-311-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-340-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-340-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-460-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-460-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-460-42-1,ABMI Ecosystem Health 2017,No
+OG-EI-460-42-2,ABMI Ecosystem Health 2017,No
+OG-EI-490-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-490-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-490-42-1,ABMI Ecosystem Health 2017,No
+OG-EI-490-42-2,ABMI Ecosystem Health 2017,No
+OG-EI-744-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-744-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-745-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-745-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-745-42-1,ABMI Ecosystem Health 2017,No
+OG-EI-745-42-2,ABMI Ecosystem Health 2017,No
+OG-EI-745-43-1,ABMI Ecosystem Health 2017,No
+OG-EI-745-43-2,ABMI Ecosystem Health 2017,No
+OG-EI-746-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-746-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-750-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-750-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-783-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-783-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-815-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-815-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-817-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-817-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-845-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-845-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-877-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-877-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-899-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-899-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-899-42-1,ABMI Ecosystem Health 2017,No
+OG-EI-899-42-2,ABMI Ecosystem Health 2017,No
+OG-EI-899-43-1,ABMI Ecosystem Health 2017,No
+OG-EI-899-43-2,ABMI Ecosystem Health 2017,No
+OG-EI-910-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-910-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-911-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-911-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-939-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-939-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-971-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-971-41-2,ABMI Ecosystem Health 2017,No
+OG-EI-972-41-1,ABMI Ecosystem Health 2017,No
+OG-EI-972-41-2,ABMI Ecosystem Health 2017,No
+OG-OGC-1392-21,ABMI Ecosystem Health 2015,No
+OG-OGC-1412-21,ABMI Ecosystem Health 2015,No
+OG-OGC-1459-21,ABMI Ecosystem Health 2015,No
+OG-OGC-1459-22,ABMI Ecosystem Health 2015,No
+OG-OGC-1499-21,ABMI Ecosystem Health 2015,No
+OG-OGC-1499-22,ABMI Ecosystem Health 2015,No
+OG-OGC-1499-23,ABMI Ecosystem Health 2015,No
+OG-OGC-1502-21,ABMI Ecosystem Health 2015,No
+OG-OGC-1521-21,ABMI Ecosystem Health 2015,No
+OG-OGC-1521-22,ABMI Ecosystem Health 2015,No
+OG-OGC-1521-23,ABMI Ecosystem Health 2015,No
+OG-OGC-1653-21,ABMI Ecosystem Health 2015,No
+OG-RIVR-6-01,ABMI Ecosystem Health 2018,No
+OG-RIVR-6-02,ABMI Ecosystem Health 2018,No
+OG-RIVR-6-03,ABMI Ecosystem Health 2018,No
+OG-RIVR-6-05,ABMI Ecosystem Health 2018,No
+OG-RIVR-6-06,ABMI Ecosystem Health 2018,No
+OG-RIVR-6-08,ABMI Ecosystem Health 2018,No
+OG-RIVR-6-09,ABMI Ecosystem Health 2018,No
+OG-RIVR-6-10,ABMI Ecosystem Health 2018,No
+OG-RIVR-7-01,ABMI Ecosystem Health 2018,No
+OG-RIVR-7-02,ABMI Ecosystem Health 2018,No
+OG-RIVR-7-03,ABMI Ecosystem Health 2018,No
+OG-RIVR-7-04,ABMI Ecosystem Health 2018,No
+OG-RIVR-8-01,ABMI Ecosystem Health 2018,No
+OG-RIVR-8-02,ABMI Ecosystem Health 2018,No
+OG-RIVR-8-03,ABMI Ecosystem Health 2018,No
+OG-RIVR-8-04,ABMI Ecosystem Health 2018,No
+OG-RIVR-9-01,ABMI Ecosystem Health 2018,No
+OG-RIVR-9-02,ABMI Ecosystem Health 2018,No
+OG-RIVR-9-03,ABMI Ecosystem Health 2018,No
+OG-RIVR-9-04,ABMI Ecosystem Health 2018,No
+OG-RIVR-9-05,ABMI Ecosystem Health 2018,No
+OG-RIVR-9-06,ABMI Ecosystem Health 2018,No
+OGW-CITSCI-1468-31,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1498-31,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1505-31,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1542-31,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1544-31,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1552-31,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1556-31,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1573-31,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1573-32,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1573-33,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1583-31,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1584-31,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1615-31,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1630-31,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1632-31,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1632-32,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1633-31,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1633-32,ABMI Ecosystem Health 2016,No
+OGW-CITSCI-1647-31,ABMI Ecosystem Health 2016,No
+409-NE,ABMI Ecosystem Health 2019,Yes
+409-NW,ABMI Ecosystem Health 2019,No
+409-SE,ABMI Ecosystem Health 2019,No
+409-SW,ABMI Ecosystem Health 2019,Yes
+410-NE,ABMI Ecosystem Health 2019,Yes
+410-NW,ABMI Ecosystem Health 2019,No
+410-SE,ABMI Ecosystem Health 2019,No
+410-SW,ABMI Ecosystem Health 2019,Yes
+410-SW_HF2,ABMI Ecosystem Health 2019,Yes
+411-NE,ABMI Ecosystem Health 2019,Yes
+411-NW,ABMI Ecosystem Health 2019,No
+411-SE,ABMI Ecosystem Health 2019,No
+411-SW,ABMI Ecosystem Health 2019,Yes
+439-NE,ABMI Ecosystem Health 2019,Yes
+439-NW,ABMI Ecosystem Health 2019,Yes
+439-SE,ABMI Ecosystem Health 2019,No
+439-SE_CUDDE,ABMI Ecosystem Health 2019,No
+439-SW,ABMI Ecosystem Health 2019,Yes
+440-NE,ABMI Ecosystem Health 2019,Yes
+440-NW,ABMI Ecosystem Health 2019,No
+440-SE,ABMI Ecosystem Health 2019,No
+440-SW,ABMI Ecosystem Health 2019,Yes
+440-SW_HP2X,ABMI Ecosystem Health 2019,Yes
+441-NE,ABMI Ecosystem Health 2019,Yes
+441-NW,ABMI Ecosystem Health 2019,No
+441-SE,ABMI Ecosystem Health 2019,No
+441-SW,ABMI Ecosystem Health 2019,Yes
+469-NE,ABMI Ecosystem Health 2019,Yes
+469-NW,ABMI Ecosystem Health 2019,No
+469-SE,ABMI Ecosystem Health 2019,No
+469-SW,ABMI Ecosystem Health 2019,Yes
+470-NE,ABMI Ecosystem Health 2019,Yes
+470-NW,ABMI Ecosystem Health 2019,No
+470-SE,ABMI Ecosystem Health 2019,No
+470-SW,ABMI Ecosystem Health 2019,Yes
+471-NE,ABMI Ecosystem Health 2019,Yes
+471-NW,ABMI Ecosystem Health 2019,No
+471-SE,ABMI Ecosystem Health 2019,No
+471-SW,ABMI Ecosystem Health 2019,Yes
+494-NE,ABMI Ecosystem Health 2019,Yes
+494-NW,ABMI Ecosystem Health 2019,No
+494-SE,ABMI Ecosystem Health 2019,No
+494-SW,ABMI Ecosystem Health 2019,Yes
+495-NE,ABMI Ecosystem Health 2019,Yes
+495-NW,ABMI Ecosystem Health 2019,No
+495-SE,ABMI Ecosystem Health 2019,No
+495-SW,ABMI Ecosystem Health 2019,Yes
+496-NE,ABMI Ecosystem Health 2019,Yes
+496-NW,ABMI Ecosystem Health 2019,No
+496-SE,ABMI Ecosystem Health 2019,No
+496-SW,ABMI Ecosystem Health 2019,Yes
+509-NE,ABMI Ecosystem Health 2019,Yes
+509-NW,ABMI Ecosystem Health 2019,No
+509-SE,ABMI Ecosystem Health 2019,No
+509-SW,ABMI Ecosystem Health 2019,Yes
+510-NE,ABMI Ecosystem Health 2019,Yes
+510-NW,ABMI Ecosystem Health 2019,No
+510-SE,ABMI Ecosystem Health 2019,No
+510-SW,ABMI Ecosystem Health 2019,Yes
+511-NE,ABMI Ecosystem Health 2019,Yes
+511-SE,ABMI Ecosystem Health 2019,No
+511-SW,ABMI Ecosystem Health 2019,Yes
+511-SW_HF2,ABMI Ecosystem Health 2019,Yes
+526-NE,ABMI Ecosystem Health 2019,Yes
+526-NW,ABMI Ecosystem Health 2019,No
+526-SE,ABMI Ecosystem Health 2019,No
+526-SW,ABMI Ecosystem Health 2019,Yes
+527-NE,ABMI Ecosystem Health 2019,Yes
+527-NW,ABMI Ecosystem Health 2019,No
+527-SE,ABMI Ecosystem Health 2019,No
+527-SW,ABMI Ecosystem Health 2019,Yes
+540-NE,ABMI Ecosystem Health 2019,Yes
+540-NW,ABMI Ecosystem Health 2019,No
+540-SE,ABMI Ecosystem Health 2019,No
+540-SW,ABMI Ecosystem Health 2019,Yes
+541-NE,ABMI Ecosystem Health 2019,Yes
+541-NW,ABMI Ecosystem Health 2019,No
+541-SE,ABMI Ecosystem Health 2019,No
+541-SW,ABMI Ecosystem Health 2019,Yes
+542-NE,ABMI Ecosystem Health 2019,Yes
+542-NE_HF2,ABMI Ecosystem Health 2019,Yes
+542-NW,ABMI Ecosystem Health 2019,No
+542-SE,ABMI Ecosystem Health 2019,No
+542-SW,ABMI Ecosystem Health 2019,Yes
+557-NE,ABMI Ecosystem Health 2019,Yes
+557-NW,ABMI Ecosystem Health 2019,No
+557-SE,ABMI Ecosystem Health 2019,No
+557-SW,ABMI Ecosystem Health 2019,Yes
+571-NE,ABMI Ecosystem Health 2019,Yes
+571-NW,ABMI Ecosystem Health 2019,No
+571-SE,ABMI Ecosystem Health 2019,No
+571-SW,ABMI Ecosystem Health 2019,Yes
+572-NE,ABMI Ecosystem Health 2019,Yes
+572-NW,ABMI Ecosystem Health 2019,No
+572-SE,ABMI Ecosystem Health 2019,No
+572-SW,ABMI Ecosystem Health 2019,Yes
+573-NE,ABMI Ecosystem Health 2019,Yes
+573-NW,ABMI Ecosystem Health 2019,No
+573-SE,ABMI Ecosystem Health 2019,No
+573-SW,ABMI Ecosystem Health 2019,Yes
+629-NE,ABMI Ecosystem Health 2019,Yes
+629-NW,ABMI Ecosystem Health 2019,Yes
+629-SE,ABMI Ecosystem Health 2019,No
+629-SW,ABMI Ecosystem Health 2019,No
+676-NE,ABMI Ecosystem Health 2019,Yes
+676-NW,ABMI Ecosystem Health 2019,No
+676-SE,ABMI Ecosystem Health 2019,No
+676-SW,ABMI Ecosystem Health 2019,Yes
+677-NE,ABMI Ecosystem Health 2019,Yes
+677-NW,ABMI Ecosystem Health 2019,No
+677-SE,ABMI Ecosystem Health 2019,No
+677-SW,ABMI Ecosystem Health 2019,Yes
+678-NE,ABMI Ecosystem Health 2019,Yes
+678-NW,ABMI Ecosystem Health 2019,No
+678-SE,ABMI Ecosystem Health 2019,No
+678-SW,ABMI Ecosystem Health 2019,Yes
+685-NE,ABMI Ecosystem Health 2019,Yes
+685-NW,ABMI Ecosystem Health 2019,No
+685-SE,ABMI Ecosystem Health 2019,No
+685-SW,ABMI Ecosystem Health 2019,Yes
+686-NE,ABMI Ecosystem Health 2019,Yes
+686-NE_HF2,ABMI Ecosystem Health 2019,Yes
+686-SE,ABMI Ecosystem Health 2019,No
+686-SW,ABMI Ecosystem Health 2019,Yes
+687-NE,ABMI Ecosystem Health 2019,Yes
+687-NW,ABMI Ecosystem Health 2019,No
+687-SE,ABMI Ecosystem Health 2019,No
+687-SW,ABMI Ecosystem Health 2019,Yes
+707-NE,ABMI Ecosystem Health 2019,Yes
+707-NW,ABMI Ecosystem Health 2019,No
+707-SE,ABMI Ecosystem Health 2019,No
+707-SW,ABMI Ecosystem Health 2019,Yes
+708-NE,ABMI Ecosystem Health 2019,Yes
+708-NW,ABMI Ecosystem Health 2019,No
+708-SE,ABMI Ecosystem Health 2019,No
+708-SW,ABMI Ecosystem Health 2019,Yes
+709-NE,ABMI Ecosystem Health 2019,Yes
+709-NW,ABMI Ecosystem Health 2019,No
+709-SE,ABMI Ecosystem Health 2019,No
+709-SW,ABMI Ecosystem Health 2019,Yes
+716-NE,ABMI Ecosystem Health 2019,Yes
+716-NW,ABMI Ecosystem Health 2019,No
+716-SE,ABMI Ecosystem Health 2019,No
+716-SW,ABMI Ecosystem Health 2019,Yes
+717-NE,ABMI Ecosystem Health 2019,Yes
+717-NW,ABMI Ecosystem Health 2019,No
+717-SE,ABMI Ecosystem Health 2019,No
+717-SW,ABMI Ecosystem Health 2019,Yes
+718-NE,ABMI Ecosystem Health 2019,Yes
+718-NW,ABMI Ecosystem Health 2019,No
+718-SE,ABMI Ecosystem Health 2019,No
+718-SW,ABMI Ecosystem Health 2019,Yes
+738-NE,ABMI Ecosystem Health 2019,Yes
+738-NW,ABMI Ecosystem Health 2019,No
+738-SE,ABMI Ecosystem Health 2019,No
+738-SW,ABMI Ecosystem Health 2019,Yes
+739-NE,ABMI Ecosystem Health 2019,Yes
+739-NW,ABMI Ecosystem Health 2019,No
+739-SE,ABMI Ecosystem Health 2019,No
+739-SW,ABMI Ecosystem Health 2019,Yes
+739-SW_HF2,ABMI Ecosystem Health 2019,Yes
+740-NE,ABMI Ecosystem Health 2019,Yes
+740-NW,ABMI Ecosystem Health 2019,No
+740-SE,ABMI Ecosystem Health 2019,No
+740-SW,ABMI Ecosystem Health 2019,Yes
+747-NE,ABMI Ecosystem Health 2019,Yes
+747-NW,ABMI Ecosystem Health 2019,No
+747-SE,ABMI Ecosystem Health 2019,No
+747-SW,ABMI Ecosystem Health 2019,Yes
+748-NE,ABMI Ecosystem Health 2019,Yes
+748-NW,ABMI Ecosystem Health 2019,No
+748-SE,ABMI Ecosystem Health 2019,No
+748-SW,ABMI Ecosystem Health 2019,Yes
+788-NE,ABMI Ecosystem Health 2019,Yes
+788-NW,ABMI Ecosystem Health 2019,No
+788-NW_HF2,ABMI Ecosystem Health 2019,No
+788-SE,ABMI Ecosystem Health 2019,No
+788-SW,ABMI Ecosystem Health 2019,Yes
+789-NE,ABMI Ecosystem Health 2019,Yes
+789-NW,ABMI Ecosystem Health 2019,No
+789-SE,ABMI Ecosystem Health 2019,No
+789-SW,ABMI Ecosystem Health 2019,Yes
+790-NE,ABMI Ecosystem Health 2019,Yes
+790-NW,ABMI Ecosystem Health 2019,No
+790-SE,ABMI Ecosystem Health 2019,No
+790-SW,ABMI Ecosystem Health 2019,Yes
+820-NE,ABMI Ecosystem Health 2019,Yes
+820-NE_CUDDE,ABMI Ecosystem Health 2019,Yes
+820-NW,ABMI Ecosystem Health 2019,No
+820-SE,ABMI Ecosystem Health 2019,No
+820-SW,ABMI Ecosystem Health 2019,Yes
+821-NE,ABMI Ecosystem Health 2019,Yes
+821-NW,ABMI Ecosystem Health 2019,No
+821-SE,ABMI Ecosystem Health 2019,No
+821-SW,ABMI Ecosystem Health 2019,Yes
+822-NE,ABMI Ecosystem Health 2019,Yes
+822-NW,ABMI Ecosystem Health 2019,No
+822-NW_HF2,ABMI Ecosystem Health 2019,No
+822-SE,ABMI Ecosystem Health 2019,No
+822-SW,ABMI Ecosystem Health 2019,Yes
+852-NE,ABMI Ecosystem Health 2019,Yes
+852-NW,ABMI Ecosystem Health 2019,No
+852-SE,ABMI Ecosystem Health 2019,No
+852-SW,ABMI Ecosystem Health 2019,No
+853-NE,ABMI Ecosystem Health 2019,Yes
+853-NW,ABMI Ecosystem Health 2019,No
+853-SE,ABMI Ecosystem Health 2019,No
+853-SW,ABMI Ecosystem Health 2019,Yes
+854-NE,ABMI Ecosystem Health 2019,Yes
+854-NW,ABMI Ecosystem Health 2019,No
+854-SE,ABMI Ecosystem Health 2019,No
+854-SW,ABMI Ecosystem Health 2019,Yes
+863-NE,ABMI Ecosystem Health 2019,Yes
+863-NW,ABMI Ecosystem Health 2019,No
+863-SE,ABMI Ecosystem Health 2019,No
+863-SW,ABMI Ecosystem Health 2019,Yes
+863-SW_HF2,ABMI Ecosystem Health 2019,Yes
+864-NE,ABMI Ecosystem Health 2019,Yes
+864-NW,ABMI Ecosystem Health 2019,No
+864-SE,ABMI Ecosystem Health 2019,No
+864-SW,ABMI Ecosystem Health 2019,Yes
+865-NE,ABMI Ecosystem Health 2019,Yes
+865-NW,ABMI Ecosystem Health 2019,Yes
+865-SE,ABMI Ecosystem Health 2019,No
+865-SW,ABMI Ecosystem Health 2019,No
+878-NE,ABMI Ecosystem Health 2019,Yes
+878-NW,ABMI Ecosystem Health 2019,No
+878-SE,ABMI Ecosystem Health 2019,No
+878-SW,ABMI Ecosystem Health 2019,Yes
+879-NE,ABMI Ecosystem Health 2019,Yes
+879-NW,ABMI Ecosystem Health 2019,No
+879-SE,ABMI Ecosystem Health 2019,No
+879-SW,ABMI Ecosystem Health 2019,Yes
+880-NE,ABMI Ecosystem Health 2019,Yes
+880-NW,ABMI Ecosystem Health 2019,No
+880-SE,ABMI Ecosystem Health 2019,No
+880-SW,ABMI Ecosystem Health 2019,Yes
+896-NE,ABMI Ecosystem Health 2019,Yes
+896-NW,ABMI Ecosystem Health 2019,No
+896-SE,ABMI Ecosystem Health 2019,No
+896-SW,ABMI Ecosystem Health 2019,Yes
+896-SW_HF2,ABMI Ecosystem Health 2019,Yes
+897-NE,ABMI Ecosystem Health 2019,Yes
+897-NE_CUDDE,ABMI Ecosystem Health 2019,Yes
+897-NW,ABMI Ecosystem Health 2019,No
+897-SE,ABMI Ecosystem Health 2019,No
+897-SW,ABMI Ecosystem Health 2019,Yes
+898-NE,ABMI Ecosystem Health 2019,Yes
+898-NW,ABMI Ecosystem Health 2019,No
+898-SE,ABMI Ecosystem Health 2019,No
+898-SW,ABMI Ecosystem Health 2019,Yes
+911-NE,ABMI Ecosystem Health 2019,Yes
+911-NW,ABMI Ecosystem Health 2019,No
+911-SE,ABMI Ecosystem Health 2019,No
+911-SW,ABMI Ecosystem Health 2019,Yes
+912-NE,ABMI Ecosystem Health 2019,Yes
+912-NW,ABMI Ecosystem Health 2019,No
+912-SE,ABMI Ecosystem Health 2019,No
+912-SW,ABMI Ecosystem Health 2019,Yes
+913-NE,ABMI Ecosystem Health 2019,Yes
+913-NW,ABMI Ecosystem Health 2019,No
+913-SE,ABMI Ecosystem Health 2019,No
+913-SW,ABMI Ecosystem Health 2019,Yes
+929-NE,ABMI Ecosystem Health 2019,Yes
+929-NW,ABMI Ecosystem Health 2019,No
+929-SE,ABMI Ecosystem Health 2019,No
+929-SW,ABMI Ecosystem Health 2019,Yes
+930-NE,ABMI Ecosystem Health 2019,Yes
+930-NW,ABMI Ecosystem Health 2019,No
+930-SE,ABMI Ecosystem Health 2019,No
+930-SW,ABMI Ecosystem Health 2019,Yes
+931-NE,ABMI Ecosystem Health 2019,Yes
+931-NW,ABMI Ecosystem Health 2019,No
+931-SE,ABMI Ecosystem Health 2019,No
+931-SW,ABMI Ecosystem Health 2019,Yes
+944-NE,ABMI Ecosystem Health 2019,Yes
+944-NW,ABMI Ecosystem Health 2019,No
+944-SE,ABMI Ecosystem Health 2019,No
+944-SW,ABMI Ecosystem Health 2019,Yes
+945-NE,ABMI Ecosystem Health 2019,Yes
+945-NW,ABMI Ecosystem Health 2019,No
+945-SE,ABMI Ecosystem Health 2019,No
+945-SW,ABMI Ecosystem Health 2019,Yes
+946-NE,ABMI Ecosystem Health 2019,Yes
+946-NW,ABMI Ecosystem Health 2019,No
+946-SE,ABMI Ecosystem Health 2019,No
+946-SW,ABMI Ecosystem Health 2019,Yes
+1095-NE,ABMI Ecosystem Health 2019,Yes
+1095-NW,ABMI Ecosystem Health 2019,No
+1095-SW,ABMI Ecosystem Health 2019,Yes
+1128-NE,ABMI Ecosystem Health 2019,Yes
+1128-NW,ABMI Ecosystem Health 2019,No
+1128-SE,ABMI Ecosystem Health 2019,No
+1128-SW,ABMI Ecosystem Health 2019,Yes
+1160-NE,ABMI Ecosystem Health 2019,Yes
+1160-NW,ABMI Ecosystem Health 2019,No
+1160-SE,ABMI Ecosystem Health 2019,No
+1160-SW,ABMI Ecosystem Health 2019,Yes
+1172-NE,ABMI Ecosystem Health 2019,Yes
+1172-NW,ABMI Ecosystem Health 2019,No
+1172-SE,ABMI Ecosystem Health 2019,No
+1172-SW,ABMI Ecosystem Health 2019,Yes
+1173-NE,ABMI Ecosystem Health 2019,Yes
+1173-NW,ABMI Ecosystem Health 2019,No
+1173-SE,ABMI Ecosystem Health 2019,No
+1173-SW,ABMI Ecosystem Health 2019,Yes
+1174-NE,ABMI Ecosystem Health 2019,Yes
+1174-NW,ABMI Ecosystem Health 2019,No
+1174-SE,ABMI Ecosystem Health 2019,No
+1174-SW,ABMI Ecosystem Health 2019,Yes
+1204-NE,ABMI Ecosystem Health 2019,Yes
+1204-NW,ABMI Ecosystem Health 2019,No
+1204-SE,ABMI Ecosystem Health 2019,No
+1204-SW,ABMI Ecosystem Health 2019,Yes
+1205-NE,ABMI Ecosystem Health 2019,Yes
+1205-NW,ABMI Ecosystem Health 2019,No
+1205-SE,ABMI Ecosystem Health 2019,No
+1205-SW,ABMI Ecosystem Health 2019,Yes
+1206-NE,ABMI Ecosystem Health 2019,Yes
+1206-NW,ABMI Ecosystem Health 2019,No
+1206-SE,ABMI Ecosystem Health 2019,No
+1206-SW,ABMI Ecosystem Health 2019,Yes
+1234-NE,ABMI Ecosystem Health 2019,Yes
+1234-NW,ABMI Ecosystem Health 2019,No
+1234-SE,ABMI Ecosystem Health 2019,No
+1234-SW,ABMI Ecosystem Health 2019,Yes
+1235-NE,ABMI Ecosystem Health 2019,No
+1235-NW,ABMI Ecosystem Health 2019,No
+1235-SE,ABMI Ecosystem Health 2019,No
+1235-SW,ABMI Ecosystem Health 2019,Yes
+1236-NE,ABMI Ecosystem Health 2019,Yes
+1236-NW,ABMI Ecosystem Health 2019,No
+1236-SE,ABMI Ecosystem Health 2019,No
+1236-SW,ABMI Ecosystem Health 2019,Yes
+1272-NE,ABMI Ecosystem Health 2019,No
+1272-NW,ABMI Ecosystem Health 2019,No
+1272-SE,ABMI Ecosystem Health 2019,No
+1272-SW,ABMI Ecosystem Health 2019,Yes
+1273-NE,ABMI Ecosystem Health 2019,No
+1273-NW,ABMI Ecosystem Health 2019,No
+1273-SE,ABMI Ecosystem Health 2019,Yes
+1273-SW,ABMI Ecosystem Health 2019,No
+1274-NE,ABMI Ecosystem Health 2019,Yes
+1274-NW,ABMI Ecosystem Health 2019,No
+1274-SE,ABMI Ecosystem Health 2019,No
+1274-SW,ABMI Ecosystem Health 2019,Yes
+1300-NE,ABMI Ecosystem Health 2019,No
+1300-NW,ABMI Ecosystem Health 2019,No
+1300-SE,ABMI Ecosystem Health 2019,Yes
+1300-SW,ABMI Ecosystem Health 2019,Yes
+1301-NE,ABMI Ecosystem Health 2019,Yes
+1301-SE,ABMI Ecosystem Health 2019,No
+1301-SW,ABMI Ecosystem Health 2019,No
+1302-NE,ABMI Ecosystem Health 2019,No
+1302-NW,ABMI Ecosystem Health 2019,No
+1302-SE,ABMI Ecosystem Health 2019,Yes
+1302-SW,ABMI Ecosystem Health 2019,Yes
+1329-NE,ABMI Ecosystem Health 2019,Yes
+1329-NW,ABMI Ecosystem Health 2019,No
+1329-SE,ABMI Ecosystem Health 2019,No
+1329-SW,ABMI Ecosystem Health 2019,Yes
+1330-NE,ABMI Ecosystem Health 2019,No
+1330-NW,ABMI Ecosystem Health 2019,Yes
+1330-SE,ABMI Ecosystem Health 2019,No
+1330-SW,ABMI Ecosystem Health 2019,No
+1331-NE,ABMI Ecosystem Health 2019,Yes
+1331-NW,ABMI Ecosystem Health 2019,Yes
+1331-SE,ABMI Ecosystem Health 2019,No
+1331-SW,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-100,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-102,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-105,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-106,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-108,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-109,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-114,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-115,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-12,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-13,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-2,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-23,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-24,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-3,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-33,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-4,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-44,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-45,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-46,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-49,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-54,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-55,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-56,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-57,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-58,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-59,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-60,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-64,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-65,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-66,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-67,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-68,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-69,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-70,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-71,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-72,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-73,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-75,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-76,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-77,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-78,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-80,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-81,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-82,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-83,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-84,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-85,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-86,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-87,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-88,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-89,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-90,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-91,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-92,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-93,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-94,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-95,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-96,ABMI Ecosystem Health 2019,No
+OG-ABMI-638-61-97,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-638-61-98,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-1,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-10,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-100,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-101,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-105,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-106,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-107,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-108,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-109,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-11,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-110,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-112,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-113,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-114,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-115,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-12,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-14,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-15,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-16,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-17,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-18,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-19,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-2,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-20,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-21,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-22,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-23,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-24,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-25,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-26,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-27,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-28,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-29,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-3,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-30,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-31,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-32,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-33,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-34,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-35,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-36,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-37,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-38,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-39,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-4,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-40,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-41,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-42,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-43,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-44,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-45,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-46,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-47,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-48,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-49,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-5,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-50,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-51,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-52,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-53,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-54,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-55,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-56,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-57,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-58,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-59,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-6,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-60,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-61,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-62,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-63,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-64,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-65,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-66,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-67,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-68,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-69,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-7,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-70,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-71,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-72,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-73,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-74,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-75,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-76,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-78,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-79,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-80,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-82,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-83,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-84,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-85,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-86,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-87,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-88,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-89,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-9,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-90,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-91,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-92,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-93,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-94,ABMI Ecosystem Health 2019,Yes
+OG-ABMI-701-61-95,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-96,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-97,ABMI Ecosystem Health 2019,No
+OG-ABMI-701-61-99,ABMI Ecosystem Health 2019,No

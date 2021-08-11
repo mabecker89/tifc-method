@@ -1,0 +1,17 @@
+Species,veghf,mean,lci,uci,analysis
+Moose,All,0.51,0.46,0.55,invest
+Moose,Conif,0.48,0.35,0.62,invest
+Moose,Decid,0.34,0.25,0.43,invest
+Moose,Grass,0.71,0.51,0.85,invest
+Moose,HF,0.51,0.35,0.66,invest
+Moose,Shrub,0.57,0.45,0.68,invest
+Moose,WetOpen,0.59,0.4,0.76,invest
+Moose,WetTreed,0.63,0.51,0.74,invest
+Moose,All,0.67,0.62,0.71,investassociate
+Moose,Conif,0.58,0.45,0.71,investassociate
+Moose,Decid,0.47,0.38,0.56,investassociate
+Moose,Grass,0.83,0.64,0.93,investassociate
+Moose,HF,0.56,0.4,0.71,investassociate
+Moose,Shrub,0.86,0.75,0.92,investassociate
+Moose,WetOpen,0.79,0.59,0.91,investassociate
+Moose,WetTreed,0.81,0.7,0.89,investassociate
