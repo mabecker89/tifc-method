@@ -1,7 +1,7 @@
 
 # Estimating animal density using TIFC (Time In Front of Camera)
 
-> This repository hosts data, code, and analyses associated with the
+> This repository hosts data, code, and figures associated with the
 > manuscript *Applying and testing a novel method to estimate animal
 > density from motion-triggered cameras* (Becker et al.)
 
@@ -18,6 +18,9 @@ This repository is organized in the following way:
   - Application model results and figures are stored in the `results`
     folder.
 
+Users are welcome to clone the repository and explore the data and code
+contained here.
+
 ### Using the code
 
 Within the `R` folder are the following subfolders:
@@ -26,7 +29,7 @@ Within the `R` folder are the following subfolders:
     to estimate density at individual cameras using the TIFC method. It
     is recommended to proceed through the scripts in the order indicated
     (e.g. beginning with `01_probabilistic-gaps.R`). These scripts carry
-    out the probabilistic leaving modeling, estimating of effective
+    out the probabilistic leaving modeling, estimation of effective
     detection distance, calculation of total time in front of the
     camera, etc.
   - `assumptions` - This folder contains three scripts corresponding to

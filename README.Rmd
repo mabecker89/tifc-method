@@ -12,7 +12,7 @@ opts_chunk$set(include=TRUE, echo=TRUE, message=FALSE, warning=FALSE, eval=TRUE,
 
 # Estimating animal density using TIFC (Time In Front of Camera)
 
-> This repository hosts data, code, and analyses associated with the manuscript *Applying and testing a novel method to estimate animal density from motion-triggered cameras* (Becker et al.)
+> This repository hosts data, code, and figures associated with the manuscript *Applying and testing a novel method to estimate animal density from motion-triggered cameras* (Becker et al.)
 
 ## Repository Organization
 
@@ -22,11 +22,13 @@ This repository is organized in the following way:
   + Code can be found in the `R` folder, which can be used to replicate various analyses described in the manuscript.
   + Application model results and figures are stored in the `results` folder.
   
+Users are welcome to clone the repository and explore the data and code contained here. 
+  
 ### Using the code
 
 Within the `R` folder are the following subfolders:
 
-  + `base` - This folder contains six numbered scripts that can be used to estimate density at individual cameras using the TIFC method. It is recommended to proceed through the scripts in the order indicated (e.g. beginning with `01_probabilistic-gaps.R`). These scripts carry out the probabilistic leaving modeling, estimating of effective detection distance, calculation of total time in front of the camera, etc. 
+  + `base` - This folder contains six numbered scripts that can be used to estimate density at individual cameras using the TIFC method. It is recommended to proceed through the scripts in the order indicated (e.g. beginning with `01_probabilistic-gaps.R`). These scripts carry out the probabilistic leaving modeling, estimation of effective detection distance, calculation of total time in front of the camera, etc. 
   + `assumptions` - This folder contains three scripts corresponding to each of the assumption testing analyses described in the manuscript (microhabitat, animal behaviour, perfect detection).
   + `application` - This folder contains the code associated with the Wildlife Management Unit (WMU) aerial survey / camera comparison.
   + `figures` - Code to reproduce each of the figures from the manuscript is located here.
